@@ -6,11 +6,11 @@ layout: page
 
 <img src="https://junexqu.github.io/junxi/junxi.jpg" class="floatpic" width="360" height="480">
 
-Here is **JUnxi Qu (Junex, 曲峻熙)**.
+Here is **Junxi Qu (Junex, 曲峻熙)**.
 
 I'm a PhD candidate majoring in **DUPAD** at the University of Hong Kong, advised by [Prof. Tianren Yang](https://scholar.google.com.hk/citations?hl=zh-CN&user=uAMK7LcAAAAJ).
 
-If your are interested in any aspect of me, I would love to chat and collaborate, please email me at - *qujunxi[@]connect[dot].hku[dot].hk*
+If your are interested in any aspect of me, I would love to chat and collaborate, please email me at - *qujunxi@connect.hku.hk*
 
 ## Academic Background
 
