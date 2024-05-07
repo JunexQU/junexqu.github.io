@@ -22,6 +22,12 @@ links:
     url: /
   - title: Publications
     url: /publications/
+  - title: Awards
+    url: /awards/
+  - title: DataSet
+    url: /datasets/
+  - title: Blogs
+    url: /blogs/
   
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone: China/Beijing
