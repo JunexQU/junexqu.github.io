@@ -4,4 +4,6 @@ permalink: /blogs/index.html
 title: Blogs
 ---
 
-## Academic
+## Literature Review
+
+- [How transit scaling shapes cities](blogs/0507.md)
