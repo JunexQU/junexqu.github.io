@@ -13,4 +13,11 @@ title: DataSets
     - Gaode POI
 - [Dianping 2022 (大众点评)](https://pan.baidu.com/s/1Sm-Wpi4kUBJvxAi1oVVsPQ)
     - m.dianping.com
-## Socioeconomic
+ 
+## Environment
+- [GHG emission (EDGAR)](https://edgar.jrc.ec.europa.eu/emissions_data_and_maps):
+    - 0.1 deg * 0.1 deg
+    - Sector
+- [Carbon esmission (ODIAC)](https://db.cger.nies.go.jp/dataset/ODIAC/DL_odiac2022.html)
+    - 1km * 1 km
+    - Monthly
