@@ -53,4 +53,4 @@ title: Weiss el al
 
     - [Code](https://www.map.ox.ac.uk/accessibility_to_cities/)
     - [Result 1](http://roadlessforest.eu/map.html)
-    - [Result 2](https://www.map.ox.ac.uk/ accessibility_to_cities/)
+    - [Result 2](https://www.map.ox.ac.uk/accessibility_to_cities/)
