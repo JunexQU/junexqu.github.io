@@ -20,12 +20,18 @@ If your are interested in any aspect of me, I would love to chat and collaborate
 
 ---
 
+## Employment
+
+- **Dec 2019 - Oct 2021:** Policy Analyst, Peking University-Lincoln Institute Center for Urban Development and Land Policy
+- **Nov 2021 - Aug 2022:** Research Assistant, Department of Urban Planning and Design, HKU
+
+---
+
 ## Research Interests
 
 - Integrated urban modeling
 - Network modeling
 - Sustainable development goals
-- Transport infrastructure
 
 My current research focuses on the relationship between tranport infrastructure and urban performance, highlighting the sustainable development. 
 
