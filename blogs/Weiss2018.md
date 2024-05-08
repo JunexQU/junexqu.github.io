@@ -36,16 +36,21 @@ title: Weiss el al
     
 5. **Findings:**
     - Highly accessible areas include those with abundant transport infrastructure and/or many spatially disaggregated cities
+  
 <center>
 <img src="/blogs/review.assets/GlobalTravelTime_2015.png">
 </center>
+
     - 80.7% of people reside within one hour of cities, but accessibility is not qually distributed across the development spectrum. The disparity is evident when comparing accessibility for income groups (World Bank)
-<center>
+
+<center>   
 <img src="/blogs/review.assets/GlobalTravelTime_2015(region and income).png">
 </center>
+
     - Association with education and treatment fever among children under five
 
-1. **Coding:**
+6. **Coding Reference:**
+
     - [Code](https://www.map.ox.ac.uk/accessibility_to_cities/)
     - [Result 1](http://roadlessforest.eu/map.html)
     - [Result 2](https://www.map.ox.ac.uk/ accessibility_to_cities/)
