@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="https://junexqu.github.io/junxi/junxi.jpg" class="floatpic" width="360" height="480">
+<img src="https://junexqu.github.io/junxi.jpg" class="floatpic" width="360" height="480">
 
 Here is **Junxi Qu (Junex, 曲峻熙)**.
 
