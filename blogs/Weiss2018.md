@@ -6,15 +6,15 @@ title: Weiss el al
 
 ## Weiss, D., Nelson, A., Gibson, H. et al. A global map of travel time to cities to assess inequalities in accessibility in 2015. Nature 553, 333–336 (2018). https://doi.org/10.1038/nature25181
 
-**Objective:**
+### **Objective:**
 - Provide an a fine-grained quantification of accessibility worldwide
 - Narrow gaps in oppotunity by improving accessibility for remote populations and/or reducing disparities between populations with differing degrees of connectivity to cities
 
-**Case:**
+### **Case:**
 - 13,840 global cities
 - 1 km * 1 km
 
-**Methodology:**
+### **Methodology:**
 - travel time to the nearest city: least-cost-path
 - Road and railroad speed: OSM
 - River: CIA world data bank 2 vector rivers dataset
@@ -26,7 +26,7 @@ title: Weiss el al
 - R2: 0.66
 - Mean absolute error: 20.7 min
 
-**Data Source: Open**
+### **Data Source: Open**
 - Open Street Map: (Roads, railroads, rivers, bodies of water, topographical conditions, land cover, national borders (GAUL))
 - Google roads database
 - Global Human Settlement Grid of high-density land cover (represent cities)
@@ -34,7 +34,7 @@ title: Weiss el al
 - Inland water bodies: global surface-water occurrence dataset
 - Centres: contiguous cells with a density of at least 1,500 inhavitants, or a density of built-up greater than 50% and a minimum of 50,000 inhabitants
     
-**Findings:**
+### **Findings:**
 - Highly accessible areas include those with abundant transport infrastructure and/or many spatially disaggregated cities
   
 <center>
@@ -49,7 +49,7 @@ title: Weiss el al
 
 - Association with education and treatment fever among children under five
 
-**Coding Reference:**
+### **Coding Reference:**
 
 - [Code](https://www.map.ox.ac.uk/accessibility_to_cities/)
 - [Result 1](http://roadlessforest.eu/map.html)
