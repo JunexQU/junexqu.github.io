@@ -15,12 +15,17 @@ title: DataSets
     - m.dianping.com
  
 ## Environment
-- [GHG emission (EDGAR)](https://edgar.jrc.ec.europa.eu/emissions_data_and_maps):
+- [Global GHG emission (EDGAR)](https://edgar.jrc.ec.europa.eu/emissions_data_and_maps):
     - 0.1 deg * 0.1 deg
     - Sector
-- [Carbon esmission (ODIAC)](https://db.cger.nies.go.jp/dataset/ODIAC/DL_odiac2022.html)
+- [Global carbon esmission (ODIAC)](https://db.cger.nies.go.jp/dataset/ODIAC/DL_odiac2022.html)
     - 1km * 1 km
     - Monthly
-- [Energy consumption (Hou et al.)](https://figshare.com/articles/dataset/Global_1_km_1_km_gridded_revised_real_gross_domestic_product_and_electricity_consumption_during_1992-2019_based_on_calibrated_nighttime_light_data/17004523/1)
+- [Global energy consumption (Hou et al.)](https://figshare.com/articles/dataset/Global_1_km_1_km_gridded_revised_real_gross_domestic_product_and_electricity_consumption_during_1992-2019_based_on_calibrated_nighttime_light_data/17004523/1)
+    - 1 km * 1 km
+    - (https://doi.org/10.1038/s41597-022-01322-5)
+ 
+## Socioeconomic
+- - [Global real GDP (Hou et al.)](https://figshare.com/articles/dataset/Global_1_km_1_km_gridded_revised_real_gross_domestic_product_and_electricity_consumption_during_1992-2019_based_on_calibrated_nighttime_light_data/17004523/1)
     - 1 km * 1 km
     - (https://doi.org/10.1038/s41597-022-01322-5)
