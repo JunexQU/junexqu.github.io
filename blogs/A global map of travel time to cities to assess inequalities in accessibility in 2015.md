@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /blogs/0507/index.html
+permalink: /blogs/A global map of travel time to cities to assess inequalities in accessibility in 2015/index.html
 title: Weiss el al
 ---
 
