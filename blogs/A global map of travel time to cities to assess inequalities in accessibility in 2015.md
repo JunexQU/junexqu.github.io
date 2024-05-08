@@ -5,6 +5,7 @@ title: Weiss el al
 ---
 
 ## Weiss, D., Nelson, A., Gibson, H. et al. A global map of travel time to cities to assess inequalities in accessibility in 2015. Nature 553, 333–336 (2018). https://doi.org/10.1038/nature25181
+
 1. **Objective:**
     - Provide an a fine-grained quantification of accessibility worldwide
     - Narrow gaps in oppotunity by improving accessibility for remote populations and/or reducing disparities between populations with differing degrees of connectivity to cities
