@@ -4,7 +4,7 @@ permalink: /blogs/Weiss, D., Nelson, A., Gibson, H. et al. A global map of trave
 title: Weiss, D., Nelson, A., Gibson, H. et al. A global map of travel time to cities to assess inequalities in accessibility in 2015. Nature 553, 333–336 (2018)
 ---
 
-## Weiss, D., Nelson, A., Gibson, H. et al. A global map of travel time to cities to assess inequalities in accessibility in 2015. Nature 553, 333–336 (2018). https://doi.org/10.1038/nature25181
+## [Weiss, D., Nelson, A., Gibson, H. et al. A global map of travel time to cities to assess inequalities in accessibility in 2015. Nature 553, 333–336 (2018).](https://doi.org/10.1038/nature25181)
 
 ### **Objective:**
 - Provide an a fine-grained quantification of accessibility worldwide
