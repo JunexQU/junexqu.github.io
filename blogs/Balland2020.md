@@ -4,7 +4,7 @@ permalink: /blogs/Fu, X., Cheng, J., Peng, L. et al. Co-benefits of transport de
 title: Fu, X., Cheng, J., Peng, L. et al. Co-benefits of transport demand reductions from compact urban development in Chinese cities. Nat Sustain 7, 294–304 (2024).
 ---
 
-## Fu, X., Cheng, J., Peng, L. et al. Co-benefits of transport demand reductions from compact urban development in Chinese cities. Nat Sustain 7, 294–304 (2024). https://doi.org/10.1038/s41893-024-01271-4
+## [Fu, X., Cheng, J., Peng, L. et al. Co-benefits of transport demand reductions from compact urban development in Chinese cities. Nat Sustain 7, 294–304 (2024).](https://doi.org/10.1038/s41893-024-01271-4)
 
 ### **Objective:**
 - An integrated approach and provide presumably the first attempt to investigate the implications of CUD for carbon emissions, energy use, air quality, and human health
