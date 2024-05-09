@@ -18,8 +18,8 @@ title: logreg
 - Interprete the coefficients:
   - $\frac{\delta Y}{Y} = {\beta}_1  \frac{\delta X}{X}$
   - The term on the right-hand side is the percentage change in $X$; and the term on the left-hand side is the percentage change in Y, so
-  - ${\beta}_1 measures the elasticity$
-  - 
+  - ${\beta}_1$  measures the elasticity
+
 <center>
 <img src="/blogs/review.assets/logreg.png">
 </center>
