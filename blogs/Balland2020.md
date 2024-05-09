@@ -1,56 +1,70 @@
 ---
 layout: page
-permalink: /blogs/Balland, PA., Jara-Figueroa, C., Petralia, S.G. et al. Complex economic activities concentrate in large cities. Nat Hum Behav 4, 248–254 (2020)/index.html
-title: Balland, PA., Jara-Figueroa, C., Petralia, S.G. et al. Complex economic activities concentrate in large cities. Nat Hum Behav 4, 248–254 (2020).
+permalink: /blogs/Fu, X., Cheng, J., Peng, L. et al. Co-benefits of transport demand reductions from compact urban development in Chinese cities./index.html
+title: Fu, X., Cheng, J., Peng, L. et al. Co-benefits of transport demand reductions from compact urban development in Chinese cities. Nat Sustain 7, 294–304 (2024).
 ---
 
-## Weiss, D., Nelson, A., Gibson, H. et al. A global map of travel time to cities to assess inequalities in accessibility in 2015. Nature 553, 333–336 (2018). https://doi.org/10.1038/nature25181
+## Fu, X., Cheng, J., Peng, L. et al. Co-benefits of transport demand reductions from compact urban development in Chinese cities. Nat Sustain 7, 294–304 (2024). https://doi.org/10.1038/s41893-024-01271-4
 
 ### **Objective:**
-- Provide an a fine-grained quantification of accessibility worldwide
-- Narrow gaps in oppotunity by improving accessibility for remote populations and/or reducing disparities between populations with differing degrees of connectivity to cities
+- An integrated approach and provide presumably the first attempt to investigate the implications of CUD for carbon emissions, energy use, air quality, and human health
 
 ### **Case:**
-- 13,840 global cities
-- 1 km * 1 km
+- China
 
 ### **Methodology:**
-- travel time to the nearest city: least-cost-path
-- Road and railroad speed: OSM
-- River: CIA world data bank 2 vector rivers dataset
-- Automotic identification system and the Voluntary Observing Ship
-- Walking: survey
-- Speed is adjusted with slope
-- Google Earth Engine
-- Validation:
-- R2: 0.66
-- Mean absolute error: 20.7 min
+- Regression
+- Dynamic projection model for emissions in China
+  - GCAM-China: energy
+  - MEIC: emissions
+- Avoided premature mortality: $Mort_{i,j,k} = Pop_{j,k} \cdot Base_j \cdot (\frac{1}{RR_j(C_{i,k})}-\frac{1}{RR_j(C_{Base,k})})$
+  - Where j is age group, k is grid box, RR is therelative rist of air-pollution-induced premature death, with air pollutant concentrations C, i is the policy scenario+
+- GEMM: $RR(c)= e^{\frac{\theta+log(c/a+1)}{1+e^{-(c-\mu)/v}}}$  
+  - Where c is annual average ambient PM2.5 concentration; e is Euler's number; other coefficients are parameters of the shape of RR curves
+- Social cost carbon: $M_c = SCC * E_c$
+- Value of statistical life: $M_a = VSL * Mort$
+- Energy saving
+
+<center>
+<img src="/blogs/review.assets/Fu202403.png">
+</center>
 
 ### **Data Source: Open**
-- Open Street Map: (Roads, railroads, rivers, bodies of water, topographical conditions, land cover, national borders (GAUL))
-- Google roads database
-- Global Human Settlement Grid of high-density land cover (represent cities)
-- Demographi and Health Survey: 52 countries
-- Inland water bodies: global surface-water occurrence dataset
-- Centres: contiguous cells with a density of at least 1,500 inhavitants, or a density of built-up greater than 50% and a minimum of 50,000 inhabitants
+- [DPEC emission](http://meicmodel.org.cn/?page_id=1917)
+- [WRF-chem outputs: princeton archive](http://arks.princeton.edu/ark:/88435/dsp01m039k822h)
+- [Emission database](https://aims2.llnl.gov/search/input4mips/)
+- [ECLIPSE emission](https://previous.iiasa.ac.at/web/home/research/researchPrograms/air/Global_emissions.html)
+- [Global burden of disease database](https://ghdx.healthdata.org/)
+- [SSP](https://tntcat.iiasa.ac.at/SspDb/dsd?Action=htmlpage&page=10)
+- [Technology](https://atb.nrel.gov/electricity/2021/index)
     
 ### **Findings:**
-- Highly accessible areas include those with abundant transport infrastructure and/or many spatially disaggregated cities
+
+- In the baseline scenario, transport remains a major emission source and contributes 13%, 25% and 15% of total CO2, NOx and CO in 2050 (38% higher than 2017)
+- CUD policy provides co-benefits for climate, energy, air quality and health
   
 <center>
-<img src="/blogs/review.assets/GlobalTravelTime_2015.png">
+<img src="/blogs/review.assets/Fu202401.png">
 </center>
 
-- 80.7% of people reside within one hour of cities, but accessibility is not qually distributed across the development spectrum. The disparity is evident when comparing accessibility for income groups (World Bank)
+- Through reviewing the 5D's framework, negative impacts on private passenger vehicle use can be observed
+- Transport emission reductions mainly occur in eastern urban areas.
+- CUD policy leads to emission decreases concentrated in cities of all provinces
 
 <center>   
-<img src="/blogs/review.assets/GlobalTravelTime_2015(region and income).png">
+<img src="/blogs/review.assets/Fu202402.png">
 </center>
 
-- Association with education and treatment fever among children under five
+- CUD delivers health co-benefits and avoids 5.8 thousand premature deaths via reductions in non-exhaust vehicle emissions and upstream emissions of air pollutants
+
+<center>   
+<img src="/blogs/review.assets/Fu202404.png">
+</center>
+
+<center>   
+<img src="/blogs/review.assets/Fu202405.png">
+</center>
 
 ### **Coding Reference:**
 
-- [Code](https://www.map.ox.ac.uk/accessibility_to_cities/)
-- [Result 1](http://roadlessforest.eu/map.html)
-- [Result 2](https://www.map.ox.ac.uk/accessibility_to_cities/)
+- [Code (2014)](https://github.com/wrf-model/WRF/releases/tag/V3.6.1)
