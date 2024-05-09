@@ -16,4 +16,4 @@ title: Blogs
 
 ## Research Method
 
-- [Whay is a log regression](blogs/logRegression.md)
+- [What is a log regression](blogs/logRegression.md)
