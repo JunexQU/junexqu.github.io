@@ -1,9 +1,10 @@
+usemathjax: true
+
 ---
 layout: page
 permalink: /blogs/logreg/index.html
 title: logreg
 ---
-usemathjax: true
 
 ## Understanding log regression
 
