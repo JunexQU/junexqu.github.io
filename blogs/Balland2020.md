@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /blogs/Weiss, D., Nelson, A., Gibson, H. et al. A global map of travel time to cities to assess inequalities in accessibility in 2015. Nature 553, 333–336 (2018)/index.html
-title: Weiss, D., Nelson, A., Gibson, H. et al. A global map of travel time to cities to assess inequalities in accessibility in 2015. Nature 553, 333–336 (2018)
+permalink: /blogs/Balland, PA., Jara-Figueroa, C., Petralia, S.G. et al. Complex economic activities concentrate in large cities. Nat Hum Behav 4, 248–254 (2020)/index.html
+title: Balland, PA., Jara-Figueroa, C., Petralia, S.G. et al. Complex economic activities concentrate in large cities. Nat Hum Behav 4, 248–254 (2020).
 ---
 
 ## Weiss, D., Nelson, A., Gibson, H. et al. A global map of travel time to cities to assess inequalities in accessibility in 2015. Nature 553, 333–336 (2018). https://doi.org/10.1038/nature25181
