@@ -4,8 +4,6 @@ permalink: /blogs/logreg/index.html
 title: logreg
 ---
 
-usemathjax: true
-
 ## Understanding log regression
 
 ### log-log regression
