@@ -13,3 +13,7 @@ title: Blogs
 - [Fu, X., Cheng, J., Peng, L. et al. Co-benefits of transport demand reductions from compact urban development in Chinese cities. Nat Sustain 7, 294–304 (2024)](blogs/Balland2020.md)
   
 - [Sutradhar, U., Spearing, L. & Derrible, S. Depopulation and associated challenges for US cities by 2100. Nat Cities 1, 51–61 (2024). https://doi.org/10.1038/s44284-023-00011-7](blogs/Sutradhar2024.md)
+
+## Research Method
+
+- [Whay is a log regression](blogs/logRegression.md)
