@@ -17,12 +17,16 @@ title: Fu, X., Cheng, J., Peng, L. et al. Co-benefits of transport demand reduct
 - Dynamic projection model for emissions in China
   - GCAM-China: energy
   - MEIC: emissions
-- Avoided premature mortality: $Mort_{i,j,k} = Pop_{j,k} \cdot Base_j \cdot (\frac{1}{RR_j(C_{i,k})}-\frac{1}{RR_j(C_{Base,k})})$
-  - Where j is age group, k is grid box, RR is therelative rist of air-pollution-induced premature death, with air pollutant concentrations C, i is the policy scenario+
-- GEMM: $RR(c)= e^{\frac{\theta+log(c/a+1)}{1+e^{-(c-\mu)/v}}}$  
-  - Where c is annual average ambient PM2.5 concentration; e is Euler's number; other coefficients are parameters of the shape of RR curves
-- Social cost carbon: $M_c = SCC * E_c$
-- Value of statistical life: $M_a = VSL * Mort$
+- Avoided premature mortality:
+    - $Mort_{i,j,k} = Pop_{j,k} \cdot Base_j \cdot (\frac{1}{RR_j(C_{i,k})}-\frac{1}{RR_j(C_{Base,k})})$
+    - Where j is age group, k is grid box, RR is therelative rist of air-pollution-induced premature death, with air pollutant concentrations C, i is the policy scenario
+- GEMM:
+    - $RR(c)= e^{\frac{\theta+log(c/a+1)}{1+e^{-(c-\mu)/v}}}$  
+    - Where c is annual average ambient PM2.5 concentration; e is Euler's number; other coefficients are parameters of the shape of RR curves
+- Social cost carbon:
+    - $M_c = SCC * E_c$
+- Value of statistical life:
+    - $M_a = VSL * Mort$
 - Energy saving
 
 <center>
