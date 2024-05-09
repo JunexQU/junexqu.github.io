@@ -37,4 +37,4 @@ title: logreg
 
 - However, the percentage change ((semi-)elasticity) can only capture the correlation between $X$ and $Y$. **It can't represent the importance of indicators**
 - If we want to measure the importance, **The elasticity should be transformed into marginal impacts**
-  - $Mar = X * elasticity$
+  - $Margin = X * elasticity$
