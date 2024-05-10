@@ -19,4 +19,5 @@ title: Blogs
 
 ## Research Method
 
-- [What is a log regression](blogs/logRegression.md)
+- [Log-log regression](blogs/logRegression.md)
+- [Seemingly unrelated regression](blogs/SeeminglyUnrelatedReg.md)
