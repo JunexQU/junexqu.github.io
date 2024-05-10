@@ -31,7 +31,7 @@ title: surreg
 - Estimation:
   - $\widehat{\sum} = \frac{1}{n} \widehat{\mu}_{ols} \widehat{\mu}_{ols}^'$
   - $\widehat{\Omega}  = \widehat{\sum} \bigotimes I_n$ 
-  - $\widehat{\beta}_{SUR} = \widehat{\beta}_{gls}(\widehat{\Omega}) = (X'\widehat{\Omega}^{-1}X)^{-1}X'\widehat{\Omega}^{-1}y$
+  - $\widehat{\beta}_{SUR} = \widehat{\beta}_{gls} \widehat{\Omega} = (X' \widehat{\Omega}^{-1} X)^{-1} X' \widehat{\Omega}^{-1} y$
 
 ### Test
  
