@@ -21,17 +21,17 @@ title: surreg
   - Seemingly unrelated models: right side doesn't include dependent variable
 
 - Model assumption:
-  - $E(\mu_{ij} \mu_{ik} |X_i) = \sigma_{jk} \neq 0$
+  - $E(\mu_{ij} \mu_{ik} | X_i) = \sigma_{jk} \neq 0$
 - According to the variance-covariance matrix $E(\mu_i \mu_i)$, for a equation $j$ and $k$:
-  - $E(\mu_j |X) = 0$ 
-  - $E(\mu_j \mu_j |X) = \sigma_j I_n$
-  - $E(\mu_j \mu_k |X) = \sigma_{jk} I_n$
+  - $E(\mu_j | X) = 0$ 
+  - $E(\mu_j \mu_j | X) = \sigma_j I_n$
+  - $E(\mu_j \mu_k | X) = \sigma_{jk} I_n$
 - Variance-covariance matrix of the system of equations:
   - $\Omega = E(\mu \mu' | X = \sum \bigotimes I_n )$  
 - Estimation:
-  - $\widehat{\sum} = \frac{1}{n} \widehat{\mu}_{ols} \widehat{\mu}_{ols}^'$
+  - $\widehat{\sum} = = \frac{1}{n}  \widehat{\mu}_{ols} \widehat{\mu'} _{ols}$
   - $\widehat{\Omega}  = \widehat{\sum} \bigotimes I_n$ 
-  - $\widehat{\beta}_{SUR} = \widehat{\beta}_{gls} \widehat{\Omega} = (X' \widehat{\Omega}^{-1} X)^{-1} X' \widehat{\Omega}^{-1} y$
+  - $\widehat{\beta} _{sur} = \widehat{\beta} _{gls} \widehat{\Omega} = (X' \widehat{\Omega}^{-1} X) ^{-1} X' \widehat{\Omega}^{-1} y$
 
 ### Test
  
