@@ -16,22 +16,22 @@ title: surreg
   - Rural function: $Y_j = X_{j}^{\beta_{j}} + \mu_j$
 
 - If $Corr(\mu_{ij}, \mu_j) = 0$, we can employ OLS regression directly
-- While $Corr(\mu_{ij}, \mu_j) \neq 0$, The separate OLS estimates are no longer valid (the standard errors of the coefficients is too high). A joint estimation (GLS) of the two equations to take into account the correlation between the interference terms of the two can produce a more confidence estimate 
+- While $Corr(\mu_{ij}, \mu_j) \neq 0$, the separate OLS estimates are no longer valid (the standard errors of the coefficients is too high). A joint estimation (GLS) of the two equations to take into account the correlation between the interference terms of the two can produce a more confidence estimate 
   - Simultaneous equation models: right side includes dependent variable
   - Seemingly unrelated models: right side doesn't include dependent variable
 
 - Model assumption:
-  - $E(\mu_{ij} \mu_{ik}|X_i) = \sigma_{jk} \neq 0$
+  - $E(\mu_{ij} \mu_{ik} |X_i) = \sigma_{jk} \neq 0$
 - According to the variance-covariance matrix $E(\mu_i \mu_i)$, for a equation $j$ and $k$:
-  - $E(\mu_j|X) = 0$ 
-  - $E(\mu_j \mu_j|X) = \sigma_j I_n$
-  - $E(\mu_j \mu_k|X) = \sigma_{jk} I_n$
+  - $E(\mu_j |X) = 0$ 
+  - $E(\mu_j \mu_j |X) = \sigma_j I_n$
+  - $E(\mu_j \mu_k |X) = \sigma_{jk} I_n$
 - Variance-covariance matrix of the system of equations:
   - $\Omega = E(\mu \mu' | X = \sum \bigotimes I_n )$  
 - Estimation:
-  - $\widehat{\sum} = \frac{1}{n} \widehat{\mu_{ols}}\widehat{\mu_{ols}^'}$
+  - $\widehat{\sum} = \frac{1}{n} \widehat{\mu}_{ols} \widehat{\mu}_{ols}^'$
   - $\widehat{\Omega}  = \widehat{\sum} \bigotimes I_n$ 
-  - $\widehat{\beta_{SUR}} = \widehat{\beta_{gls}}(\widehat{\Omega}) = (X'\widehat{\Omega}^{-1}X)^{-1}X'\widehat{\Omega}^{-1}y$
+  - $\widehat{\beta}_{SUR} = \widehat{\beta}_{gls}(\widehat{\Omega}) = (X'\widehat{\Omega}^{-1}X)^{-1}X'\widehat{\Omega}^{-1}y$
 
 ### Test
  
