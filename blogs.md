@@ -12,7 +12,7 @@ title: Blogs
 - [Fu, X., Cheng, J., Peng, L. et al. Co-benefits of transport demand reductions from compact urban development in Chinese cities. Nat Sustain 7, 294–304 (2024)](blogs/Balland2020.md)
 - [Behrer, A.P., Heft-Neal, S. Higher air pollution in wealthy districts of most low- and middle-income countries. Nat Sustain 7, 203–212 (2024)](blogs/Behrer2024.md)
 
-- [Behrer, A.P., Heft-Neal, S. Higher air pollution in wealthy districts of most low- and middle-income countries. Nat Sustain 7, 203–212 (2024)](blogs/Behrer2024.md)
+- [Arvidsson, M., Lovsjö, N. & Keuschnigg, M. Urban scaling laws arise from within-city inequalities. Nat Hum Behav 7, 365–374 (2023)](blogs/Behrer2024.md)
   
 - [Arvidsson, M., Lovsjö, N. & Keuschnigg, M. Urban scaling laws arise from within-city inequalities. Nat Hum Behav 7, 365–374 (2023)](blogs/Arvidsson2023.md)
 
