@@ -14,7 +14,7 @@ title: Blogs
 
 - [Arvidsson, M., Lovsjö, N. & Keuschnigg, M. Urban scaling laws arise from within-city inequalities. Nat Hum Behav 7, 365–374 (2023)](blogs/Behrer2024.md)
   
-- [Arvidsson, M., Lovsjö, N. & Keuschnigg, M. Urban scaling laws arise from within-city inequalities. Nat Hum Behav 7, 365–374 (2023)](blogs/Arvidsson2023.md)
+- [Sutradhar, U., Spearing, L. & Derrible, S. Depopulation and associated challenges for US cities by 2100. Nat Cities 1, 51–61 (2024)](blogs/Sutradhar.md)
 
 
 ## Research Method
