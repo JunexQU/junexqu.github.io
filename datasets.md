@@ -39,14 +39,13 @@ title: DataSets
 
 - [Shared Bike](https://connecthkuhk-my.sharepoint.com/:f:/g/personal/qujunxi_connect_hku_hk/EgSEi5wCGF9BiTPYdrfj69AB55XbzGtzUJL1osvurEeYwg?e=Ow8Ja5)
     - Beijing: Mobike cup 201705
-    - [Shenzhen](https://opendata.sz.gov.cn/)
-    - Shanghai: [Heywhale](https://www.heywhale.com/mw/dataset/5d315ebbcf76a60036e565bf)
-    - Guangzhou
+    - [Shenzhen](https://opendata.sz.gov.cn/): 03042017-30082021
+    - Shanghai: [Heywhale](https://www.heywhale.com/mw/dataset/5d315ebbcf76a60036e565bf): 082016
 
 - [Smart card](https://connecthkuhk-my.sharepoint.com/:f:/g/personal/qujunxi_connect_hku_hk/EiShteqycNZDgpPkYyuswn0BBBS5vRbUFyMQ-M3G-Ccc7Q?e=GIQqe0)
     - Shanghai: Youzu cup 01042015-30042015
     - [Shenzhen](https://opendata.sz.gov.cn/): 31082018-01092018, [Dr Desheng Zhang](https://www.cs.rutgers.edu/~dz220/data.html)
-    - Guangzhou subway: Tianchi competition 01012019-25012019
+    - Hangzhou subway: Tianchi competition 01012019-25012019
     - Beijing: 11042016, 10042017, 26102020
     - Bus GPS (Shenzhen & Shanghai)
 
