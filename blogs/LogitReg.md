@@ -34,7 +34,7 @@ title: logitreg
   - $\frac{\Omega(x, x_j+1)}{x, x_j} = exp(\beta_j)$
   - $\beta_j$ measures when change in $x_j$ unit, the odds of winning are $exp(\beta_j)$ times the original
 - Besides, we usually use average marginal effect:
-  - When $x$ increases by 1 unit, the probability that the $Y$ change by $\beta%$
+  - When $x$ increases by 1 unit, the probability that the $Y$ changes by $\beta$%
 
 ### Test
  
