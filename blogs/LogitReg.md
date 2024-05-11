@@ -38,7 +38,7 @@ title: logitreg
 
 ### Test
  
-- $\Chi^2$
+- $\chi^2$
 - $df$
 - $AIC$
 - $BIC$
