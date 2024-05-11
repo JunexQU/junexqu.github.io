@@ -7,6 +7,7 @@ title: Publications
 ## Working Manuscript
 
 - **Junxi Qu**, et al. Distributive impacts of transport accessibility improvements in the Yangtze River Delta region 2015–2020. Under reveiw in JTG.
+- **Junxi Qu**, et al. Dockless Bike Sharing as a Solution Beyond First and Last Mile to Public Transit. Under review in TRD.
 
 ---
  
