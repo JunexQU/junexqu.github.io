@@ -13,6 +13,7 @@ title: Blogs
 - [Behrer, A.P., Heft-Neal, S. Higher air pollution in wealthy districts of most low- and middle-income countries. Nat Sustain 7, 203–212 (2024)](blogs/Behrer2024.md)
 
 - [Arvidsson, M., Lovsjö, N. & Keuschnigg, M. Urban scaling laws arise from within-city inequalities. Nat Hum Behav 7, 365–374 (2023)](blogs/Behrer2024.md)
+- [Kraemer, M.U.G., Sadilek, A., Zhang, Q. et al. Mapping global variation in human mobility. Nat Hum Behav 4, 800–810 (2020)](blogs/Kraemer2020.md)
   
 - [Sutradhar, U., Spearing, L. & Derrible, S. Depopulation and associated challenges for US cities by 2100. Nat Cities 1, 51–61 (2024)](blogs/Sutradhar.md)
 
