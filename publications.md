@@ -10,7 +10,7 @@ title: Publications
 
 ---
  
-## In process
+## In Progress
 
 - **Junxi Qu & Tianren Yang**. Multimodal transport network and urban growth: A comprehensive evaluation in China
 
