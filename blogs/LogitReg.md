@@ -38,7 +38,7 @@ title: logitreg
 
 ### Test
  
-- $\chi^2$
-- $df$
-- $AIC$
-- $BIC$
+- $\chi^2$: 
+- $F$: With confidence interval, we can calcualte significant
+- $AIC$: Akaike information criterion (smallest)
+- $BIC$: bayesian information criterion (smallest)
