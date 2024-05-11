@@ -6,9 +6,13 @@ title: Publications
 
 ## Working Manuscript
 
-- Distributive impacts of transport accessibility improvements in the Yangtze River Delta region 2015–2020<br>**Junxi Qu**, et al., Under reveiw in JTG.
+- **Junxi Qu**, et al. Distributive impacts of transport accessibility improvements in the Yangtze River Delta region 2015–2020. Under reveiw in JTG.
+
+---
  
-  <br>
+## In process
+
+- **Junxi Qu & Tianren Yang**. Multimodal transport network and urban growth: A comprehensive evaluation in China
 
 ---
 
