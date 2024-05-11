@@ -58,9 +58,12 @@ title: DataSets
     - 1km * 1 km
     - Monthly
 
-- [Global energy consumption (Hou et al.)](https://figshare.com/articles/dataset/Global_1_km_1_km_gridded_revised_real_gross_domestic_product_and_electricity_consumption_during_1992-2019_based_on_calibrated_nighttime_light_data/17004523/1)
+- [Global electricity consumption (Hou et al.)](https://figshare.com/articles/dataset/Global_1_km_1_km_gridded_revised_real_gross_domestic_product_and_electricity_consumption_during_1992-2019_based_on_calibrated_nighttime_light_data/17004523/1)
     - 1 km * 1 km
     - (https://doi.org/10.1038/s41597-022-01322-5)
+- Gas, natural gas, liquefied petroleum gas
+    - County
+    - China County Construction Statistical Yearbook: 2015-22
  
 ## Socioeconomic
 - [Global real GDP (Hou et al.)](https://figshare.com/articles/dataset/Global_1_km_1_km_gridded_revised_real_gross_domestic_product_and_electricity_consumption_during_1992-2019_based_on_calibrated_nighttime_light_data/17004523/1)
