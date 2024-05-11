@@ -38,7 +38,7 @@ title: logitreg
 
 ### Test
  
-- $\chi^2$: 
+- $\chi^2$: Chi-square test (less than 0.05)
 - $F$: With confidence interval, we can calcualte significant
 - $AIC$: Akaike information criterion (smallest)
 - $BIC$: bayesian information criterion (smallest)
