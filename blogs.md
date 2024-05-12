@@ -28,6 +28,8 @@ title: Blogs
 
 ### Nature Cities
 - [Sutradhar, U., Spearing, L. & Derrible, S. Depopulation and associated challenges for US cities by 2100. Nat Cities 1, 51–61 (2024)](blogs/Sutradhar.md)
+- [Elbers, B. Explaining changes in US residential segregation through patterns of population change. Nat Cities 1, 194–204 (2024)](blogs/Elbers2024.md)
+
 
 ## Research Method
 
