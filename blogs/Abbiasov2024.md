@@ -28,7 +28,7 @@ title: Abbiasov, T., Heine, C., Sabouri, S. et al. The 15-minute city quantified
 - Physical segregation index
   - Experienced integration: $Int_{k_i,l} = \frac{\sum_{k_j} p_{k_j, L} * s_{k_i \rightarrow k_j}}{\sum_{k_j} p_{k_{j,L}}}$, $s_{k_i \rightarrow k_j} = \|r_i-r_j \|$
   - Where $p_{k_j, L}$ is the number of people of income $k$ who visit $L$ and $r$ is the income rank
-  - Aggregated: $Int_j = \frac{\sum_{L \isin POIs} Int_{k_j,l} \times p_{j,L}}{\sum_{L \isin POIs}} p_{j,L}$
+  - Aggregated: $Int_j = \frac{\sum_{L \in POIs} Int_{k_j,l} \times p_{j,L}}{\sum_{L \in POIs}} p_{j,L}$
   - $Segregation = 1 - Int_j$
 
 ### **Findings:**
