@@ -31,6 +31,7 @@ title: Blogs
 - [Elbers, B. Explaining changes in US residential segregation through patterns of population change. Nat Cities 1, 194–204 (2024)](blogs/Elbers2024.md)
 - [O’Garra, T., Kuz, V., Deneault, A. et al. Early engagement and co-benefits strengthen cities’ climate commitments. Nat Cities 1, 315–324 (2024)](blogs/O'Garra2024.md)
 - [Wang, H. The role of informal ruralization within China’s rapid urbanization. Nat Cities 1, 205–215 (2024)](blogs/HanxiWang2024.md)
+- [Kontokosta, C.E., Hong, B. & Bonczak, B.J. Socio-spatial inequality and the effects of density on COVID-19 transmission in US cities. Nat Cities 1, 83–93 (2024)](blogs/Kontokosta2024.md)
 
 ## Research Method
 
