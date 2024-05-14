@@ -4,23 +4,6 @@ permalink: /datasets/index.html
 title: DataSets
 ---
 
-## Geospatial Data
-### POIs
-- [POIs 2010-2022](https://pan.baidu.com/s/1JZyPsB_3fpInaFzrL_6u9g):
-    - Gaode: 2010-11, 2018-22
-    - Baidu: 2012-17
-- [Express delivery 2020](https://pan.baidu.com/s/1Y3s41EQVhnWsMHz6g1smkQ)
-    - Gaode POI
-- [Dianping 2022 (大众点评)](https://pan.baidu.com/s/1Sm-Wpi4kUBJvxAi1oVVsPQ)
-    - m.dianping.com
-
-### District Shapefile
-- [District](https://connecthkuhk-my.sharepoint.com/:f:/g/personal/qujunxi_connect_hku_hk/Etm9p__hUv5Ih31lKrnI3k0BBVopQdA-j_ODp06EeEJfXw)
-    - County, City, Province: 2000-2023
-    - Town: 10, 15, 20
-    - Standard boundary: tianditu
-    - Global boundary (Country, City, County): [GADM maps](https://gadm.org/)
-
 ## Transport
 - [Transport network in China](https://connecthkuhk-my.sharepoint.com/:f:/g/personal/qujunxi_connect_hku_hk/Ejc6ukaKQHBGkpxu94YHp34B6-TXqrbo5X3j8aS40mPzgQ?e=ejc4MA)
     - OSM: 2014-24
@@ -48,6 +31,30 @@ title: DataSets
     - Hangzhou subway: Tianchi competition 01012019-25012019
     - Beijing: 11042016, 10042017, 26102020
     - Bus GPS (Shenzhen & Shanghai)
+
+## Geospatial Data
+### POIs
+- [POIs 2010-2022](https://pan.baidu.com/s/1JZyPsB_3fpInaFzrL_6u9g):
+    - Gaode: 2010-11, 2018-22
+    - Baidu: 2012-17
+- [Express delivery 2020](https://pan.baidu.com/s/1Y3s41EQVhnWsMHz6g1smkQ)
+    - Gaode POI
+- [Dianping 2022 (大众点评)](https://pan.baidu.com/s/1Sm-Wpi4kUBJvxAi1oVVsPQ)
+    - m.dianping.com
+
+### District Shapefile
+- [District](https://connecthkuhk-my.sharepoint.com/:f:/g/personal/qujunxi_connect_hku_hk/Etm9p__hUv5Ih31lKrnI3k0BBVopQdA-j_ODp06EeEJfXw)
+    - County, City, Province: 2000-2023
+    - Town: 10, 15, 20
+    - Standard boundary: tianditu
+    - Global boundary (Country, City, County): [GADM maps](https://gadm.org/)
+### [Global human settlement layer (Every 5-year)](https://human-settlement.emergency.copernicus.eu/download.php)
+- Built-up surface: 1975-2030, 10m-1km
+- Built-up height: 1975-2030 (2018 available), 10m-1km
+- Built-up volume: 1975-2030, 10m-1km
+- Built-up Characteristics: 1975-2030 (2018 available), 10m-1km
+- Land fraction per pixel: 1975-2030 (2018 available), 10m-1km
+- Population: 1975-2030, 10m-1km
 
 ## Environment
 - [Global GHG emission (EDGAR)](https://edgar.jrc.ec.europa.eu/emissions_data_and_maps):
