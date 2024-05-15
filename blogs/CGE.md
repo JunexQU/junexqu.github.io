@@ -72,10 +72,10 @@ title: CGE
   - Thus, we can obtain:
     - $X_i = [\frac{c_i P}{P_i}]^{\frac{1}{1-\rho}} V$
     - $V = [\sum_i c_i [\frac{c_i P}{P_i}]^{\frac{\rho}{1-\rho}} V^{\rho}]^{\frac{1}{\rho}}$
-    - $P = [\sum_i c_i^{\sigma} P_i^{1-\sigma}]^{\frac{1}{1-\sigma}} = [\sum_i a_i^{\sigma}(\frac{P_i}{A \lambbda_i})^{1-\sigma}]^{\frac{1}{1-\sigma}} = \frac{1}{A} [\sum_i a_i^{\sigma}(\frac{P_i}{\lambda_i})^{1-\sigma}]^{\frac{1}{1-\sigma}}$
+    - $P = [\sum_i c_i^{\sigma} P_i^{1-\sigma}]^{\frac{1}{1-\sigma}} = [\sum_i a_i^{\sigma}(\frac{P_i}{A \lambda_i})^{1-\sigma}]^{\frac{1}{1-\sigma}} = \frac{1}{A} [\sum_i a_i^{\sigma}(\frac{P_i}{\lambda_i})^{1-\sigma}]^{\frac{1}{1-\sigma}}$
       - Where the relationship between substitution elasticity and CES parameter is: $\sigma = \frac{1}{1-\rho}$, and $\rho = \frac{\sigma-1}{\sigma}$
   - Concequently, the factor input can be derived:
-    - $X_i =  (A\lambda_i)^{\sigma-1} a_i^{\sogma} (\frac{P}{P_i})^{\sigma}V$
+    - $X_i =  (A\lambda_i)^{\sigma-1} a_i^{\sigma} (\frac{P}{P_i})^{\sigma}V$
   - If $A$ is simplified as 1 and $\lambda$ is introduced into initial share parameter:
     - $P = [\sum_i \alpha_i (\frac{P_i}{\lambda_i})^{1-\sigma}]\frac{1}{1-sigma}$
     - $X_i = \alpha_i \lambda_i^{\sigma-1}(\frac{P}{P_i})^{\sigma} V$, where $\alpha_i = a_i^{\sigma}$
