@@ -46,9 +46,6 @@ title: Xu, Z., Li, Y., Chau, S.N. et al. Impacts of international trade on globa
 <img src="/blogs/review.assets/Xu2020002.png">
 </center>
 
-- Global mean trip distance is large at 170 km (meadian 11.97 km)
-- Trips with length over 60 km make up only 10% of all recorded flows
-
 <center>
 <img src="/blogs/review.assets/Xu2020003.png">
 </center>
