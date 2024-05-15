@@ -43,3 +43,4 @@ title: Blogs
 - [Log-log regression](blogs/logRegression.md)
 - [Seemingly unrelated regression](blogs/SeeminglyUnrelatedReg.md)
 - [Logit regression](blogs/LogitReg.md)
+- [Computable general equilibrium model](blogs/CGE.md)
