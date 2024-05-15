@@ -31,7 +31,7 @@ title: Blogs
 
 
 ### Nature Cities
-- [Sutradhar, U., Spearing, L. & Derrible, S. Depopulation and associated challenges for US cities by 2100. Nat Cities 1, 51–61 (2024)](blogs/Sutradhar.md)
+- [Sutradhar, U., Spearing, L. & Derrible, S. Depopulation and associated challenges for US cities by 2100. Nat Cities 1, 51–61 (2024)](blogs/Sutradhar2024.md)
 - [Elbers, B. Explaining changes in US residential segregation through patterns of population change. Nat Cities 1, 194–204 (2024)](blogs/Elbers2024.md)
 - [O’Garra, T., Kuz, V., Deneault, A. et al. Early engagement and co-benefits strengthen cities’ climate commitments. Nat Cities 1, 315–324 (2024)](blogs/O'Garra2024.md)
 - [Wang, H. The role of informal ruralization within China’s rapid urbanization. Nat Cities 1, 205–215 (2024)](blogs/HanxiWang2024.md)
