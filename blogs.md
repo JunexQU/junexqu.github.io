@@ -24,6 +24,7 @@ title: Blogs
 - [Kraemer, M.U.G., Sadilek, A., Zhang, Q. et al. Mapping global variation in human mobility. Nat Hum Behav 4, 800–810 (2020)](blogs/Kraemer2020.md)
 - [Balland, PA., Jara-Figueroa, C., Petralia, S.G. et al. Complex economic activities concentrate in large cities. Nat Hum Behav 4, 248–254 (2020)](blogs/Balland2020.md)
 - [Jachimowicz, J.M., Szaszi, B., Lukas, M. et al. Higher economic inequality intensifies the financial hardship of people living in poverty by fraying the community buffer. Nat Hum Behav 4, 702–712 (2020)](blogs/Jachimowicz2020.md)
+- [Guan, D., Wang, D., Hallegatte, S. et al. Global supply-chain effects of COVID-19 control measures. Nat Hum Behav 4, 577–587 (2020)](blogs/Guan2020.md)
 
 ### Nature Climate Change
 - [Wang, XT., Liu, H., Lv, ZF. et al. Trade-linked shipping CO2 emissions. Nat. Clim. Chang. 11, 945–951 (2021)](blogs/Wang2021.md)
