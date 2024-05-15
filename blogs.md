@@ -19,7 +19,7 @@ title: Blogs
 
 ### Nature Human Behavior
 - [Abbiasov, T., Heine, C., Sabouri, S. et al. The 15-minute city quantified using human mobility data. Nat Hum Behav 8, 445–455 (2024)](blogs/Abbiasov2024.md)
-- [Abbiasov, T., Heine, C., Sabouri, S. et al. The 15-minute city quantified using human mobility data. Nat Hum Behav 8, 445–455 (2024)](blogs/Pangallo2024.md)
+- [Pangallo, M., Aleta, A., del Rio-Chanona, R.M. et al. The unequal effects of the health–economy trade-off during the COVID-19 pandemic. Nat Hum Behav 8, 264–275 (2024)](blogs/Pangallo2024.md)
 - [Arvidsson, M., Lovsjö, N. & Keuschnigg, M. Urban scaling laws arise from within-city inequalities. Nat Hum Behav 7, 365–374 (2023)](blogs/Behrer2024.md)
 - [Kraemer, M.U.G., Sadilek, A., Zhang, Q. et al. Mapping global variation in human mobility. Nat Hum Behav 4, 800–810 (2020)](blogs/Kraemer2020.md)
 - [Balland, PA., Jara-Figueroa, C., Petralia, S.G. et al. Complex economic activities concentrate in large cities. Nat Hum Behav 4, 248–254 (2020)](blogs/Balland2020.md)
