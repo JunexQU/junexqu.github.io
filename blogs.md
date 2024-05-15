@@ -12,7 +12,7 @@ title: Blogs
 
 ### Nature Sustainability
 - [Wu, H., Levinson, D. & Sarkar, S. How transit scaling shapes cities. Nat Sustain 2, 1142–1148 (2019)](blogs/0507.md)
-- [Fu, X., Cheng, J., Peng, L. et al. Co-benefits of transport demand reductions from compact urban development in Chinese cities. Nat Sustain 7, 294–304 (2024)](blogs/Balland2020.md)
+- [Fu, X., Cheng, J., Peng, L. et al. Co-benefits of transport demand reductions from compact urban development in Chinese cities. Nat Sustain 7, 294–304 (2024)](blogs/Fu2024.md)
 - [Behrer, A.P., Heft-Neal, S. Higher air pollution in wealthy districts of most low- and middle-income countries. Nat Sustain 7, 203–212 (2024)](blogs/Behrer2024.md)
 - [Xu, Z., Li, Y., Chau, S.N. et al. Impacts of international trade on global sustainable development. Nat Sustain 3, 964–971 (2020)](blogs/Asensio2020.md)
 
