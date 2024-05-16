@@ -93,8 +93,8 @@ title: CGE
     - $A = (\sum_i \alpha_{i,0})^{1/{\sigma-1}}$
 - Cobb-Douglas production function
   - When the $\sigma$ is 1 and $\rho \to 0$, the production function can be written as:
-    - $V = A \prob_i (\lambda_i X_i)^{\alpha_i}$, and teh $\sum_i alpha_i = 1$
-    - $P = \frac{1}{A}\prob_i(\frac{P_i}{\alpha_i \lambda_i})^{\alpha_i}$
+    - $V = A \prod_i (\lambda_i X_i)^{\alpha_i}$, and teh $\sum_i alpha_i = 1$
+    - $P = \frac{1}{A}\prod_i(\frac{P_i}{\alpha_i \lambda_i})^{\alpha_i}$
     - $X_i = \alpha_i \frac{P}{P_i}V$
     - Sometimes, we need use $PV = \sum_i P_i V_i$ to replace the dual price, making the substitute elasticity is approximate to 1.
 - Leontief production function
