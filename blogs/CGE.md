@@ -79,3 +79,36 @@ title: CGE
   - If $A$ is simplified as 1 and $\lambda$ is introduced into initial share parameter:
     - $P = [\sum_i \alpha_i (\frac{P_i}{\lambda_i})^{1-\sigma}]\frac{1}{1-sigma}$
     - $X_i = \alpha_i \lambda_i^{\sigma-1}(\frac{P}{P_i})^{\sigma} V$, where $\alpha_i = a_i^{\sigma}$
+    - This equation implies that the CES is a dual price system, representing the average weighted price of production inputs by productivity and input share.
+    - If the price of input $i$ increases, the demand for this input will decline, and the extent of decline is determined by the substitution elasticity.
+    - When the substitution elasticity equals to 0, the proportion of input demand is fixed, which is unrelated to relative price. This is the Leotief technology or fixed coefficients technology.
+  - For two inputs $i$ and $j$:
+    - $\frac{X_i}{X_j} = \frac{\alpha_i \lambda_i^{\sigma-1}}{\alpha_j \lambda_j^{\sigma-1}}(\frac{P_j}{P_i})^{\sigma}$
+    - The substitute elasticity measures the currency value of the percentage change of the two investment ratios and the relative price percentage change
+    - $\frac{\partial{\frac{X_i}{X_j}} \frac{P_i}{P_j}}{\partial{\frac{P_i}{P_j}} \frac{X_i}{X_j}}=-\sigma $
+    - In the price of labor increased by 10% relative to capital, the ratio of labor demand and capital demand will decrease 10%$\sigma$
+  - In most cases, we do not need the share parameter $a_i$ and $\rho$, they are defined as:
+    - $a_{a,0} = (\frac{P_{i,0}}{P_0})^{\sigma}\frac{X_{i,o}}{V_0}$
+    - $\alpha_i = \frac{\alpha_{i,0}}{\sum_i \alpha_{i,0}}$
+    - $A = (\sum_i \alpha_{i,0})^{1/{\sigma-1}}$
+- Cobb-Douglas production function
+  - When the $\sigma$ is 1 and $\rho \to 0$, the production function can be written as:
+    - $V = A \prob_i (\lambda_i X_i)^{\alpha_i}$, and teh $\sum_i alpha_i = 1$
+    - $P = \frac{1}{A}\prob_i(\frac{P_i}{\alpha_i \lambda_i})^{\alpha_i}$
+    - $X_i = \alpha_i \frac{P}{P_i}V$
+    - Sometimes, we need use $PV = \sum_i P_i V_i$ to replace the dual price, making the substitute elasticity is approximate to 1.
+- Leontief production function
+  - When the substitute elasticity equals to 0 ($\rho \to -\infty$):
+    - $V = min(\frac{\lambda_i X_i}{\alpha_i})$
+    - $P = \sum_i \alpha_i(\frac{P_i}{\lambda_i})$
+    - $X_i = \frac{\alpha_i}{\lambda_i}V$
+- Constant-elasticity-of-transformation (CET):
+  - CET is given the constraints of CET production technology, while the CES is given the CES production technology or utility function
+    - max $\sum_i^n P_i X_i$
+    - s.t. $V = (\sum_i^n g_i X_i^v)^{1/v}$
+    - These two equations depict the producer how to distribute their goods in each market to maximize the profit
+    - $X_i$ is the supply in market $i$ with a price $P_i$, and $V$ is the aggregation from all markets.
+    - Where $P = (\sum_i \gamma_i P_i^{1+w})^{1/(1+w)}$, and $X_i = \gamma_i(\frac{P_i}{P})^w V$
+    - And $w = \frac{1}{v-1}, w>0$, and $\gamma_i=g_i^{-w}$, $w$ is the transformed elasticity.
+    - In general, $\gamma_i$ id given by: $\gamma_i = (\frac{X_{i,0}}{V_0})(\frac{P_0}{P_{i,0}})^w$
+    - The difference is the definition of dual price. In CET, the substitute elasticity is positive. In supply equation, $P_i$ is in the numerator, as our expected, the increasei in price leading the increase in production.
