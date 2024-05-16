@@ -104,8 +104,8 @@ title: CGE
     - $X_i = \frac{\alpha_i}{\lambda_i}V$
 - Constant-elasticity-of-transformation (CET):
   - CET is given the constraints of CET production technology, while the CES is given the CES production technology or utility function
-    - max $\sum_i^n P_i X_i$
-    - s.t. $V = (\sum_i^n g_i X_i^v)^{1/v}$
+    - max $\sum_i P_i X_i$
+    - s.t. $V = (\sum_i g_i X_i^v)^{1/v}$
     - These two equations depict the producer how to distribute their goods in each market to maximize the profit
     - $X_i$ is the supply in market $i$ with a price $P_i$, and $V$ is the aggregation from all markets.
     - Where $P = (\sum_i \gamma_i P_i^{1+w})^{1/(1+w)}$, and $X_i = \gamma_i(\frac{P_i}{P})^w V$
