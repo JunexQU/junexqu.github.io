@@ -112,3 +112,19 @@ title: CGE
     - And $w = \frac{1}{v-1}, w>0$, and $\gamma_i=g_i^{-w}$, $w$ is the transformed elasticity.
     - In general, $\gamma_i$ id given by: $\gamma_i = (\frac{X_{i,0}}{V_0})(\frac{P_0}{P_{i,0}})^w$
     - The difference is the definition of dual price. In CET, the substitute elasticity is positive. In supply equation, $P_i$ is in the numerator, as our expected, the increasei in price leading the increase in production.
+   
+#### Resident's & consumer's behavior
+- CES utility
+  - General form
+    - max $U = (\sum_i a_i C_i^{\rho})^{1/\rho}$
+    - s.t. $\sum_i P_i C_i = Y$
+    - Where $C$ is the consumption of goods and services, $P$ is the price vector, and $Y$ is the net income that can be used to consumption; $a$ is the share of consumption goods $i$
+  - Given the income constraint, consumer choose the combinations of goods and services with different price, to make the utility maximization:
+    - $C_i = \alpha_i' (\frac{P}{P_i})^{\sigma}\frac{Y}{P}$
+    - $P = (\sum_i \alpha_i' P_i^{1-\sigma})^{1/(1-\sigma)}$
+  - The optimization problem is:
+    - $\alpha_i = a_i^{\sigma}$ and $\sigma = \frac{1}{1-\rho}>0$
+      - If the $\sigma$ equals to 1, consumption shares is the constants $C_iP_i/Y$
+    - All equaltion is achieved for CD utility function, with the initial utility and price index:
+      - $U = \prod_i C_i^{\alpha_i}$ and $P=\prod_i(\frac{P_i}{\alpha_i})^{\alpha_i}$
+      - Where $\sum_i \alpha_i$, and the constraint share should be equal to $s_i$
