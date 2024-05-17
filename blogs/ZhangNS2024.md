@@ -29,7 +29,7 @@ title: permalink: /Zhang, P., Carleton, T., Lin, L. et al. Estimating the role o
 
 ### **Findings:**
 
-- One additional inversion per week raises weekly county-level PM2.5 by 0.51 $\mu$g$m^-3$
+- One additional inversion per week raises weekly county-level PM2.5 by 0.51 $\mu$ g $m^{-3}$
 
 <center>
 <img src="/blogs/review.assets/ZhangNS2024001.png">
