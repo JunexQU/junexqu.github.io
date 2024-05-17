@@ -17,6 +17,7 @@ title: Blogs
 - [Zhang, P., Carleton, T., Lin, L. et al. Estimating the role of air quality improvements in the decline of suicide rates in China. Nat Sustain 7, 260–269 (2024)](blogs/ZhangNS2024.md)
 - [Du, J., Liu, Y., Xu, Z. et al. Global effects of progress towards Sustainable Development Goals on subjective well-being. Nat Sustain 7, 360–367 (2024)](blogs/DuNS2024.md)
 - [Xu, Z., Li, Y., Chau, S.N. et al. Impacts of international trade on global sustainable development. Nat Sustain 3, 964–971 (2020)](blogs/Asensio2020.md)
+- [Mi, Z., Zheng, J., Meng, J. et al. Economic development and converging household carbon footprints in China. Nat Sustain 3, 529–537 (2020)](blogs/MiNS2020.md)
 
 
 ### Nature Human Behavior
