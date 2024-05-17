@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /blogs/Zhang, P., Carleton, T., Lin, L. et al. Estimating the role of air quality improvements in the decline of suicide rates in China. Nat Sustain 7, 260–269 (2024)/index.html
-title: permalink: /Zhang, P., Carleton, T., Lin, L. et al. Estimating the role of air quality improvements in the decline of suicide rates in China. Nat Sustain 7, 260–269 (2024)/index.html
+title: Zhang, P., Carleton, T., Lin, L. et al. Estimating the role of air quality improvements in the decline of suicide rates in China. Nat Sustain 7, 260–269 (2024)
 
 ---
 
