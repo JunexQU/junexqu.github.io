@@ -32,35 +32,27 @@ title: permalink: /Zhang, P., Carleton, T., Lin, L. et al. Estimating the role o
 - One additional inversion per week raises weekly county-level PM2.5 by 0.51 $\mu$g$m^-3$
 
 <center>
-<img src="/blogs/review.assets/Guan2020001.png">
+<img src="/blogs/review.assets/ZhangNS2024001.png">
 </center>
 
 - The importance of propagation through global supply chains-even countries that are not directly affected by the virus experience large losses, and low- and middle-income countries are more vulnerable to indirect effects
 
 <center>
-<img src="/blogs/review.assets/Guan2020002.png">
+<img src="/blogs/review.assets/ZhangNS2024002.png">
 </center>
 
 - Using thermal inversions as an instrumental variable for PM 2.5, 1 s.t. increase PM 2.5 causes an increase in weekly suiside rates of 0.24 per 1 million individuals (25%)
 
 <center>
-<img src="/blogs/review.assets/Guan2020003.png">
+<img src="/blogs/review.assets/ZhangNS2024003.png">
 </center>
 
 - The suicide rate in people aged 65-85 are far more sensitive to PM 2.5 than in other groups
 - The suicide rate for women aged 65-85 increased by 0.04
 - No evidence proves displays the relationship between income and suicide 
 
-<center>
-<img src="/blogs/review.assets/Guan2020004.png">
-</center>
-
 - Suicide rates respond very quickly to climate conditions that increase PM 2.5; weekly suiside rates rise with contemporaneous thermal inversions, which raise PM 2.5
 - PM 2.5 improvements policy across China in 2013-17 prevented 45970 suicides
-
-<center>
-<img src="/blogs/review.assets/Guan2020005.png">
-</center>
 
 ### **Coding Reference:**
 
