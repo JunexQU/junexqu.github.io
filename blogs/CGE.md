@@ -167,7 +167,7 @@ title: CGE
     - $Y^* = Y - \sum_j P_j \theta_j$, refers to the supernumerary income, measured by the income excluded basic living cost
   - From these equations, we can obtain income elasticity and price elasticity:
     - $\eta_i = \frac{\partial C_i}{\partial Y} \frac{Y}{C} = \frac{\mu_i Y}{P_iC_i} = \mu_i s_i$
-    - $\epsilon_{ii} = \frac{\partial C_i}{\partial P_i}\frac{P_i}{C_i} = (-\frac{\mu_i}{P_i^2}Y*-\frac{\mu_i}{P_i}\theta_i\frac{P_i}{C_i} = (-\frac{1}{P_i}(C_i-\theta_i)-\frac{\mu_i \theta_i}{P_i})\frac{P_i}{C_i} = \frac{\theta_i(1-\mu_i)}{C_i}-1$
+    - $\epsilon_{ii} = \frac{\partial C_i}{\partial P_i}\frac{P_i}{C_i} = (-\frac{\mu_i}{P_i^2}Y^{\*}-\frac{\mu_i}{P_i}\theta_i\frac{P_i}{C_i} = (-\frac{1}{P_i}(C_i-\theta_i)-\frac{\mu_i \theta_i}{P_i})\frac{P_i}{C_i} = \frac{\theta_i(1-\mu_i)}{C_i}-1$
     - $\epsilon_{ij} = \frac{\partial C_i}{\partial P_j}\frac{P_i}{C_j} = - \frac{\mu_i \theta_j P_j}{P_i C_i} = - \frac{\mu_i \theta_j P_j}{s_i Y}$
 - Welfare
   - Incorporate demand function and utility function, we can calculate the indirect utility function:
@@ -176,7 +176,7 @@ title: CGE
     - Indirect utility measures the we can obtain the maximized utility given the income and price
   - For the dual theory, we can calculate the Marshallian demand function:
     - $C_i(P,Y) = \frac{\partial v / \partial P_i}{\partial v \partial Y}$
-    - where $\frac{\partial v}{\partial P_i} = \frac{1}{P} \frac{\partial Y^{\*}}{\partial P_i} - \frac{Y^{\*}}{P^2}\frac{\partial P}{\partial P_i} = -\frac{\theta_i}{P}-\frac{\mu_i}{P_i}\frac{Y^{\*}}{P}$
+    - where $\frac{\partial v}{\partial P_i} = \frac{1}{P} \frac{\partial Y^{\*}}{\partial P_i} - \frac{Y^{\*}}{P^2} \frac{\partial P}{\partial P_i} = - \frac{\theta_i}{P}-\frac{\mu_i}{P_i} \frac{Y^{\*}}{P}$
     - and $\frac{\partial v}{\partial Y} = \frac{1}{P} \frac{\partial Y^*}{\partial Y} = \frac{1}{P}$, $\frac{\partial P}{\partial P_i} = \frac{\mu_i}{P_i} P$
   - The optimized problem is:
     - $min \sum_i P_i C_i$
@@ -195,7 +195,7 @@ title: CGE
       - $EV = E(P^1, \mu^1) - E(P^0, \mu^1)$
       - $EV$ measures the compensation cost of consumer's expenditure to achieve a new welfare. If the value is positive, there is welfare loss
       - The compensated price elasticity is: 
-        - $\xi_{ii} = \frac{\partial H_i}{\partial P_i}\frac{P_i}{H_i} = (\mu \frac{\mu_i}{P_i}\frac{\partial P}{\partial P_i}-\mu \frac{\mu_i}{P_i^2}P)\frac{P_i}{H_i} = \mu \frac{\mu_i}{H_i}\frac{P}{P_i}(\mu_i-1) = \mu_i(\mu_i-1)\frac{Y^*}{P_i H_i} = (\mu_i-1)\frac{\mu_i Y^*}{s_i Y}$  
+        - $\xi_{ii} = \frac{\partial H_i}{\partial P_i} \frac{P_i}{H_i} = (\mu \frac{\mu_i}{P_i} \frac{\partial P}{\partial P_i}-\mu \frac{\mu_i}{P_i^2} P) \frac{P_i}{H_i} = \mu \frac{\mu_i}{H_i} \frac{P}{P_i} (\mu_i-1) = \mu_i(\mu_i-1)\frac{Y^{\*}}{P_i H_i} = (\mu_i-1) \frac{\mu_i Y^{\*}}{s_i Y}$  
         - $\xi_{ij} = \frac{\partial H_i}{\partial P_j} \frac{P_j}{H_i} = (\mu \frac{\mu_i}{P_i}\frac{\mu_j}{P_j}P)\frac{P_j}{H_i} = \mu_j \frac{\mu_i Y^*}{s_i Y}$
         - And $\xi_{ij} = (\mu_j - \delta_{ij})\frac{\mu_i Y^*}{s_i Y}$, where $\delta_{ij}$ is the Kronecker product, when $i=j, \delta_{ij} = 1$, otherwise $\delta{ij} = 0$
       - We can test the Slutsky equation:
@@ -215,5 +215,5 @@ title: CGE
         - In LES system, the Frisch equation is $\phi = - \frac{Y}{Y^*} = -\frac{Y}{Y-\sum P_j \theta_j}$
       - The new price elasticisy is:
         - $\epsilon_{ii} = \frac{\theta_i}{C_i}(1-\mu_i)-1 = \frac{P_i \theta_i}{Y} \frac{1-\mu_i}{s_i}-1 = (s_i-\frac{\mu_i Y^*}{Y})(\frac{1-s_i \eta_i}{s_i})-1 = (s_i + \frac{s_i \eta_i}{\phi})(\frac{1}{s_i}-\eta_i)-1 = 1- s_i \eta_i + \frac{s_i \eta_i}{\phi}(\frac{1}{s_i}-\eta_i)-1 = -s_i \eta_i + \frac{\eta_i}{\phi} (1-s_i \eta_i)$
-        - $\epsilon_{ij} = -\frac{\mu_i \theta_j P_j}{s_i Y} = - \frac{\mu_i(P_j C_j -\mu_j Y^*)}{s_i Y} = - \eta_i(s_j - s_j \eta_j \frac{Y^*}{Y}) = - \eta_i s_j (1+\frac{\eta_j}{\phi})$
+        - $\epsilon_{ij} = - \frac{\mu_i \theta_j P_j}{s_i Y} = - \frac{\mu_i(P_j C_j -\mu_j Y^{\*})}{s_i Y} = - \eta_i (s_j - s_j \eta_j \frac{Y^{\*}}{Y}) = - \eta_i s_j (1+\frac{\eta_j}{\phi})$
         - $\theta_i  = C_i - \frac{\mu_i}{P_i} Y^* = C_i - \frac{s_i \eta_i}{P_i} Y^* C_i (1+\frac{\eta_i}{\phi})$
