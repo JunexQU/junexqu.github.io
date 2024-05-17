@@ -15,7 +15,7 @@ title: Blogs
 - [Fu, X., Cheng, J., Peng, L. et al. Co-benefits of transport demand reductions from compact urban development in Chinese cities. Nat Sustain 7, 294–304 (2024)](blogs/Fu2024.md)
 - [Behrer, A.P., Heft-Neal, S. Higher air pollution in wealthy districts of most low- and middle-income countries. Nat Sustain 7, 203–212 (2024)](blogs/Behrer2024.md)
 - [Zhang, P., Carleton, T., Lin, L. et al. Estimating the role of air quality improvements in the decline of suicide rates in China. Nat Sustain 7, 260–269 (2024)](blogs/ZhangNS2024.md)
-- [Du, J., Liu, Y., Xu, Z. et al. Global effects of progress towards Sustainable Development Goals on subjective well-being. Nat Sustain 7, 360–367 (2024)](blogs/ZhangNS2024.md)
+- [Du, J., Liu, Y., Xu, Z. et al. Global effects of progress towards Sustainable Development Goals on subjective well-being. Nat Sustain 7, 360–367 (2024)](blogs/DuNS2024.md)
 - [Xu, Z., Li, Y., Chau, S.N. et al. Impacts of international trade on global sustainable development. Nat Sustain 3, 964–971 (2020)](blogs/Asensio2020.md)
 
 
