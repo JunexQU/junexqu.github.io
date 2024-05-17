@@ -19,7 +19,8 @@ title: Zhang, P., Carleton, T., Lin, L. et al. Estimating the role of air qualit
 - IV  
   - two-sided t-test statistic of t = 2.75 and p = 0.006
 - Robust:
-  - Replace variables 
+  - Replace variables
+ 
 ### **[Data Source: Open](https://zenodo.org/records/10433250)**
 - PM 2.5: China National Environmental Monitoring Center
 - Thermal inversion: Modern-Era Retrospective Analysis for Research and Application
