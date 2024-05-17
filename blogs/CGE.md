@@ -176,7 +176,7 @@ title: CGE
     - Indirect utility measures the we can obtain the maximized utility given the income and price
   - For the dual theory, we can calculate the Marshallian demand function:
     - $C_i(P,Y) = \frac{\partial v / \partial P_i}{\partial v \partial Y}$
-    - where $\frac{\partial v}{\partial P_i} = \frac{1}{P} \frac{\partial Y^*}{\partial P_i} - \frac{Y^*}{P^2}\frac{\partial P}{\partial P_i} = -\frac{\theta_i}{P}-\frac{\mu_i}{P_i}\frac{Y^*}{P}$
+    - where $\frac{\partial v}{\partial P_i} = \frac{1}{P} \frac{\partial Y^{\*}}{\partial P_i} - \frac{Y^{\*}}{P^2}\frac{\partial P}{\partial P_i} = -\frac{\theta_i}{P}-\frac{\mu_i}{P_i}\frac{Y^{\*}}{P}$
     - and $\frac{\partial v}{\partial Y} = \frac{1}{P} \frac{\partial Y^*}{\partial Y} = \frac{1}{P}$, $\frac{\partial P}{\partial P_i} = \frac{\mu_i}{P_i} P$
   - The optimized problem is:
     - $min \sum_i P_i C_i$
