@@ -171,7 +171,7 @@ title: CGE
     - $\epsilon_{ij} = \frac{\partial C_i}{\partial P_j}\frac{P_i}{C_j} = - \frac{\mu_i \theta_j P_j}{P_i C_i} = - \frac{\mu_i \theta_j P_j}{s_i Y}$
 - Welfare
   - Incorporate demand function and utility function, we can calculate the indirect utility function:
-    - $v(P,Y) = \prod_i (C_i-\theta_i)^{\mu_i}$, or $v(P,Y) = \prod_i (\frac{\mu_i}{P_i}Y^*)^{\mu_i} = \frac{Y^*}{P}$
+    - $v(P,Y) = \prod_i (C_i-\theta_i)^{\mu_i}$, or $v(P,Y) = \prod_i (\frac{\mu_i}{P_i}Y^{\*})^{\mu_i} = \frac{Y^{\*}}{P}$
     - Where parameter $\mu$ have been normalized.
     - Indirect utility measures the we can obtain the maximized utility given the income and price
   - For the dual theory, we can calculate the Marshallian demand function:
