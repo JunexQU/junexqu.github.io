@@ -35,9 +35,66 @@ xtreg invest mvalue kstock,re
 est store re_result
 hausman fe_result re_result
 ```
-- Robust Hausman
-- Corrected Hausman
-- Over-estimation Wald
-- Mundlak
-- Bootstrap Hausman
+- Serial correlation test and Heteroskedasticity test
+```Stata
+xtserial invest mvalue kstock
 
+xtreg invest mvalue kstock,fe
+xttest3
+```
+- Robust Hausman
+```Stata
+webuse grunfeld, clear
+xtset company year
+quiet xtreg invest mvalue kstock,re
+scalar theta = e(theta)
+global xlist2 invest mvalue kstock
+sort company
+foreach x of varlist $xlist2 {
+     by company: egen mean`x' = mean(`x')
+     generate md`x' = `x' - mean`x'
+     generate red`x' = `x' - theta*mean`x'
+      }
+quiet reg redinvest redmvalue redkstock mdmvalue mdkstock, vce(cluster company)
+test mdmvalue mdkstock
+```
+- Corrected Hausman
+```Stata
+xtreg invest mvalue kstock,fe
+est store fe_result
+xtreg invest mvalue kstock,re
+est store re_result
+hausman fe_result re_result,sigmamore
+```  
+- Over-estimation Wald
+```Stata
+xtreg invest mvalue kstock, re cluster(company)
+ xtoverid
+```    
+- Mundlak
+ ```Stata
+local xlist "mvalue kstock"
+foreach f of local xlist{
+  bysort company: egen mean_`f' = mean(`f')
+}
+xtreg invest mvalue kstock mean_mvalue mean_kstock, re vce(robust)
+est store Mundlak_result
+
+test mean_mvalue mean_kstock
+```  
+- Bootstrap Hausman
+ ```Stata
+xtreg invest mvalue kstock,fe
+est store fe_result
+xtreg invest mvalue kstock,re
+est store re_result
+rhausman fe_result re_result,reps(200) cluster
+```
+- Interface related inspection
+ ```Stata
+qui xtreg invest mvalue kstock, fe
+xttest2
+
+qui xtreg invest mvalue kstock, re
+xtcsd, pesaran
+```
