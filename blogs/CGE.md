@@ -217,3 +217,107 @@ title: CGE
         - $\epsilon_{ii} = \frac{\theta_i}{C_i}(1-\mu_i)-1 = \frac{P_i \theta_i}{Y} \frac{1-\mu_i}{s_i}-1 = (s_i-\frac{\mu_i Y^*}{Y})(\frac{1-s_i \eta_i}{s_i})-1 = (s_i + \frac{s_i \eta_i}{\phi})(\frac{1}{s_i}-\eta_i)-1 = 1- s_i \eta_i + \frac{s_i \eta_i}{\phi}(\frac{1}{s_i}-\eta_i)-1 = -s_i \eta_i + \frac{\eta_i}{\phi} (1-s_i \eta_i)$
         - $\epsilon_{ij} = - \frac{\mu_i \theta_j P_j}{s_i Y} = - \frac{\mu_i(P_j C_j -\mu_j Y^{\*})}{s_i Y} = - \eta_i (s_j - s_j \eta_j \frac{Y^{\*}}{Y}) = - \eta_i s_j (1+\frac{\eta_j}{\phi})$
         - $\theta_i  = C_i - \frac{\mu_i}{P_i} Y^* = C_i - \frac{s_i \eta_i}{P_i} Y^* C_i (1+\frac{\eta_i}{\phi})$
+- Extended LES: incorporate saving
+  - Fluch and Howe introduce the saving decision into the consumption decision to maximize intertemporal utility:
+    - $U = \prod_i (C_i-\theta_i)^{\mu_i} (\frac{S}{P^s})^{\mu_s}$, and $\sum_i \mu_i+\mu_s=1$
+    - Where $U$ is the utility, $C$ is the consumption, $S$ is the saving, $P^s$ is the saving price, $\mu$ is the marginal consumption propensity and $\theta$ is the basic living consumption
+    - Saving is condiered as a good, with the lowest utility 0, and the $\theta_{saving}=0$. It is a price variable rather than a quantity variable.
+  - The optimized problem is:
+    - max $\prod_i (C_i-\theta_i)^{\mu_i} (\frac{S}{P^s})^{\mu_s}$
+    - s.t. $\sum_i P_i C_i + S = Y$
+    - Where $Y$ is the income and $P$ is the price vector.
+  - Demand function is:
+    - $C_i = \theta_i + \frac{\mu_i}{P_i}(Y-\sum_j P_i \theta_j)$, $1 \leq i \leq n$
+    - $S = \mu_s (Y-\sum_j P_i \theta_j) = Y-\sum_j P_j \theta_j$
+  - The income and price elasticity is:
+    - $\eta_i = \frac{\mu_i Y}{P_i C_i} = \frac{\mu_i}{s_i}$, $\eta_s = \frac{\mu_s Y}{S} = \frac{\mu_s}{s}$
+    - $\epsilon_i = \frac{\theta_i(1-\mu_i)}{C_i}-1$, $\epsilon_i = -1$
+    - $\epsilon_{ij} = - \frac{\mu_i \theta_j P_j}{P_i C_i} = - \frac{\mu_i \theta_j P_j}{s_i Y}$, and $\epsilon_{sj} = - \frac{\mu_s \theta_j P_j}{sY} = -\frac{\theta_j P_j}{Y^{\*}}$
+  - The indirect utilit function can be expressed as:
+    - $v(P,Y) = \prod_i (\frac{\mu_i}{P_i}Y^{\*})^{\mu_i}(\frac{\mu_s}{P^s}Y^{\*})^{\mu_s}$
+    - or $v(P,Y)=\frac{Y^{\*}}{P}$, where $P = \prod_i (\frac{P_i}{\mu_i})^{\mu_s} (\frac{P^s}{\mu_s})^{\mu_s}$
+  - Given the utility, expenditure function can be expressed as:
+    - min $\sum_i P_i C_i + S$
+    - s.t. $\prod_i (C_i - \theta_i)^{\mu_i} (\frac{S}{P^s})^{\mu_s} = \mu$
+    - Thus, the expenditure function is: $E(P,\mu)=\sum_i P_i \theta_i + \mu P$, where $P=\prod_i (\frac{P_i}{\mu_i})^{\mu_s} (\frac{P^s}{\mu_s})^{\mu_s}$
+  - Calibration:
+    - Estimate average budget: $\mu_i = \frac{\eta_i P_i C_i}{Y} = \eta_i s_i$
+    - Saving's marginal budget share: $\mu_s = 1-\sum_i \mu_i$
+    - For a linear system, we can write: $C = I\theta + MY - M \prod \theta$, where $I$ is a $n \times n$ matrix, $M$ is the diagnose matrix with the elements $\mu_i/P_i$, $\prod$ is the same row matrix with the element of inverse price matrix
+      - $\theta = A^{-1}C^{\*}$, where $A = I-M \prod$, $C^{\*} = C-MY$
+      - $A$ is denoted as: A = [a_{ij}] = $1-\mu_i$ if $i=j$, and $-\mu_i \frac{P_j}{P_i}$ if $i \neq j$
+      - $C$ is written as: $C^{\*} = [c_i] = C_i - \frac{\mu_i Y}{P_i}$
+      - If the price vector is normalized to 1, a simplified matrix can be obtained:
+        - $A=[a_{ij}] = 1-\mu_i$ if $i=j$ and $-\mu_i$ if $i \neq j$
+        - $C^{\*} = [c_i] = C_i - \mu_i$
+- Almost ideal demand system (AIDS):
+  - A more flexible function
+    - For a expenditure function: $E(P,\mu) = e^{a(P)} e^{\mu b(P)}$
+    - Where $a(P) = a_0 + \sum_i a_i ln(P_i) + \frac{1}{2}\sum_i \sum_j \gamma_{ij}^{\*} ln(P_i) ln(P_j)$, $b(P)=\beta_0\prod_i P_i^{\beta_i}$
+  - Taking the partial derivative of $P$ with respect to $E$, we can obtain the Hicksian demand function:
+    - $H_i(P,\mu) = \frac{\partial E}{\partial P_i} = e^{a(P)} e^{\mu b(P)}\frac{\partial a(p)}{\partial P_i}+e^{a(P)}e^{\mu b(P)} \mu \frac{\partial b(p)}{\partial P_i}$
+      - $= E(\frac{\alpha_i}{P_i} + \frac{1}{2P_i} \sum_j \gamma_{ij}^{\*} ln(P_j) + \frac{1}{2P_i}\sum_j \gamma_{j,i}^{\*} ln(P_j)) + E(\mu b(p)\frac{\beta_i}{P_i})$
+      - $= \frac{E}{P_i} (\alpha_i + \sum_j \gamma_{ij} ln (P_j) + \mu \beta_i b(p))$
+      - Where $\gamma_{ij} = \frac{1}{2}(\gamma_{ij}^{\*} + \gamma_{ji}^{\*}) = \gamma_{ji}$
+      - Take the $(ln(E)-a)/b$ to replace $\mu$ and multiply $P_i/E$:
+        - $s_i = \alpha_i + \sum_j \gamma_{ij} ln P_j + \beta_i (ln(E) - a(P))$, where $s_i$ is the budget share on commodity $i$.
+      - When the optimizing, $E=Y$:
+        - $ln(P) = \alpha_0 + \sum_j \alpha_j ln (P_j) + \frac{1}{2} \sum_i \sum_j \gamma_{ij} ln(P_i) ln(P_j)$
+        - So, $s_i = \alpha_i + \sum_j \gamma_{ij} ln(P_j) + \beta_i ln(Y/P)$
+    - If we take the logrithm, the equation can be considered as linear relationship.
+    - Taking the partial derivative of $P$ with respect to $P$, the elasticity is:
+      - $\epsilon_{ij} = \frac{\partial C_i}{\partial P_i} \frac{P_i}{C_i} = -1 + \frac{P_i}{s_i}\frac{\partial s_i}{\partial P_i} = -1 + \frac{P_i}{s_i}(\frac{\gamma_{ii}}{P_i}-\frac{\beta_i}{P_i} \frac{\partial P}{\partial P_i}) = -1+\frac{P_i}{s_i}(\frac{\gamma_{ii}}{P_i}-\beta_i P(\frac{\alpha_i}{P_i}+\frac{1}{P_i}\sum_k \gamma_{ik} ln P_k)) = -1+ \frac{\gamma_{ii}}{s_i}-\frac{\beta_i \alpha_i}{s_i} - \frac{\beta_i}{s_i} \sum_k \gamma_{ik} ln(P_k)$
+      - $\epsilon_{ij} = \frac{\partial C_i}{\partial P_j} \frac{P_j}{C_i} = \frac{\partial s_i}{\partial P_j} \frac{P_j}{s_i} = (\frac{\gamma_{ij}}{P_j}-\frac{\beta_i}{P}\frac{\partial P}{\partial P_j})\frac{P_j}{s_i} = \frac{\gamma_{ij}}{P_j} - \frac{\beta_i}{P} P(\frac{\alpha_j}{P_j} + \frac{1}{P_j}\sum_k \gamma_{jk} ln (P_k))\frac{P_j}{s_i} = \frac{\gamma_{ij}}{s_i}-\frac{\beta_i \alpha_j}{s_i}-\frac{\beta_i}{s_i} \sum_k \gamma_{jk} ln (P_k)$
+    - We can conbine these two equation:
+      - $\epsilon_{ij} = -\delta_{ij} + \frac{\gamma_{ij}}{s_i} - \frac{\beta_i \alpha_j}{s_i} - \frac{\beta_i}{s_i}\sum_k \gamma_{jk} ln (P_k)$
+      - Where $\delta_{ij}$ is the Kronecker Delta, when $i=j$, $\delta_{ij}=1$, otherwise $\delta_{ij}=0$
+    - Income elasticity is:
+      - $\eta_i = \frac{\partial C_i}{\partial Y} \frac{Y}{C_i} = \frac{Y}{s_i}\frac{\partial s_i}{\partial Y}+1 = \frac{Y}{s_i}\frac{\beta_i}{Y}+1 = 1+\frac{\beta_i}{s_i}$
+      - $\sum_i \beta_i=0$, $\sum_i \alpha_{j}=1$, $\sum_i \gamma_{ij} = 0$
+      - The homogeneity requirement is $\sum_j \gamma_{ij} = 0$
+      - The symmetry requirement is: $\gamma_{ij} = \gamma_{ji}$
+    - Compensated price elasticity can be derived from Slutsky equation:
+      - $\xi_{ij} = \epsilon_{ij} + s_j\eta_i = \epsilon_{ij} + s_j + \frac{s_j}{s_i} \beta_i$
+    - Substitute elasticity is:
+      - $\sigma_{ij} = \frac{\xi_{ij}}{s_j}$
+      - $\sigma_{ij} = \frac{1}{s_j}(- \delta_{ij} + \frac{\gamma_{ij}}{s_i}-\frac{\beta_i \alpha_j}{s_i}-\frac{\beta_i}{s_i} \sum_k \gamma_{jk} ln (P_k) + s_j + \frac{s_j}{s_i}\beta_i)$
+      - From the budget equation:
+        - $s_j - \alpha_j -\sum_k \gamma_{jk} ln(P_k) = \beta_j ln(Y/P)$
+      - $\sigma_{ij} = \frac{1}{s_j}(- \delta_{ij} + \frac{\gamma_{ij}}{s_i}-\frac{\beta_i \alpha_j}{s_i}-\frac{\beta_i}{s_i} \sum_k \gamma_{jk} ln (P_k) + s_j + \frac{s_j}{s_i}\beta_i)$
+        - = $\frac{1}{s_j}(- \delta_{ij} + \frac{\gamma_{ij}}{s_i}+\frac{\beta_i}{s_i}(s_j - \alpha_j - \gamma_{jk} ln (P_k)) + s_j )$
+        - = $\frac{1}{s_j}(- \delta_{ij} + \frac{\gamma_{ij}}{s_i}+\frac{\beta_i}{s_i}\beta_j ln(Y/P) + s_j)$
+        - = $1-\frac{\delta_{ij}}{s_j} + \frac{\gamma_{ij}}{s_i s_j} + \frac{\beta_i \beta_j}{s_i s_j} ln (Y/P)$
+      - Calibration:
+        - min $\sum_i sum_{j \neq i} (\sigma_{ij} - \sigma_{ij}^0)^2$
+        - s.t. 
+          - $ln(P) = \alpha_0 + \sum_j \alpha_j ln (P_j) + \frac{1}{2} \sum_i \sum_j \gamma_{ij} ln(P_i) ln(P_j)$
+          - $s_i = \alpha_i + \sum_j \gamma_{ij} ln(P_j) + \beta_i ln(Y/P)$
+          - $\sum_i \alpha_{i}=1$
+          - $\sigma_{ij} = 1+ \frac{\gamma_{ij}}{s_i s_j} + \frac{\beta_i \beta_j}{s_i s_j} ln (Y/P)$, for $i < j$
+          - $\sum_j \gamma_{ji} = 0$
+          - $\gamma_{ij} = \gamma_{ji}$, for $i < j$
+    - Armington assumption: import demand
+      - Given the total demand $TA$, $r$ is region and $i$ is sector, $XD$ is demand for intracountry commodity and $XM$ displays the imported commodity demand, with the price $PA, PD, PMT$
+      - For the first layer of CES function:
+        - $XD_{r,i} = \alpha_{r,i}^d(\frac{PA_{r,i}}{PD_{r,i}})^{\sigma_{r,i}} XA_{r,i}$
+        - $XM_{r,i} = \alpha_{r,i}^m(\frac{PA_{r,i}}{PMT_{r,i}})^{\sigma_{r,i}} XA_{r,i}$
+        - $PA_{r,i} = (\alpha_{r,i}^d PD_{r,i}^{1-\sigma_{r,i}} + \alpha_{r,i}^m PM_{r,i}^{1-\sigma_{r,i}})^{\frac{1}{1-\sigma_{r,i}}}$
+      - For the second layer of the CES function, we can obtain the international trade flow
+        - $WTF_{r',r,i} = A_{r',r}(\frac{PMT_{r,i}}{PM_{r',r,i}})^{w_{r,i}} XM_{r,i}$
+        - $PMT_{r,i} = (\sum_{r'} PM_{r',r,i}^{1-w_{r,i}})^{1/(1-w_{r,i})}$
+        - Where $PM$ is the dual import price of region $r$ from $r'$, $w$ is the substitute elasticity
+      - If we take the AIDS function, it can clearly display the cross-price elasticity between regions and income effects. The first layer is
+        - $s_{r',r,i} = \alpha_{r',r,i} + \sum_{r''} \gamma_{r',r'',r,i} ln(PM_{r'',r,i}^{a}) + \beta_{r',r,i} ln(XA_{r,i})$
+          - This equation dipicts the imported commodity $i$ in region $r$ from $r'$, consisting with three main parts: (1) transformation parameter depicts the market influence of imported commodity; (2) changes in imported share induced by imported price (cross-price elasticity) and (3) changes in imported share induced by total demand
+      - The price equation is:
+        - $ln(PA_{r,i}) = \alpha_{0,r,i} + \sum_{r'} \alpha_{r',r'i}ln(PM_{r',r,i}^a) + \frac{1}{2}\sum_{r'}\sum_{r''}\gamma_{r',r'',r,i}ln(PM_{r',r,1}^{a})ln(PM_{r'',r,i}^a)$
+        - Diagnose elements $PM_{r,r}^a$: represents the synthetic value of the domestic price $PD$ and import price $PM$ of Commodity $XD$ 
+        - Non-diagnose elements is 
+          - $WTF_{r',r,i} = s_{r',r,i} \frac{PA_{r',r,i} XA_{r',r,i}}{PM_{r',r,i}^{\alpha}}$, for $r' \neq r$
+          - $PM_{r',r,i}^{\alpha} = PM_{r',r,i}$ for $r' \neq r$
+        - Specifically, we denote $XDM$ with a price $PDM$ is the diagnose elements for AIDS function, taking the CES form, $XDM$ can be decomposed into $XD$ and $WTF_{r,r}$
+          - $XDM_{r,i} = s_{r,r,i}\frac{PA_{r,i} XA_{r,i}}{PA_{r,r,i}^{\alpha}}$
+          - $XD_{r,i} = \alpha_d (\frac{PDM_{r,i}}{PD_{r,i}})^{\sigma} XDM_{r,i}$
+          - $WTF_{r,r,i} = \alpha_m(\frac{PDM_{r,i}}{PD_{r,i}})^{\sigma} XDM_{r,i}$
+          - $PDM_{r,i} = (\alpha_d PD^{1-\sigma} + \alpha_m PM_{r,r,i}^{1-\sigma})^{1/(1-\sigma)}$
+          - $PM_{r,r,i}^{\alpha} = PDM_{r,i}$
