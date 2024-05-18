@@ -27,6 +27,10 @@ title: Diao, M., Kong, H. & Zhao, J. Impacts of transportation network companies
 
 ### **Findings:**
 
+<center>
+<img src="/blogs/review.assets/Diao2021005.png">
+</center>
+
 - TNCs increased road congestion in terms of both intensity and duration
 - TNC leads to a decline of PT ridership and reduce vehicle ownership
 
