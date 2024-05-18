@@ -20,7 +20,7 @@ title: femreg
   - fixed effects: relative to others represented by intercept
   - The equation can be written equivalently as: $Y_{it} = \beta_0 + \beta_1 X_{it} + \gamma_2 D2_i + \gamma_3 D3_i + ... + \gamma_n Dn_i + \mu_{it}$
 - To estimate a regression with individual intercepts:
-  - $Y_{it} - \overline{Y}_i = \beta_0 + \beta_1 (X_{it}-\overline{X_{i}})+\epsilon_{it}$
+  - $Y_{it} - \overline{Y}_i = \beta_0 + \beta_1 (X_{it}- \overline{X_{i}})+ \epsilon_{it}$
 - Two-way fixed effects model
   - $Y_{it} = \beta_i + \beta_t + \beta_1 X_{it} + \epsilon_{it}$
   - We are looking at variation within individual as well as within year at this point
@@ -28,13 +28,13 @@ title: femreg
 ### Test
  
 - Hausman
-  '''Stata
+```Stata
 xtreg invest mvalue kstock,fe
 est store fe_result
 xtreg invest mvalue kstock,re
 est store re_result
 hausman fe_result re_result
-  '''
+```
 - Robust Hausman
 - Corrected Hausman
 - Over-estimation Wald
