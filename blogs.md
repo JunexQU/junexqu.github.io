@@ -16,7 +16,7 @@ title: Blogs
 - [Behrer, A.P., Heft-Neal, S. Higher air pollution in wealthy districts of most low- and middle-income countries. Nat Sustain 7, 203–212 (2024)](blogs/Behrer2024.md)
 - [Zhang, P., Carleton, T., Lin, L. et al. Estimating the role of air quality improvements in the decline of suicide rates in China. Nat Sustain 7, 260–269 (2024)](blogs/ZhangNS2024.md)
 - [Du, J., Liu, Y., Xu, Z. et al. Global effects of progress towards Sustainable Development Goals on subjective well-being. Nat Sustain 7, 360–367 (2024)](blogs/DuNS2024.md)
-- [Bruckner, B., Hubacek, K., Shan, Y. et al. Impacts of poverty alleviation on national and global carbon emissions. Nat Sustain 5, 311–320 (2022)](blogs/BrucknerNS2022.md)
+- [**Bruckner, B., Hubacek, K., Shan, Y. et al. Impacts of poverty alleviation on national and global carbon emissions. Nat Sustain 5, 311–320 (2022)**](blogs/BrucknerNS2022.md)
 - [**Colon, C., Hallegatte, S. & Rozenberg, J. Criticality analysis of a country’s transport network via an agent-based supply chain model. Nat Sustain 4, 209–215 (2021)**](blogs/ColonNS2021.md)
 - [Diao, M., Kong, H. & Zhao, J. Impacts of transportation network companies on urban mobility. Nat Sustain 4, 494–500 (2021)](blogs/DiaoNS2021.md)
 - [Xu, Z., Li, Y., Chau, S.N. et al. Impacts of international trade on global sustainable development. Nat Sustain 3, 964–971 (2020)](blogs/Asensio2020.md)
