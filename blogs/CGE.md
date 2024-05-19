@@ -321,3 +321,46 @@ title: CGE
           - $WTF_{r,r,i} = \alpha_m(\frac{PDM_{r,i}}{PD_{r,i}})^{\sigma} XDM_{r,i}$
           - $PDM_{r,i} = (\alpha_d PD^{1-\sigma} + \alpha_m PM_{r,r,i}^{1-\sigma})^{1/(1-\sigma)}$
           - $PM_{r,r,i}^{\alpha} = PDM_{r,i}$
+#### Labor market
+- Wage rigidity: when income cannot adjust to represent the productivity
+  - Government intervention in the labor market to ensure a basic standard of living or to limit wage growth
+  - Non-competitive wage distortions caused by different market forces between workers and employers
+- Minimum wage of group $l$:
+  - $w_i \geq \overline{w_l}$
+- To alleviate the extra freedom, we add Orthogonality condition
+  - $(w_l - \overline{w_l})(L_l^S - L_l^D) = 0$, where $L_l^S$ and $L_l^D$ are the labor supply and demand
+- To correct the informal labor supply:
+  - $L_N^S = \overline{L_N^S} + (L_l^S-L_l^D)$
+- If some groups have certain bargaining power $\beta_{li}$, labor can obtain extra income (w_{li}) beyond competitive wage $w_l$:
+  - $w_{li} = 1+\frac{\beta_{li}}{1-\beta_{li}}\frac{r}{w_l L_{li}^D}$, where $r$ is the producer's rent from production activity
+- Negotiation income: (1) Monopoly union model; (2) Efficient bargaining model
+  - For an union members, everyone has the same utility $U(w_{li}w_l)$, so a union's utility is:
+    - $V(w_{li}w_l,L_{li}^D)=(\frac{L_{li}^D}{L_{li}^0})U(w_{li}w_l) + (1-\frac{L_{li}^D}{L_{li}^0})U(w_l)$
+    - $L_{li}^0$ is the maximum count of union members
+  - The overall welfare function can be written as the labor's utility in union and in other sectors:
+    - $V(w_{li}w_l,L_{li}^D)-V(w_l,L_{li}^D) = \frac{L_{li}^D}{L_{li}^0}(U(w_{li}w_l)-U(w_l))$
+  - The Lagrangian function is:
+    - max $L_{li}^D(U(w_{li}w_l)-U(w_l))+\lambda(L_{li}^0-L_{li}^D)$
+  - When $\lambda=0$, the solution is:
+    - $\frac{U_w(ww_l)}{\sigma}=\frac{U(ww_l)-U(w_l)}{w}$, where $\sigma$ is the income elasticity of labor demand in CES function
+- labor participation:
+  - $r_h = \alpha + \frac{\beta}{1+\gamma e^{- \delta \overline{w_h}}}$
+  - where $\overline{w_h} = \sum_l w_l \frac{\theta_{lh}}{CPI_h}$
+- Labor migrant:
+  - Harris-Todaro model: $\frac{L_{lr}}{L_{lu}} = \alpha_l (\frac{W_{lr_{rk}}}{W_{lu}})^{\mu_l}$
+  - CET migrant model: 
+    - max $W_{rk}L_{rk} + W_{uk}L_{uk}$
+    - s.t. $FS_k = \alpha_k (\beta_k L_{rk}^{\lambda}+\gamma(1-\beta_k)L_{uk}^{\lambda})^{1/\lambda}$
+    - where $\lambda = \frac{\mu+1}{\mu}$
+  - $\frac{U}{R} = \alpha (\frac{w}{v})^{\gamma}$
+
+#### Production activity
+- Leontief intermediate function:
+  - $N_i^D = \sum_j \alpha_{ji} X_i$
+- Production price is divided into intermediate and value added:
+  - $PX_i = PN_i + PVA_i = \sum_j \alpha_{ji}PQ_i +(1+t_i^{VA})(1+\mu_i)(w_i\lambda_i+r_i k_i)$
+  - where $t_i^{VA}$ is the value-added tax and $\mu_i$ is the profit rate
+- A simplified CES model: input substitution
+  - $VA = \alpha (\beta L^{(\sigma-1)/\sigma}+(1-\beta)K^{(\sigma-1)/\sigma})^{\sigma/(\sigma-1)}$
+- Constant difference in elasticity (CDE): substitution and complementary:
+- Translog production function 
