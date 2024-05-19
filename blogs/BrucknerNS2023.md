@@ -10,7 +10,7 @@ title: Bruckner, B., Shan, Y., Prell, C. et al. Ecologically unequal exchanges d
 - Few studies look at the geographical distribution of these environmental pressures and impacts
 
 ### **Case:**
-- California
+- EU
 
 ### **Methodology:**
 - MRIO approach
