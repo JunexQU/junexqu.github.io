@@ -54,6 +54,9 @@ title: Huang, X., Srikrishnan, V., Lamontagne, J. et al. Effects of global clima
 <img src="/blogs/review.assets/HuangNS2023005.png">
 </center>
 
+<center>
+<img src="/blogs/review.assets/HuangNS2023006.png">
+</center>
 
 ### **Coding Reference:**
 
