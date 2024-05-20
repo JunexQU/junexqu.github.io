@@ -32,7 +32,8 @@ title: Blogs
 - [Xu, Z., Li, Y., Chau, S.N. et al. Impacts of international trade on global sustainable development. Nat Sustain 3, 964–971 (2020)](blogs/Asensio2020.md)
 - [Mi, Z., Zheng, J., Meng, J. et al. Economic development and converging household carbon footprints in China. Nat Sustain 3, 529–537 (2020)](blogs/MiNS2020.md)
 - [Liu, H., Meng, ZH., Lv, ZF. et al. Emissions and health impacts from global shipping embodied in US–China bilateral trade. Nat Sustain 2, 1027–1033 (2019)](blogs/Liu et al NS2019.md)
-- [Liang, X., Zhang, S., Wu, Y. et al. Air quality and health benefits from fleet electrification in China. Nat Sustain 2, 962–971 (2019))](blogs/Liang et al NS2019.md)
+- [Liang, X., Zhang, S., Wu, Y. et al. Air quality and health benefits from fleet electrification in China. Nat Sustain 2, 962–971 (2019)](blogs/Liang et al NS2019.md)
+- [Bain, P.G., Kroonenberg, P.M., Johansson, LO. et al. Public views of the Sustainable Development Goals across countries. Nat Sustain 2, 819–825 (2019)](blogs/Bain et al NS2019.md)
 
 
 ### Nature Human Behavior
