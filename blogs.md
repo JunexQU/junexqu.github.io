@@ -31,6 +31,7 @@ title: Blogs
 - [Diao, M., Kong, H. & Zhao, J. Impacts of transportation network companies on urban mobility. Nat Sustain 4, 494–500 (2021)](blogs/DiaoNS2021.md)
 - [Xu, Z., Li, Y., Chau, S.N. et al. Impacts of international trade on global sustainable development. Nat Sustain 3, 964–971 (2020)](blogs/Asensio2020.md)
 - [Mi, Z., Zheng, J., Meng, J. et al. Economic development and converging household carbon footprints in China. Nat Sustain 3, 529–537 (2020)](blogs/MiNS2020.md)
+- [Liu, H., Meng, ZH., Lv, ZF. et al. Emissions and health impacts from global shipping embodied in US–China bilateral trade. Nat Sustain 2, 1027–1033 (2019)](blogs/Liu et al NS2019.md)
 
 
 ### Nature Human Behavior
