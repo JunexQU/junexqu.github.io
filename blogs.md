@@ -20,6 +20,7 @@ title: Blogs
 - [Yang, H., Huang, X., Westervelt, D.M. et al. Socio-demographic factors shaping the future global health burden from air pollution. Nat Sustain 6, 58–68 (2023)](blogs/YangNS2023.md)
 - [Bergero, C., Gosnell, G., Gielen, D. et al. Pathways to net-zero emissions from aviation. Nat Sustain 6, 404–414 (2023)](blogs/BergeroNS2023.md)
 - [Bruckner, B., Shan, Y., Prell, C. et al. Ecologically unequal exchanges driven by EU consumption. Nat Sustain 6, 587–598 (2023)](blogs/BrucknerNS2023.md)
+- [Camilleri, S.F., Montgomery, A., Visa, M.A. et al. Air quality, health and equity implications of electrifying heavy-duty vehicles. Nat Sustain 6, 1643–1653 (2023)](blogs/CamilleriNS2023.md)
 - [Xia, Y., Liao, C., Chen, X. et al. Future reductions of China’s transport emissions impacted by changing driving behaviour. Nat Sustain 6, 1228–1236 (2023)](blogs/Xia et al NS2023.md)
 - [Huang, X., Srikrishnan, V., Lamontagne, J. et al. Effects of global climate mitigation on regional air quality and health. Nat Sustain 6, 1054–1066 (2023)](blogs/HuangNS2023.md)
 - [Liang, J., Qiu, Y., Liu, P. et al. Effects of expanding electric vehicle charging stations in California on the housing market. Nat Sustain 6, 549–558 (2023)](blogs/LiangNS2023.md)
