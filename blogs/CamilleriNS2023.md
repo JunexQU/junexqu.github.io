@@ -44,8 +44,6 @@ title: Camilleri, S.F., Montgomery, A., Visa, M.A. et al. Air quality, health an
 <img src="/blogs/review.assets/CamilleriNS2023003.png">
 </center>
 
-- The deforestation method is a key assumption driving the OC emissions increases
-
 <center>
 <img src="/blogs/review.assets/CamilleriNS2023004.png">
 </center>
