@@ -9,6 +9,7 @@ title: Blogs
 ### Nature
 - [Sun, Y., Zhu, S., Wang, D. et al. Global supply chains amplify economic costs of future extreme heat risk. Nature 627, 797–804 (2024)](blogs/Sun et al Nature2024.md)
 - [Verbavatz, V., Barthelemy, M. The growth equation of cities. Nature 587, 397–401 (2020)](blogs/Verbavatz Nature2020.md)
+- [Alessandretti, L., Aslak, U. & Lehmann, S. The scales of human mobility. Nature 587, 402–407 (2020)](blogs/Alessandretti Nature2020.md)
 - [**Weiss, D., Nelson, A., Gibson, H. et al. A global map of travel time to cities to assess inequalities in accessibility in 2015. Nature 553, 333–336 (2018)**](blogs/Weiss2018.md)
 
 
