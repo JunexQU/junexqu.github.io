@@ -10,7 +10,7 @@ title: Sun, Y., Zhu, S., Wang, D. et al. Global supply chains amplify economic c
 - Provide insight into the far reaching impacts of heat stress across global supply chains and how such impacts evolve spatially and over long time scales
 
 ### **Case:**
-- 12 countries
+- Global countries
 
 ### **Methodology:**
 - Climate model:
