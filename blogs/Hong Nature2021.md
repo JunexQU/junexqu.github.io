@@ -49,6 +49,10 @@ title: Hong, C., Burney, J.A., Pongratz, J. et al. Global and regional drivers o
 <img src="/blogs/review.assets/Hong et al Nature2021005.png">
 </center>
 
+<center>
+<img src="/blogs/review.assets/Hong et al Nature2021006.png">
+</center>
+
 ### **Coding Reference:**
 
 - [Matlab](https://github.com/ChaopengHong/Land-use_Emissions)
