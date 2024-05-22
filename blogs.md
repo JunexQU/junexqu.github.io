@@ -7,8 +7,9 @@ title: Blogs
 ## Literature Review
 
 ### Nature
-- [Sun, Y., Zhu, S., Wang, D. et al. Global supply chains amplify economic costs of future extreme heat risk. Nature 627, 797–804 (2024)](blogs/Hong Nature2021.md)
-- [Hong, C., Burney, J.A., Pongratz, J. et al. Global and regional drivers of land-use emissions in 1961–2017. Nature 589, 554–561 (2021)](blogs/Sun et al Nature2024.md)
+- [Sun, Y., Zhu, S., Wang, D. et al. Global supply chains amplify economic costs of future extreme heat risk. Nature 627, 797–804 (2024)](blogs/Sun et al Nature2024.md)
+- [**Kotz, M., Levermann, A. & Wenz, L. The effect of rainfall changes on economic production. Nature 601, 223–227 (2022)**](blogs/Kotz Nature2022.md)
+- [Hong, C., Burney, J.A., Pongratz, J. et al. Global and regional drivers of land-use emissions in 1961–2017. Nature 589, 554–561 (2021)](blogs/Hong Nature2021.md)
 - [Schläpfer, M., Dong, L., O’Keeffe, K. et al. The universal visitation law of human mobility. Nature 593, 522–527 (2021)](blogs/Schläpfer Nature2021.md)
 - [Rode, A., Carleton, T., Delgado, M. et al. Estimating a social cost of carbon for global energy consumption. Nature 598, 308–314 (2021)](blogs/Rode Nature2021.md)
 - [Verbavatz, V., Barthelemy, M. The growth equation of cities. Nature 587, 397–401 (2020)](blogs/Verbavatz Nature2020.md)
