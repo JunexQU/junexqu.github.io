@@ -9,6 +9,7 @@ title: Blogs
 ### Nature
 - [Sun, Y., Zhu, S., Wang, D. et al. Global supply chains amplify economic costs of future extreme heat risk. Nature 627, 797–804 (2024)](blogs/Sun et al Nature2024.md)
 - [Wollburg, P., Hallegatte, S. & Mahler, D.G. Ending extreme poverty has a negligible impact on global greenhouse gas emissions. Nature 623, 982–986 (2023)](blogs/Wollburg Nature 2023.md)
+- [Nilforoshan, H., Looi, W., Pierson, E. et al. Human mobility networks reveal increased segregation in large cities. Nature 624, 586–592 (2023)](blogs/Nilforoshan Nature 2023.md)
 - [**Kotz, M., Levermann, A. & Wenz, L. The effect of rainfall changes on economic production. Nature 601, 223–227 (2022)**](blogs/Kotz Nature2022.md)
 - [Moore, F.C., Lacasse, K., Mach, K.J. et al. Determinants of emissions pathways in the coupled climate–social system. Nature 603, 103–111 (2022)](blogs/Moore Nature2022.md)
 - [Hong, C., Burney, J.A., Pongratz, J. et al. Global and regional drivers of land-use emissions in 1961–2017. Nature 589, 554–561 (2021)](blogs/Hong Nature2021.md)
