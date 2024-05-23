@@ -57,6 +57,7 @@ title: Blogs
 
 ### Nature Climate Change
 - [Wang, XT., Liu, H., Lv, ZF. et al. Trade-linked shipping CO2 emissions. Nat. Clim. Chang. 11, 945–951 (2021)](blogs/Wang2021.md)
+- [Marotzke, J., Semmann, D. & Milinski, M. The economic interaction between climate change mitigation, climate migration and poverty. Nat. Clim. Chang. 10, 518–525 (2020)](blogs/Marotzke NCC 2020.md)
 
 
 ### Nature Cities
