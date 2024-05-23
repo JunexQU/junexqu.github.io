@@ -23,11 +23,11 @@ title: Spilker, G., Nguyen, Q., Koubi, V. et al. Attitudes of urban residents to
 - Although residents in receiving areas view short-term climate events and long-term climate conditions as legitimate reasons to migrate, they do not see environmental migrants as more deserving than economic migrants. 
 
 <center>
-<img src="/blogs/review.assets/Spilker NCC2020 001.png">
+<img src="/blogs/review.assets/Spilker NCC2020001.png">
 </center>
  
 <center>
-<img src="/blogs/review.assets/Spilker NCC2020 002.png">
+<img src="/blogs/review.assets/Spilker NCC2020002.png">
 </center>
 
 ### **Coding Reference:**
