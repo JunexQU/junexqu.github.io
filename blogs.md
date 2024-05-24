@@ -61,6 +61,7 @@ title: Blogs
 - [Spilker, G., Nguyen, Q., Koubi, V. et al. Attitudes of urban residents towards environmental migration in Kenya and Vietnam. Nat. Clim. Chang. 10, 622–627 (2020)](blogs/Spilker NCC2020.md)
 - [Hoffmann, R., Dimitrova, A., Muttarak, R. et al. A meta-analysis of country-level studies on environmental change and migration. Nat. Clim. Chang. 10, 904–912 (2020)](blogs/Hoffmann NCC2020.md)
 - [Hsu, A., Tan, J., Ng, Y.M. et al. Performance determinants show European cities are delivering on climate mitigation. Nat. Clim. Chang. 10, 1015–1022 (2020)](blogs/Hsu NCC2020.md)
+- [Zhang, Z., Guan, D., Wang, R. et al. Embodied carbon emissions in the supply chains of multinational enterprises. Nat. Clim. Chang. 10, 1096–1101 (2020)](blogs/Zhang NCC2020.md)
 
 
 ### Nature Cities
