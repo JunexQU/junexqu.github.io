@@ -25,18 +25,34 @@ title: Hoffmann, R., Dimitrova, A., Muttarak, R. et al. A meta-analysis of count
 - Environmental conditions can either directly influence migration decisions or indirectly by affecting other migration drivers
 
 <center>
-<img src="/blogs/review.assets/Spilker NCC2020 001.png">
+<img src="/blogs/review.assets/Hoffmann NCC2020001.png">
+</center>
+
+<center>
+<img src="/blogs/review.assets/Hoffmann NCC2020002.png">
 </center>
  
 - a one standard deviation change in the environmental conditions leads to an increase in migration by 0.021 standard deviation
 - While changes in the level of precipitation tend to have only a small impact on migration, changes in variability and anomalies of rainfall usually show a significantly positive impact
 
 <center>
-<img src="/blogs/review.assets/Spilker NCC2020 002.png">
+<img src="/blogs/review.assets/Hoffmann NCC2020003.png">
 </center>
 
 - Considering global migrant, larger environmental effects for internal migration than for estimates
 - Considering international migrant, the effects are largest for the models assessing migration to low- or middle- income country destinations
+
+<center>
+<img src="/blogs/review.assets/Hoffmann NCC2020004.png">
+</center>
+
+<center>
+<img src="/blogs/review.assets/Hoffmann NCC2020005.png">
+</center>
+
+<center>
+<img src="/blogs/review.assets/Hoffmann NCC2020006.png">
+</center>
 
 ### **Coding Reference:**
 
