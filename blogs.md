@@ -62,6 +62,7 @@ title: Blogs
 - [Hoffmann, R., Dimitrova, A., Muttarak, R. et al. A meta-analysis of country-level studies on environmental change and migration. Nat. Clim. Chang. 10, 904–912 (2020)](blogs/Hoffmann NCC2020.md)
 - [Hsu, A., Tan, J., Ng, Y.M. et al. Performance determinants show European cities are delivering on climate mitigation. Nat. Clim. Chang. 10, 1015–1022 (2020)](blogs/Hsu NCC2020.md)
 - [Zhang, Z., Guan, D., Wang, R. et al. Embodied carbon emissions in the supply chains of multinational enterprises. Nat. Clim. Chang. 10, 1096–1101 (2020)](blogs/Zhang NCC2020.md)
+- [Milovanoff, A., Posen, I.D. & MacLean, H.L. Electrification of light-duty vehicle fleet alone will not meet mitigation targets. Nat. Clim. Chang. 10, 1102–1107 (2020)](blogs/Milovanoff 2020.md)
 
 
 ### Nature Cities
