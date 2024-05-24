@@ -59,6 +59,7 @@ title: Blogs
 - [Wang, XT., Liu, H., Lv, ZF. et al. Trade-linked shipping CO2 emissions. Nat. Clim. Chang. 11, 945–951 (2021)](blogs/Wang2021.md)
 - [Marotzke, J., Semmann, D. & Milinski, M. The economic interaction between climate change mitigation, climate migration and poverty. Nat. Clim. Chang. 10, 518–525 (2020)](blogs/Marotzke NCC 2020.md)
 - [Spilker, G., Nguyen, Q., Koubi, V. et al. Attitudes of urban residents towards environmental migration in Kenya and Vietnam. Nat. Clim. Chang. 10, 622–627 (2020)](blogs/Spilker NCC2020.md)
+- [Hoffmann, R., Dimitrova, A., Muttarak, R. et al. A meta-analysis of country-level studies on environmental change and migration. Nat. Clim. Chang. 10, 904–912 (2020)](blogs/Hoffmann NCC2020.md)
 
 
 ### Nature Cities
