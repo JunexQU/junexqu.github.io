@@ -44,6 +44,10 @@ title: Kotz, M., Wenz, L., Stechemesser, A. et al. Day-to-day temperature variab
 <img src="/blogs/review.assets/Kotz NCC2021003.png">
 </center>
 
+<center>
+<img src="/blogs/review.assets/Kotz NCC2021004.png">
+</center>
+
 ### **Coding Reference:**
 
 - [Python](https://zenodo.org/records/4323163)
