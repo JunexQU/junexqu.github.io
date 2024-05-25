@@ -57,6 +57,7 @@ title: Blogs
 
 ### Nature Climate Change
 - [Wang, XT., Liu, H., Lv, ZF. et al. Trade-linked shipping CO2 emissions. Nat. Clim. Chang. 11, 945–951 (2021)](blogs/Wang2021.md)
+- [Kotz, M., Wenz, L., Stechemesser, A. et al. Day-to-day temperature variability reduces economic growth. Nat. Clim. Chang. 11, 319–325 (2021)](blogs/Kotz NCC2021.md)
 - [Semieniuk, G., Taylor, L., Rezai, A. et al. Plausible energy demand patterns in a growing global economy with climate policy. Nat. Clim. Chang. 11, 313–318 (2021)](blogs/Semieniuk NCC2021.md)
 - [Marotzke, J., Semmann, D. & Milinski, M. The economic interaction between climate change mitigation, climate migration and poverty. Nat. Clim. Chang. 10, 518–525 (2020)](blogs/Marotzke NCC 2020.md)
 - [Spilker, G., Nguyen, Q., Koubi, V. et al. Attitudes of urban residents towards environmental migration in Kenya and Vietnam. Nat. Clim. Chang. 10, 622–627 (2020)](blogs/Spilker NCC2020.md)
