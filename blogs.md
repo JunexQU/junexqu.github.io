@@ -56,6 +56,7 @@ title: Blogs
 - [Guan, D., Wang, D., Hallegatte, S. et al. Global supply-chain effects of COVID-19 control measures. Nat Hum Behav 4, 577–587 (2020)](blogs/Guan2020.md)
 
 ### Nature Climate Change
+- [Creutzig, F., Niamir, L., Bai, X. et al. Demand-side solutions to climate change mitigation consistent with high levels of well-being. Nat. Clim. Chang. 12, 36–46 (2022)](blogs/Creutzig NCC2022.md)
 - [Wang, XT., Liu, H., Lv, ZF. et al. Trade-linked shipping CO2 emissions. Nat. Clim. Chang. 11, 945–951 (2021)](blogs/Wang2021.md)
 - [Soergel, B., Kriegler, E., Weindl, I. et al. A sustainable development pathway for climate action within the UN 2030 Agenda. Nat. Clim. Chang. 11, 656–664 (2021)](blogs/Soergel NCC2021.md)
 - [Kotz, M., Wenz, L., Stechemesser, A. et al. Day-to-day temperature variability reduces economic growth. Nat. Clim. Chang. 11, 319–325 (2021)](blogs/Kotz NCC2021.md)
