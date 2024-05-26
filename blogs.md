@@ -21,6 +21,7 @@ title: Blogs
 
 ### Nature Energy
 - [White, L.V., Riley, B., Wilson, S. et al. Geographies of regulatory disparity underlying Australia’s energy transition. Nat Energy 9, 92–105 (2024)](blogs/White NE2024001.md)
+- [Hernandez Carballo, I., Sisco, M.R. Examining the effects of gasoline prices on public support for climate policies. Nat Energy 9, 219–227 (2024)](blogs/Hernandez NE2024.md)
 
 ### Nature Sustainability
 - [Wu, H., Levinson, D. & Sarkar, S. How transit scaling shapes cities. Nat Sustain 2, 1142–1148 (2019)](blogs/0507.md)
