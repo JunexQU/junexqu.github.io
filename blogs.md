@@ -57,6 +57,7 @@ title: Blogs
 
 ### Nature Climate Change
 - [Benveniste, H., Oppenheimer, M. & Fleurbaey, M. Climate change increases resource-constrained international immobility. Nat. Clim. Chang. 12, 634–641 (2022)](blogs/Benveniste NCC2022.md)
+- [Chan, S., Hale, T., Deneault, A. et al. Assessing the effectiveness of orchestrated climate action from five years of summits. Nat. Clim. Chang. 12, 628–633 (2022)](blogs/Chan NCC2022.md)
 - [Creutzig, F., Niamir, L., Bai, X. et al. Demand-side solutions to climate change mitigation consistent with high levels of well-being. Nat. Clim. Chang. 12, 36–46 (2022)](blogs/Creutzig NCC2022.md)
 - [Wang, XT., Liu, H., Lv, ZF. et al. Trade-linked shipping CO2 emissions. Nat. Clim. Chang. 11, 945–951 (2021)](blogs/Wang2021.md)
 - [Soergel, B., Kriegler, E., Weindl, I. et al. A sustainable development pathway for climate action within the UN 2030 Agenda. Nat. Clim. Chang. 11, 656–664 (2021)](blogs/Soergel NCC2021.md)
