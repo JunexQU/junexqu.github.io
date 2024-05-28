@@ -24,6 +24,7 @@ title: Blogs
 - [Hernandez Carballo, I., Sisco, M.R. Examining the effects of gasoline prices on public support for climate policies. Nat Energy 9, 219–227 (2024)](blogs/Hernandez NE2024.md)
 - [Verpoort, P.C., Gast, L., Hofmann, A. et al. Impact of global heterogeneity of renewable energy supply on heavy industrial production and green value chains. Nat Energy 9, 491–503 (2024)](blogs/Verpoort NE2024.md)
 - [White, L.V., Sintov, N.D. Health and financial impacts of demand-side response measures differ across sociodemographic groups. Nat Energy 5, 50–60 (2020)](blogs/White NE2020.md)
+- [Oswald, Y., Owen, A. & Steinberger, J.K. Large inequality in international and intranational energy footprints between income groups and across consumption categories. Nat Energy 5, 231–239 (2020)](blogs/Oswald NE2020.md)
 
 ### Nature Sustainability
 - [Wu, H., Levinson, D. & Sarkar, S. How transit scaling shapes cities. Nat Sustain 2, 1142–1148 (2019)](blogs/0507.md)
