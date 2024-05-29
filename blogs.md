@@ -23,6 +23,7 @@ title: Blogs
 - [White, L.V., Riley, B., Wilson, S. et al. Geographies of regulatory disparity underlying Australia’s energy transition. Nat Energy 9, 92–105 (2024)](blogs/White NE2024001.md)
 - [Hernandez Carballo, I., Sisco, M.R. Examining the effects of gasoline prices on public support for climate policies. Nat Energy 9, 219–227 (2024)](blogs/Hernandez NE2024.md)
 - [Verpoort, P.C., Gast, L., Hofmann, A. et al. Impact of global heterogeneity of renewable energy supply on heavy industrial production and green value chains. Nat Energy 9, 491–503 (2024)](blogs/Verpoort NE2024.md)
+- [Wang, Q., Fan, J., Kwan, MP. et al. Examining energy inequality under the rapid residential energy transition in China through household surveys. Nat Energy 8, 251–263 (2023)](blogs/Wang NE2023.md)
 - [**Koch, N., Naumann, L., Pretis, F. et al. Attributing agnostically detected large reductions in road CO2 emissions to policy mixes. Nat Energy 7, 844–853 (2022)**](blogs/Koch NE2022.md)
 - [Popovich, N.D., Rajagopal, D., Tasar, E. et al. Economic, environmental and grid-resilience benefits of converting diesel trains to battery-electric. Nat Energy 6, 1017–1025 (2021)](blogs/Popovich NE2021.md)
 - [White, L.V., Sintov, N.D. Health and financial impacts of demand-side response measures differ across sociodemographic groups. Nat Energy 5, 50–60 (2020)](blogs/White NE2020.md)
