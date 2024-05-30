@@ -27,11 +27,11 @@ links:
   - title: DataSets
     url: /datasets/
   - title: Method
-    url: /blogs/
+    url: /method/
   - title: Nature
-    url: /blogs/
+    url: /nature/
   - title: Others
-    url: /blogs/
+    url: /other/
   
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone: China/Beijing
