@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /blogs/index.html
-title: Nature Review
+title: Others
 ---
 
 ## PNAS
