@@ -26,12 +26,12 @@ links:
     url: /awards/
   - title: DataSets
     url: /datasets/
-  - title: Method
-    url: /method/
-  - title: Nature
-    url: /nature/
+  - title: Methods
+    url: /methods/
+  - title: Natures
+    url: /natures/
   - title: Others
-    url: /other/
+    url: /others/
   
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone: China/Beijing
