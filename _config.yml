@@ -26,7 +26,11 @@ links:
     url: /awards/
   - title: DataSets
     url: /datasets/
-  - title: Blogs
+  - title: Method
+    url: /blogs/
+  - title: Nature Review
+    url: /blogs/
+  - title: PNAS and Science Review
     url: /blogs/
   
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
