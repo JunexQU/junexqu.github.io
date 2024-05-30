@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /natures/index.html
-title: Natures
+title: Nature Review
 ---
 
 ## Literature Review
