@@ -29,9 +29,9 @@ links:
   - title: Methods
     url: /methods/
   - title: Nature Review
-    url: /natures/
+    url: /nature/
   - title: Science & PNAS Review
-    url: /sciences/
+    url: /science/
   
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone: China/Beijing
