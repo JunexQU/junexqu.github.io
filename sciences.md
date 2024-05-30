@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /others/index.html
-title: Others
+permalink: /sciences/index.html
+title: Science & PNAS Review
 ---
 
 ## PNAS
