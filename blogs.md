@@ -89,7 +89,7 @@ title: Blogs
 - [Kontokosta, C.E., Hong, B. & Bonczak, B.J. Socio-spatial inequality and the effects of density on COVID-19 transmission in US cities. Nat Cities 1, 83–93 (2024)](blogs/Kontokosta2024.md)
 
 ### PNAS
-- [Pandey, Bhartendu, Christa Brelsford, and Karen C. Seto. "Infrastructure inequality is a characteristic of urbanization." Proceedings of the National Academy of Sciences 119.15 (2022)](blogs/Pandey PNAS2022)
+- [Pandey, Bhartendu, Christa Brelsford, and Karen C. Seto. "Infrastructure inequality is a characteristic of urbanization." Proceedings of the National Academy of Sciences 119.15 (2022)](blogs/Pandey PNAS2022.md)
 
 ## Research Method
 
