@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /blogs/index.html
-title: Blogs
+title: Nature Review
 ---
 
 ## Literature Review
