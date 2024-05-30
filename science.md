@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /sciences/index.html
+permalink: /science/index.html
 title: Science & PNAS Review
 ---
 
