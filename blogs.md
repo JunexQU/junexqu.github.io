@@ -87,12 +87,7 @@ title: Blogs
 - [Wang, H. The role of informal ruralization within China’s rapid urbanization. Nat Cities 1, 205–215 (2024)](blogs/HanxiWang2024.md)
 - [Kontokosta, C.E., Hong, B. & Bonczak, B.J. Socio-spatial inequality and the effects of density on COVID-19 transmission in US cities. Nat Cities 1, 83–93 (2024)](blogs/Kontokosta2024.md)
 
-### PNAS
-- [Pandey, Bhartendu, Christa Brelsford, and Karen C. Seto. Infrastructure inequality is a characteristic of urbanization. Proceedings of the National Academy of Sciences (2022)](blogs/Pandey PNAS2022.md)
-
-
 ## Research Method
-
 ### Econometrics
 - [Log-log regression](blogs/logRegression.md)
 - [Fixed effects regression](blogs/FEMReg.md)
