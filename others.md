@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /blogs/index.html
+permalink: /others/index.html
 title: Others
 ---
 
