@@ -54,7 +54,6 @@ title: Blogs
 - [Liang, X., Zhang, S., Wu, Y. et al. Air quality and health benefits from fleet electrification in China. Nat Sustain 2, 962–971 (2019)](blogs/Liang et al NS2019.md)
 - [Bain, P.G., Kroonenberg, P.M., Johansson, LO. et al. Public views of the Sustainable Development Goals across countries. Nat Sustain 2, 819–825 (2019)](blogs/Bain et al NS2019.md)
 
-
 ### Nature Human Behavior
 - [Abbiasov, T., Heine, C., Sabouri, S. et al. The 15-minute city quantified using human mobility data. Nat Hum Behav 8, 445–455 (2024)](blogs/Abbiasov2024.md)
 - [Pangallo, M., Aleta, A., del Rio-Chanona, R.M. et al. The unequal effects of the health–economy trade-off during the COVID-19 pandemic. Nat Hum Behav 8, 264–275 (2024)](blogs/Pangallo2024.md)
@@ -78,7 +77,6 @@ title: Blogs
 - [Hsu, A., Tan, J., Ng, Y.M. et al. Performance determinants show European cities are delivering on climate mitigation. Nat. Clim. Chang. 10, 1015–1022 (2020)](blogs/Hsu NCC2020.md)
 - [Zhang, Z., Guan, D., Wang, R. et al. Embodied carbon emissions in the supply chains of multinational enterprises. Nat. Clim. Chang. 10, 1096–1101 (2020)](blogs/Zhang NCC2020.md)
 - [Milovanoff, A., Posen, I.D. & MacLean, H.L. Electrification of light-duty vehicle fleet alone will not meet mitigation targets. Nat. Clim. Chang. 10, 1102–1107 (2020)](blogs/Milovanoff 2020.md)
-
 
 ### Nature Cities
 - [Sutradhar, U., Spearing, L. & Derrible, S. Depopulation and associated challenges for US cities by 2100. Nat Cities 1, 51–61 (2024)](blogs/Sutradhar2024.md)
