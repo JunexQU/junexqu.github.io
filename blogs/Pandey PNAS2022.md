@@ -13,7 +13,7 @@ title: Pandey B, Brelsford C, Seto K C. Infrastructure inequality is a character
 - Emerging economies: India and South Africa
 
 ### **Methodology:**
-- Infrastructure inequality: $I = \frac{\sigma}{{\mu (1-\mu)}^{1/2}}$
+- Infrastructure inequality index
 - OLS, PCA
 
 ### **Data Source**
