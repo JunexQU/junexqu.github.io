@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /blogs/index.html
-title: Nature
+permalink: /natures/index.html
+title: Natures
 ---
 
 ## Literature Review
