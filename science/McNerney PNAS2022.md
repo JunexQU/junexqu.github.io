@@ -26,23 +26,23 @@ title: McNerney, James, et al. "How production networks amplify economic growth.
 - Production network plays a major role in the long-term evolution of economies
 
 <center>
-<img src="/blogs/review.assets/McNerney PNAS2022001.png">
+<img src="/science/review.assets/McNerney PNAS2022001.png">
 </center>
 
 <center>
-<img src="/blogs/review.assets/McNerney PNAS2022002.png">
+<img src="/science/review.assets/McNerney PNAS2022002.png">
 </center>
 
 <center>
-<img src="/blogs/review.assets/McNerney PNAS2022003.png">
+<img src="/science/review.assets/McNerney PNAS2022003.png">
 </center>
 
 <center>
-<img src="/blogs/review.assets/McNerney PNAS2022004.png">
+<img src="/science/review.assets/McNerney PNAS2022004.png">
 </center>
 
 <center>
-<img src="/blogs/review.assets/McNerney PNAS2022005.png">
+<img src="/science/review.assets/McNerney PNAS2022005.png">
 </center>
 
 ### **Coding Reference:**
