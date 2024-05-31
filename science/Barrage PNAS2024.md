@@ -40,7 +40,7 @@ title: Barrage, Lint, and William Nordhaus. "Policies, projections, and the soci
 </center>
 
 <center>
-<img src="/science/review.asset/Barrage PNAS2024003.png">
+<img src="/science/review.assets/Barrage PNAS2024003.png">
 </center>
 
 ### **Coding Reference:**
