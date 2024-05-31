@@ -29,18 +29,18 @@ title: Barrage, Lint, and William Nordhaus. "Policies, projections, and the soci
 - Current policy baseline implies increasing emissions in the coming decades
 
 <center>
-<img src="/blogs/review.assets/Barrage PNAS2024001.png">
+<img src="/science/review.assets/Barrage PNAS2024001.png">
 </center>
  
 - Net present value of economic benefits around $120 trillion from the cost-benefit optimal policy
 - Social cost of carbon is $66/tCO2 for 2020
 
 <center>
-<img src="/blogs/review.assets/Barrage PNAS2024002.png">
+<img src="/science/review.assets/Barrage PNAS2024002.png">
 </center>
 
 <center>
-<img src="/blogs/review.assets/Barrage PNAS2024003.png">
+<img src="/blogs/science.asset/Barrage PNAS2024003.png">
 </center>
 
 ### **Coding Reference:**
