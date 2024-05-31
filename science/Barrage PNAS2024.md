@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /blogs/Barrage, Lint, and William Nordhaus. "Policies, projections, and the social cost of carbon: Results from the DICE-2023 model." Proceedings of the National Academy of Sciences 121.13 (2024)/index.html
+permalink: /sciences/Barrage, Lint, and William Nordhaus. "Policies, projections, and the social cost of carbon: Results from the DICE-2023 model." Proceedings of the National Academy of Sciences 121.13 (2024)/index.html
 title: Barrage, Lint, and William Nordhaus. "Policies, projections, and the social cost of carbon: Results from the DICE-2023 model." Proceedings of the National Academy of Sciences 121.13 (2024)
 ---
 
