@@ -1,10 +1,10 @@
 ---
 layout: page
-permalink: /sciences/Barrage, Lint, and William Nordhaus. "Policies, projections, and the social cost of carbon: Results from the DICE-2023 model." Proceedings of the National Academy of Sciences 121.13 (2024)/index.html
-title: Barrage, Lint, and William Nordhaus. "Policies, projections, and the social cost of carbon: Results from the DICE-2023 model." Proceedings of the National Academy of Sciences 121.13 (2024)
+permalink: /sciences/Barrage, Lint, and William Nordhaus. Policies, projections, and the social cost of carbon Results from the DICE-2023 model. Proceedings of the National Academy of Sciences 121.13 (2024)/index.html
+title: Barrage, Lint, and William Nordhaus. Policies, projections, and the social cost of carbon Results from the DICE-2023 model. Proceedings of the National Academy of Sciences 121.13 (2024)
 ---
 
-## [Barrage, Lint, and William Nordhaus. "Policies, projections, and the social cost of carbon: Results from the DICE-2023 model." Proceedings of the National Academy of Sciences 121.13 (2024)](https://doi.org/10.1073/pnas.2312030121)
+## [Barrage, Lint, and William Nordhaus. Policies, projections, and the social cost of carbon Results from the DICE-2023 model. Proceedings of the National Academy of Sciences 121.13 (2024)](https://doi.org/10.1073/pnas.2312030121)
 
 ### **Objective:**
 - Apply an inequality lens to infrastructure,conceptualizing infrastructure as an urbanization dimension, to understand the spatial structure and characteristics of attendant unequal outcomes and more broadly, urban inequalities
