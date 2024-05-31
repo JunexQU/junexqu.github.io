@@ -6,6 +6,7 @@ title: Science & PNAS Review
 
 ## PNAS
 - [Pandey, Bhartendu, Christa Brelsford, and Karen C. Seto. Infrastructure inequality is a characteristic of urbanization. Proceedings of the National Academy of Sciences (2022)](blogs/Pandey PNAS2022.md)
-- [Barrage, Lint, and William Nordhaus. "Policies, projections, and the social cost of carbon: Results from the DICE-2023 model." Proceedings of the National Academy of Sciences 121.13 (2024)](science/Barrage PNAS2024.md)
+- [Barrage, Lint, and William Nordhaus. Policies, projections, and the social cost of carbon Results from the DICE-2023 model. Proceedings of the National Academy of Sciences 121.13 (2024)](science/Barrage PNAS2024.md)
+- [McNerney, James, et al. "How production networks amplify economic growth." Proceedings of the National Academy of Sciences 119.1 (2022)](science/McNerney PNAS2022.md)
 
 
