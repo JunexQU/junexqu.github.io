@@ -1,10 +1,10 @@
 ---
 layout: page
-permalink: /blogs/Noll, Bessie, Bjarne Steffen, and Tobias S. Schmidt. The effects of local interventions on global technological change through spillovers A modeling framework and application to the road-freight sector. Proceedings of the National Academy of Sciences 120.42 (2023)/index.html
-title: Noll, Bessie, Bjarne Steffen, and Tobias S. Schmidt. The effects of local interventions on global technological change through spillovers A modeling framework and application to the road-freight sector. Proceedings of the National Academy of Sciences 120.42 (2023)
+permalink: /science/Noll, Bessie, Bjarne Steffen, and Tobias S. Schmidt. The effects of local interventions on global technological change through spillovers A modeling framework and application to the road-freight sector. Proceedings of the National Academy of Sciences (2023)/index.html
+title: Noll, Bessie, Bjarne Steffen, and Tobias S. Schmidt. The effects of local interventions on global technological change through spillovers A modeling framework and application to the road-freight sector. Proceedings of the National Academy of Sciences (2023)
 ---
 
-## [Noll, Bessie, Bjarne Steffen, and Tobias S. Schmidt. The effects of local interventions on global technological change through spillovers A modeling framework and application to the road-freight sector. Proceedings of the National Academy of Sciences 120.42 (2023)](https://doi.org/10.1073/pnas.2215684120)
+## [Noll, Bessie, Bjarne Steffen, and Tobias S. Schmidt. The effects of local interventions on global technological change through spillovers A modeling framework and application to the road-freight sector. Proceedings of the National Academy of Sciences (2023)](https://doi.org/10.1073/pnas.2215684120)
 
 ### **Objective:**
 - Devise a framework and methodological approach to quantifying the effects of local demand-side interventions on global competition between incumbent and novel technologies
