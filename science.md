@@ -11,4 +11,5 @@ title: Science & PNAS Review
 - [Pandey, Bhartendu, Christa Brelsford, and Karen C. Seto. Infrastructure inequality is a characteristic of urbanization. Proceedings of the National Academy of Sciences (2022)](blogs/Pandey PNAS2022.md)
 - [McNerney, James, et al. How production networks amplify economic growth. Proceedings of the National Academy of Sciences 119.1 (2022)](science/McNerney PNAS2022.md)
 - [Zhou, Yuyu, et al. Satellite mapping of urban built-up heights reveals extreme infrastructure gaps and inequalities in the Global South. Proceedings of the National Academy of Sciences 119.46 (2022)](science/Zhou PNSA2022.md)
+- [Welch, Nathan G., and Adrian E. Raftery. Probabilistic forecasts of international bilateral migration flows. Proceedings of the National Academy of Sciences 119.35 (2022)](science/Welch PNAS2022.md)
 
