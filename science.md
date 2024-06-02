@@ -9,6 +9,6 @@ title: Science & PNAS Review
 - [Noll, Bessie, Bjarne Steffen, and Tobias S. Schmidt. The effects of local interventions on global technological change through spillovers A modeling framework and application to the road-freight sector (2023)](science/Noll PNAS2023.md)
 - [**Prieto-Curiel, Rafael, Jorge E. Patino, and Brilé Anderson. Scaling of the morphology of African cities. Proceedings of the National Academy of Sciences 120.9 (2023)**](science/Prieto-Curiel PNAS2023.md)
 - [Pandey, Bhartendu, Christa Brelsford, and Karen C. Seto. Infrastructure inequality is a characteristic of urbanization. Proceedings of the National Academy of Sciences (2022)](blogs/Pandey PNAS2022.md)
-- [McNerney, James, et al. "How production networks amplify economic growth." Proceedings of the National Academy of Sciences 119.1 (2022)](science/McNerney PNAS2022.md)
-
+- [McNerney, James, et al. How production networks amplify economic growth. Proceedings of the National Academy of Sciences 119.1 (2022)](science/McNerney PNAS2022.md)
+- [Zhou, Yuyu, et al. Satellite mapping of urban built-up heights reveals extreme infrastructure gaps and inequalities in the Global South. Proceedings of the National Academy of Sciences 119.46 (2022)](science/Zhou PNSA2022.md)
 
