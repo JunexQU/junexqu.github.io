@@ -12,4 +12,5 @@ title: Science & PNAS Review
 - [McNerney, James, et al. How production networks amplify economic growth. Proceedings of the National Academy of Sciences 119.1 (2022)](science/McNerney PNAS2022.md)
 - [Zhou, Yuyu, et al. Satellite mapping of urban built-up heights reveals extreme infrastructure gaps and inequalities in the Global South. Proceedings of the National Academy of Sciences 119.46 (2022)](science/Zhou PNSA2022.md)
 - [**Welch, Nathan G., and Adrian E. Raftery. Probabilistic forecasts of international bilateral migration flows. Proceedings of the National Academy of Sciences 119.35 (2022)**](science/Welch PNAS2022.md)
+- [Holland, Stephen P., et al. Why marginal CO2 emissions are not decreasing for US electricity Estimates and implications for climate policy. Proceedings of the National Academy of Sciences 119.8 (2022)](science/Holland PNAS2022.md)
 
