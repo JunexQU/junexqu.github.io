@@ -38,10 +38,6 @@ title: Choma, Ernani F., et al. Health benefits of decreases in on-road transpor
 <img src="/science/review.assets/Choma PNAS2021004.png">
 </center>
 
-<center>
-<img src="/science/review.assets/Choma PNAS2021005.png">
-</center>
-
 ### **Coding Reference:**
 
 - [R and Data](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/V3SXIM)
