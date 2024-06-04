@@ -14,7 +14,7 @@ title: Koch, N., Naumann, L., Pretis, F. et al. Attributing agnostically detecte
 
 ### **Methodology:**
 - Familiar two-way fixed effects:
-  - $log(CO2_{it}) = \alpha_i + \phi_t + \sum_j \sum_s \tau_{j,s} l_{i=j, t \geq s} + x' \beta +\epsilon_{i,t}$
+  - $log(CO2_{it}) = \alpha_i + \phi_t + \sum_j \sum_s \tau_{j,s} l_{i=j} + x^{\'} \beta +\epsilon_{i,t}$
 - Sparse model
 
 ### **[Data Source](https://zenodo.org/records/6768563)**
