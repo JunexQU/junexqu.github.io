@@ -15,4 +15,5 @@ title: Science & PNAS Review
 - [Holland, Stephen P., et al. Why marginal CO2 emissions are not decreasing for US electricity Estimates and implications for climate policy. Proceedings of the National Academy of Sciences 119.8 (2022)](science/Holland PNAS2022.md)
 - [Choma, Ernani F., et al. Health benefits of decreases in on-road transportation emissions in the United States from 2008 to 2017. Proceedings of the National Academy of Sciences 118.51 (2021)](science/Choma PNAS2021.md)
 - [**Cattaneo, Andrea, Andrew Nelson, and Theresa McMenomy. Global mapping of urban–rural catchment areas reveals unequal access to services. Proceedings of the National Academy of Sciences 118.2 (2021)**](science/Cattaneo PNAS2021.md)
+- [Wang, Haikun, et al. Health benefits of on-road transportation pollution control programs in China. Proceedings of the National Academy of Sciences 117.41 (2020)](science/Wang PNAS2020.md)
 
