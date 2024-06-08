@@ -39,6 +39,7 @@ title: Cattaneo, Andrea, Andrew Nelson, and Theresa McMenomy. Global mapping of 
 <img src="/science/review.assets/Cattaneo PNAS2021002.png">
 </center>
 
+<center>
 <img src="/science/review.assets/Cattaneo PNAS2021003.png">
 </center>
 
