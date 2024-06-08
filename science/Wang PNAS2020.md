@@ -16,7 +16,7 @@ title: Wang, Haikun, et al. Health benefits of on-road transportation pollution 
 - IAM
 - Monte Carlo
 
-</center>
+<center>
 <img src="/science/review.assets/Wang PNAS2020005.png">
 </center>
 
@@ -38,11 +38,11 @@ title: Wang, Haikun, et al. Health benefits of on-road transportation pollution 
 <img src="/science/review.assets/Wang PNAS2020002.png">
 </center>
 
-</center>
+<center>
 <img src="/science/review.assets/Wang PNAS2020003.png">
 </center>
 
-</center>
+<center>
 <img src="/science/review.assets/Wang PNAS2020004.png">
 </center>
 
