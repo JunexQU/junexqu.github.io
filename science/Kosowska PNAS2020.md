@@ -29,13 +29,11 @@ title: Kosowska-Stamirowska, Zuzanna. Network effects govern the evolution of ma
 <img src="/science/review.assets/Kosowska PNAS2020001.png">
 </center>
 
-
-
 <center>
 <img src="/science/review.assets/Kosowska PNAS2020002.png">
 </center>
 
-</center>
+<center>
 <img src="/science/review.assets/Kosowska PNAS2020003.png">
 </center>
 
