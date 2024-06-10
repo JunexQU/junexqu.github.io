@@ -18,4 +18,5 @@ title: Science & PNAS Review
 - [Wang, Haikun, et al. Health benefits of on-road transportation pollution control programs in China. Proceedings of the National Academy of Sciences 117.41 (2020)](science/Wang PNAS2020.md)
 - [Kosowska-Stamirowska, Zuzanna. Network effects govern the evolution of maritime trade. Proceedings of the National Academy of Sciences 117.23 (2020)](science/Kosowska PNAS2020.md)
 - [**Bayer, Patrick, and Michaël Aklin. The European Union emissions trading system reduced CO2 emissions despite low prices. Proceedings of the National Academy of Sciences 117.16 (2020)**](science/Bayer PNAS2020.md)
+- [**Mori, Tomoya, Tony E. Smith, and Wen-Tai Hsu. Common power laws for cities and spatial fractal structures. Proceedings of the National Academy of Sciences 117.12 (2020)**](science/Mori PNAS2020.md)
 
