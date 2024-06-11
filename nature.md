@@ -31,6 +31,7 @@ title: Nature Review
 
 ### Nature Sustainability
 - [**Stangl, J., Borsos, A., Diem, C. et al. Firm-level supply chains to minimize unemployment and economic losses in rapid decarbonization scenarios. Nat Sustain 7, 581–589 (2024)**](blogs/Stangl NS2024.md)
+- [**Asensio, O.I., Churkina, O., Rafter, B.D. et al. Housing policies and energy efficiency spillovers in low and moderate income communities. Nat Sustain 7, 590–601 (2024)**](blogs/Asensio NS2024.md)
 - [Wu, H., Levinson, D. & Sarkar, S. How transit scaling shapes cities. Nat Sustain 2, 1142–1148 (2019)](blogs/0507.md)
 - [Fu, X., Cheng, J., Peng, L. et al. Co-benefits of transport demand reductions from compact urban development in Chinese cities. Nat Sustain 7, 294–304 (2024)](blogs/Fu2024.md)
 - [Behrer, A.P., Heft-Neal, S. Higher air pollution in wealthy districts of most low- and middle-income countries. Nat Sustain 7, 203–212 (2024)](blogs/Behrer2024.md)
