@@ -13,9 +13,8 @@ title: Asensio, O.I., Churkina, O., Rafter, B.D. et al. Housing policies and ene
 - Albany
 
 ### **Methodology:**
-- The loss of economic output (OW-ESRI):
-  - $OW-ESRI_j = \sum_i \frac{s_i^{out}}{\sum_l s_l^{out}}[1-h_i(T)]$
-- Remove firms
+- DID
+- Match algorithm
 
 ### **Data Source**
 
