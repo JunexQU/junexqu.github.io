@@ -30,6 +30,7 @@ title: Nature Review
 - [Jenn, A. Emissions benefits of electric vehicles in Uber and Lyft ride-hailing services. Nat Energy 5, 520–525 (2020)](blogs/Jenn NE2020.md)
 
 ### Nature Sustainability
+- [Stangl, J., Borsos, A., Diem, C. et al. Firm-level supply chains to minimize unemployment and economic losses in rapid decarbonization scenarios. Nat Sustain 7, 581–589 (2024)](blogs/Stangl NS2024.md)
 - [Wu, H., Levinson, D. & Sarkar, S. How transit scaling shapes cities. Nat Sustain 2, 1142–1148 (2019)](blogs/0507.md)
 - [Fu, X., Cheng, J., Peng, L. et al. Co-benefits of transport demand reductions from compact urban development in Chinese cities. Nat Sustain 7, 294–304 (2024)](blogs/Fu2024.md)
 - [Behrer, A.P., Heft-Neal, S. Higher air pollution in wealthy districts of most low- and middle-income countries. Nat Sustain 7, 203–212 (2024)](blogs/Behrer2024.md)
