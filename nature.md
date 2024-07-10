@@ -6,6 +6,7 @@ title: Nature Review
 
 ## Literature Review
 ### Nature
+- [Bloom, N., Han, R. & Liang, J. Hybrid working from home improves retention without damaging performance. Nature 630, 920–925 (2024)](blogs/Bloom Nature2024.md)
 - [Sun, Y., Zhu, S., Wang, D. et al. Global supply chains amplify economic costs of future extreme heat risk. Nature 627, 797–804 (2024)](blogs/Sun et al Nature2024.md)
 - [Wollburg, P., Hallegatte, S. & Mahler, D.G. Ending extreme poverty has a negligible impact on global greenhouse gas emissions. Nature 623, 982–986 (2023)](blogs/Wollburg Nature 2023.md)
 - [Nilforoshan, H., Looi, W., Pierson, E. et al. Human mobility networks reveal increased segregation in large cities. Nature 624, 586–592 (2023)](blogs/Nilforoshan Nature 2023.md)
