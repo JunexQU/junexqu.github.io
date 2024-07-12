@@ -67,6 +67,7 @@ title: Nature Review
 - [Guan, D., Wang, D., Hallegatte, S. et al. Global supply-chain effects of COVID-19 control measures. Nat Hum Behav 4, 577–587 (2020)](blogs/Guan2020.md)
 
 ### Nature Climate Change
+- [Müller-Casseres, E., Leblanc, F., van den Berg, M. et al. International shipping in a world below 2 °C. Nat. Clim. Chang. 14, 600–607 (2024)](blogs/Muller NCC2024.md)
 - [Benveniste, H., Oppenheimer, M. & Fleurbaey, M. Climate change increases resource-constrained international immobility. Nat. Clim. Chang. 12, 634–641 (2022)](blogs/Benveniste NCC2022.md)
 - [Chan, S., Hale, T., Deneault, A. et al. Assessing the effectiveness of orchestrated climate action from five years of summits. Nat. Clim. Chang. 12, 628–633 (2022)](blogs/Chan NCC2022.md)
 - [Creutzig, F., Niamir, L., Bai, X. et al. Demand-side solutions to climate change mitigation consistent with high levels of well-being. Nat. Clim. Chang. 12, 36–46 (2022)](blogs/Creutzig NCC2022.md)
