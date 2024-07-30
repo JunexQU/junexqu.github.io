@@ -7,12 +7,15 @@ title: Publications
 ## Working Manuscript
 
 - **Junxi Qu**, et al. Distributive impacts of transport accessibility improvements in the Yangtze River Delta region 2015–2020. Under reveiw in JTG.
+- **Junxi Qu, Tianren Yang, and Yang Zhou**. Multimodal transport network and urban growth: A comprehensive evaluation in China. Drafted.
+- **Junxi Qu and Si Qiao**. Dockless Bike Sharing as a Solution Beyond Last Mile to Public Transit. Drafted.
+- **Junxi Qu, Dan Lv and Yang Song**. Carbon Emissions in the Context of Multimodal Transport Networks: A Focus on Quantile Effects and Modal Interactions
 
 ---
  
 ## In Progress
 
-- **Junxi Qu & Tianren Yang**. Multimodal transport network and urban growth: A comprehensive evaluation in China
+- **Junxi Qu & Tianren Yang**. Trade-embeded carbon emission in China.
 
 ---
 
