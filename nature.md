@@ -84,6 +84,7 @@ title: Nature Review
 
 ### Nature Cities
 - [**Cattaneo, A., Girgin, S., de By, R. et al. Worldwide delineation of multi-tier city–regions. Nat Cities (2024)**](blogs/Cattaneo NC2024.md)
+- [Xia, C., Zheng, H., Meng, J. et al. Outsourced carbon mitigation efforts of Chinese cities from 2012 to 2017. Nat Cities](blogs/Xia NC202406.md)
 - [Sutradhar, U., Spearing, L. & Derrible, S. Depopulation and associated challenges for US cities by 2100. Nat Cities 1, 51–61 (2024)](blogs/Sutradhar2024.md)
 - [Elbers, B. Explaining changes in US residential segregation through patterns of population change. Nat Cities 1, 194–204 (2024)](blogs/Elbers2024.md)
 - [O’Garra, T., Kuz, V., Deneault, A. et al. Early engagement and co-benefits strengthen cities’ climate commitments. Nat Cities 1, 315–324 (2024)](blogs/O'Garra2024.md)
