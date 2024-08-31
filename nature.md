@@ -83,6 +83,7 @@ title: Nature Review
 - [Milovanoff, A., Posen, I.D. & MacLean, H.L. Electrification of light-duty vehicle fleet alone will not meet mitigation targets. Nat. Clim. Chang. 10, 1102–1107 (2020)](blogs/Milovanoff 2020.md)
 
 ### Nature Cities
+- [**Frolking, S., Mahtta, R., Milliman, T. et al. Global urban structural growth shows a profound shift from spreading out to building up. Nat Cities (2024)**](blogs/Frolking NCities2024.md)
 - [**Cattaneo, A., Girgin, S., de By, R. et al. Worldwide delineation of multi-tier city–regions. Nat Cities (2024)**](blogs/Cattaneo NC2024.md)
 - [Xia, C., Zheng, H., Meng, J. et al. Outsourced carbon mitigation efforts of Chinese cities from 2012 to 2017. Nat Cities](blogs/Xia NC202406.md)
 - [Sutradhar, U., Spearing, L. & Derrible, S. Depopulation and associated challenges for US cities by 2100. Nat Cities 1, 51–61 (2024)](blogs/Sutradhar2024.md)
