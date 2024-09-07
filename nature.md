@@ -20,8 +20,8 @@ title: Nature Review
 - [**Weiss, D., Nelson, A., Gibson, H. et al. A global map of travel time to cities to assess inequalities in accessibility in 2015. Nature 553, 333–336 (2018)**](blogs/Weiss2018.md)
 
 ### Nature Energy
-- [Few, S., Djapic, P., Strbac, G. et al. A geographically disaggregated approach to integrate low-carbon technologies across local electricity networks. Nat Energy](blogs/Few NE202405.md)
-- [**Kennedy, K.M., Edwards, M.R., Doblinger, C. et al. The effects of corporate investment and public grants on climate and energy startup outcomes. Nat Energy**](blogs/Kennedy NE202405.md)
+- [Few, S., Djapic, P., Strbac, G. et al. A geographically disaggregated approach to integrate low-carbon technologies across local electricity networks. Nat Energy 9, 871–882 (2024)](blogs/Few NE202405.md)
+- [**Kennedy, K.M., Edwards, M.R., Doblinger, C. et al. The effects of corporate investment and public grants on climate and energy startup outcomes. Nat Energy 9, 883–893 (2024)**](blogs/Kennedy NE202405.md)
 - [White, L.V., Riley, B., Wilson, S. et al. Geographies of regulatory disparity underlying Australia’s energy transition. Nat Energy 9, 92–105 (2024)](blogs/White NE2024001.md)
 - [Hernandez Carballo, I., Sisco, M.R. Examining the effects of gasoline prices on public support for climate policies. Nat Energy 9, 219–227 (2024)](blogs/Hernandez NE2024.md)
 - [Verpoort, P.C., Gast, L., Hofmann, A. et al. Impact of global heterogeneity of renewable energy supply on heavy industrial production and green value chains. Nat Energy 9, 491–503 (2024)](blogs/Verpoort NE2024.md)
@@ -70,7 +70,7 @@ title: Nature Review
 - [Guan, D., Wang, D., Hallegatte, S. et al. Global supply-chain effects of COVID-19 control measures. Nat Hum Behav 4, 577–587 (2020)](blogs/Guan2020.md)
 
 ### Nature Climate Change
-- [**Johnson, E.J., Sugerman, E.R., Morwitz, V.G. et al. Widespread misestimates of greenhouse gas emissions suggest low carbon competence. Nat. Clim. Chang**](blogs/Johnson NCC202406.md)
+- [**Johnson, E.J., Sugerman, E.R., Morwitz, V.G. et al. Widespread misestimates of greenhouse gas emissions suggest low carbon competence. Nat. Clim. Chang. 14, 707–714 (2024)**](blogs/Johnson NCC202406.md)
 - [Müller-Casseres, E., Leblanc, F., van den Berg, M. et al. International shipping in a world below 2 °C. Nat. Clim. Chang. 14, 600–607 (2024)](blogs/Muller NCC2024.md)
 - [Benveniste, H., Oppenheimer, M. & Fleurbaey, M. Climate change increases resource-constrained international immobility. Nat. Clim. Chang. 12, 634–641 (2022)](blogs/Benveniste NCC2022.md)
 - [Chan, S., Hale, T., Deneault, A. et al. Assessing the effectiveness of orchestrated climate action from five years of summits. Nat. Clim. Chang. 12, 628–633 (2022)](blogs/Chan NCC2022.md)
@@ -87,9 +87,9 @@ title: Nature Review
 - [Milovanoff, A., Posen, I.D. & MacLean, H.L. Electrification of light-duty vehicle fleet alone will not meet mitigation targets. Nat. Clim. Chang. 10, 1102–1107 (2020)](blogs/Milovanoff 2020.md)
 
 ### Nature Cities
-- [**Frolking, S., Mahtta, R., Milliman, T. et al. Global urban structural growth shows a profound shift from spreading out to building up. Nat Cities (2024)**](blogs/Frolking NCities2024.md)
-- [**Cattaneo, A., Girgin, S., de By, R. et al. Worldwide delineation of multi-tier city–regions. Nat Cities (2024)**](blogs/Cattaneo NC2024.md)
-- [Xia, C., Zheng, H., Meng, J. et al. Outsourced carbon mitigation efforts of Chinese cities from 2012 to 2017. Nat Cities](blogs/Xia NC202406.md)
+- [**Frolking, S., Mahtta, R., Milliman, T. et al. Global urban structural growth shows a profound shift from spreading out to building up. Nat Cities 1, 555–566 (2024)**](blogs/Frolking NCities2024.md)
+- [**Cattaneo, A., Girgin, S., de By, R. et al. Worldwide delineation of multi-tier city–regions. Nat Cities 1, 469–479 (2024)**](blogs/Cattaneo NC2024.md)
+- [Xia, C., Zheng, H., Meng, J. et al. Outsourced carbon mitigation efforts of Chinese cities from 2012 to 2017. Nat Cities 1, 480–488 (2024)](blogs/Xia NC202406.md)
 - [Sutradhar, U., Spearing, L. & Derrible, S. Depopulation and associated challenges for US cities by 2100. Nat Cities 1, 51–61 (2024)](blogs/Sutradhar2024.md)
 - [Elbers, B. Explaining changes in US residential segregation through patterns of population change. Nat Cities 1, 194–204 (2024)](blogs/Elbers2024.md)
 - [O’Garra, T., Kuz, V., Deneault, A. et al. Early engagement and co-benefits strengthen cities’ climate commitments. Nat Cities 1, 315–324 (2024)](blogs/O'Garra2024.md)
