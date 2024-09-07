@@ -20,6 +20,7 @@ title: Nature Review
 - [**Weiss, D., Nelson, A., Gibson, H. et al. A global map of travel time to cities to assess inequalities in accessibility in 2015. Nature 553, 333–336 (2018)**](blogs/Weiss2018.md)
 
 ### Nature Energy
+- [Few, S., Djapic, P., Strbac, G. et al. A geographically disaggregated approach to integrate low-carbon technologies across local electricity networks. Nat Energy](blogs/Few NE202405.md)
 - [**Kennedy, K.M., Edwards, M.R., Doblinger, C. et al. The effects of corporate investment and public grants on climate and energy startup outcomes. Nat Energy**](blogs/Kennedy NE202405.md)
 - [White, L.V., Riley, B., Wilson, S. et al. Geographies of regulatory disparity underlying Australia’s energy transition. Nat Energy 9, 92–105 (2024)](blogs/White NE2024001.md)
 - [Hernandez Carballo, I., Sisco, M.R. Examining the effects of gasoline prices on public support for climate policies. Nat Energy 9, 219–227 (2024)](blogs/Hernandez NE2024.md)
