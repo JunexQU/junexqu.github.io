@@ -88,6 +88,7 @@ title: Nature Review
 
 ### Nature Cities
 - [**Huang, S., Wang, S., Gan, Y. et al. Widespread global exacerbation of extreme drought induced by urbanization. Nat Cities 1, 597–609 (2024)**](blogs/Huang NCities202408.md)
+- [Testi, I., Wang, A., Paul, S. et al. Big mobility data reveals hyperlocal air pollution exposure disparities in the Bronx, New York. Nat Cities 1, 512–521 (2024)](blogs/Tstti NCities202407.md)
 - [**Wang, S., Zheng, Y., Wang, G. et al. Infrequent activities predict economic outcomes in major American cities. Nat Cities 1, 305–314 (2024)**](blogs/Wang NCities 202405.md)
 - [**Frolking, S., Mahtta, R., Milliman, T. et al. Global urban structural growth shows a profound shift from spreading out to building up. Nat Cities 1, 555–566 (2024)**](blogs/Frolking NCities2024.md)
 - [**Cattaneo, A., Girgin, S., de By, R. et al. Worldwide delineation of multi-tier city–regions. Nat Cities 1, 469–479 (2024)**](blogs/Cattaneo NC2024.md)
