@@ -3,6 +3,8 @@ layout: page
 permalink: /science/index.html
 title: Science & PNAS Review
 ---
+## Science
+- [**Chaopeng Hong et al. ,Land-use emissions embodied in international trade.Science376,597-603(2022)**](science/Hong Science202205.md)
 
 ## PNAS
 - [Barrage, Lint, and William Nordhaus. Policies, projections, and the social cost of carbon Results from the DICE-2023 model. Proceedings of the National Academy of Sciences 121.13 (2024)](science/Barrage PNAS2024.md)
