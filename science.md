@@ -4,6 +4,7 @@ permalink: /science/index.html
 title: Science & PNAS Review
 ---
 ## Science
+- [Shayak Sengupta et al. ,Subnational implications from climate and air pollution policies in India’s electricity sector.Science378,eabh1484(2022)](science/Sengupta Science202211.md)
 - [**Chaopeng Hong et al. ,Land-use emissions embodied in international trade.Science376,597-603(2022)**](science/Hong Science202205.md)
 
 ## PNAS
