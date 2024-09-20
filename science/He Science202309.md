@@ -25,32 +25,26 @@ title: Guojun He et al. ,Reducing single-use cutlery with green nudges Evidence 
 - The share of no-cutlery orders significantly increased in the treated cities
 
 <center>
-<img src="/science/review.assets/Sengupta Science202211001.png">
+<img src="/science/review.assets/He Science202309001.png">
 </center>
 
 - Green nudges increased the share of no-cutlery orders by 19.3%-21.2.
 
 <center>
-<img src="/science/review.assets/Sengupta Science202211002.png">
+<img src="/science/review.assets/He Science202309002.png">
 </center>
 
 - Nearly 83% of the individuals in the treated cities responded positively to the green nudges; about 6% of the individuals didn't change, and 11% behaved in the opposite direction
 - Green nudges on the platform's business performance is negligible and statistically nonsignificant
 
 <center>
-<img src="/science/review.assets/Sengupta Science202211003.png">
+<img src="/science/review.assets/He Science20230903.png">
 </center>
 
 - The effects were larger for women
 
 <center>
-<img src="/science/review.assets/Sengupta Science202211004.png">
-</center>
-
-- The dispatching plants at the regional level would lead to a small increase in both SO2 and CO2 emissions with heterogeous cost effects on states.
-
-<center>
-<img src="/science/review.assets/Sengupta Science202211005.png">
+<img src="/science/review.assets/He Science202309004.png">
 </center>
 
 ### **Coding Reference:**
