@@ -25,3 +25,5 @@ title: Science & PNAS Review
 - [**Mori, Tomoya, Tony E. Smith, and Wen-Tai Hsu. Common power laws for cities and spatial fractal structures. Proceedings of the National Academy of Sciences 117.12 (2020)**](science/Mori PNAS2020.md)
 - [**Barrington-Leigh, Christopher, and Adam Millard-Ball. Global trends toward urban street-network sprawl. Proceedings of the National Academy of Sciences 117.4 (2020)**](science/Barrington PNAS2020.md)
 
+## Other
+- [Li, W., Schmidt, S., & Siedentop, S. (2024). Can polycentric urban development simultaneously achieve both economic growth and regional equity? A multi-scale analysis of German regions. Environment & Planning](science/Li EPA 202309.md)
