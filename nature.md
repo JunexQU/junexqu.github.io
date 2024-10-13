@@ -20,6 +20,7 @@ title: Nature Review
 - [**Weiss, D., Nelson, A., Gibson, H. et al. A global map of travel time to cities to assess inequalities in accessibility in 2015. Nature 553, 333–336 (2018)**](blogs/Weiss2018.md)
 
 ### Nature Energy
+- [**Bushnell, J.B., Hughes, J.E. The role of modal substitution in rebound effects within US freight transportation. Nat Energy 9, 1153–1160 (2024)**](blogs/Bushnell NE202407.md)
 - [Wadud, Z., Adeel, M. & Anable, J. Understanding the large role of long-distance travel in carbon emissions from passenger travel. Nat Energy 9, 1129–1138 (2024)](blogs/Wadud Nat Energy 202407.md)
 - [Few, S., Djapic, P., Strbac, G. et al. A geographically disaggregated approach to integrate low-carbon technologies across local electricity networks. Nat Energy 9, 871–882 (2024)](blogs/Few NE202405.md)
 - [**Kennedy, K.M., Edwards, M.R., Doblinger, C. et al. The effects of corporate investment and public grants on climate and energy startup outcomes. Nat Energy 9, 883–893 (2024)**](blogs/Kennedy NE202405.md)
