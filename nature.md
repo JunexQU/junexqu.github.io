@@ -35,6 +35,7 @@ title: Nature Review
 - [Jenn, A. Emissions benefits of electric vehicles in Uber and Lyft ride-hailing services. Nat Energy 5, 520–525 (2020)](blogs/Jenn NE2020.md)
 
 ### Nature Sustainability
+- [Zhang, S., Chen, W., Zhang, Q. et al. Targeting net-zero emissions while advancing other sustainable development goals in China. Nat Sustain 7, 1107–1119 (2024)](blogs/Zhang NS202407.md)
 - [Ottenburger, S.S., Cox, R., Chowdhury, B.H. et al. Sustainable urban transformations based on integrated microgrid designs. Nat Sustain 7, 1067–1079 (2024)](blogs/Ottenburger NS202407.md)
 - [**Stangl, J., Borsos, A., Diem, C. et al. Firm-level supply chains to minimize unemployment and economic losses in rapid decarbonization scenarios. Nat Sustain 7, 581–589 (2024)**](blogs/Stangl NS2024.md)
 - [**Asensio, O.I., Churkina, O., Rafter, B.D. et al. Housing policies and energy efficiency spillovers in low and moderate income communities. Nat Sustain 7, 590–601 (2024)**](blogs/Asensio NS2024.md)
