@@ -91,6 +91,7 @@ title: Nature Review
 - [Milovanoff, A., Posen, I.D. & MacLean, H.L. Electrification of light-duty vehicle fleet alone will not meet mitigation targets. Nat. Clim. Chang. 10, 1102–1107 (2020)](blogs/Milovanoff 2020.md)
 
 ### Nature Cities
+- [**Wang, L., Saiz, A. & Li, W. Natural fragmentation increases urban density but impedes transportation and city growth worldwide. Nat Cities 1, 642–653 (2024)**](blogs/Wang NatCities 202409.md)
 - [**Bruno, M., Monteiro Melo, H.P., Campanelli, B. et al. A universal framework for inclusive 15-minute cities. Nat Cities 1, 633–641 (2024)**](blogs/Bruno NCities202409.md)
 - [**Huang, S., Wang, S., Gan, Y. et al. Widespread global exacerbation of extreme drought induced by urbanization. Nat Cities 1, 597–609 (2024)**](blogs/Huang NCities202408.md)
 - [Testi, I., Wang, A., Paul, S. et al. Big mobility data reveals hyperlocal air pollution exposure disparities in the Bronx, New York. Nat Cities 1, 512–521 (2024)](blogs/Tstti NCities202407.md)
