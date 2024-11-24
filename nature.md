@@ -106,3 +106,6 @@ title: Nature Review
 - [**Luo, Z., Lv, Z., Zhao, J. et al. Shipping-related pollution decreased but mortality increased in Chinese port cities. Nat Cities 1, 295–304 (2024)**](blogs/Luo NatCities 202403.md)
 - [Wang, H. The role of informal ruralization within China’s rapid urbanization. Nat Cities 1, 205–215 (2024)](blogs/HanxiWang2024.md)
 - [Kontokosta, C.E., Hong, B. & Bonczak, B.J. Socio-spatial inequality and the effects of density on COVID-19 transmission in US cities. Nat Cities 1, 83–93 (2024)](blogs/Kontokosta2024.md)
+
+### Nature Communication
+- [Sun, L., Chen, J., Li, Q. et al. Dramatic uneven urbanization of large cities throughout the world in recent decades. Nat Commun 11, 5366 (2020)](blogs/Sun NatCom 202010.md)
