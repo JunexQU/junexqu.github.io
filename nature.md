@@ -108,5 +108,6 @@ title: Nature Review
 - [Kontokosta, C.E., Hong, B. & Bonczak, B.J. Socio-spatial inequality and the effects of density on COVID-19 transmission in US cities. Nat Cities 1, 83–93 (2024)](blogs/Kontokosta2024.md)
 
 ### Nature Communication
+- [He, X., Ou, S., Gan, Y. et al. Greenhouse gas consequences of the China dual credit policy. Nat Commun 11, 5212 (2020)](blogs/He NatCom 202010.md)
 - [Hultman, N.E., Clarke, L., Frisch, C. et al. Fusing subnational with national climate action is central to decarbonization: the case of the United States. Nat Commun 11, 5255 (2020)](blogs/Hultman NatCom 202010.md)
 - [Sun, L., Chen, J., Li, Q. et al. Dramatic uneven urbanization of large cities throughout the world in recent decades. Nat Commun 11, 5366 (2020)](blogs/Sun NatCom 202010.md)
