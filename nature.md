@@ -111,3 +111,4 @@ title: Nature Review
 - [He, X., Ou, S., Gan, Y. et al. Greenhouse gas consequences of the China dual credit policy. Nat Commun 11, 5212 (2020)](blogs/He NatCom 202010.md)
 - [Hultman, N.E., Clarke, L., Frisch, C. et al. Fusing subnational with national climate action is central to decarbonization: the case of the United States. Nat Commun 11, 5255 (2020)](blogs/Hultman NatCom 202010.md)
 - [Sun, L., Chen, J., Li, Q. et al. Dramatic uneven urbanization of large cities throughout the world in recent decades. Nat Commun 11, 5366 (2020)](blogs/Sun NatCom 202010.md)
+- [Calel, R., Chapman, S.C., Stainforth, D.A. et al. Temperature variability implies greater economic damages from climate change. Nat Commun 11, 5028 (2020)](blogs/Calel NatCom 202010.md)
