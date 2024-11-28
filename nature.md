@@ -114,3 +114,4 @@ title: Nature Review
 - [Calel, R., Chapman, S.C., Stainforth, D.A. et al. Temperature variability implies greater economic damages from climate change. Nat Commun 11, 5028 (2020)](blogs/Calel NatCom 202010.md)
 - [**Engström, G., Gars, J., Krishnamurthy, C. et al. Carbon pricing and planetary boundaries. Nat Commun 11, 4688 (2020)**](blogs/Engstrom NatCom 202009.md)
 - [Bettencourt, L.M.A., Zünd, D. Demography and the emergence of universal patterns in urban systems. Nat Commun 11, 4584 (2020)](blogs/Bettencourt NatCom 202009.md)
+- [Yang, L., Wang, Y., Wang, R. et al. Environmental-social-economic footprints of consumption and trade in the Asia-Pacific region. Nat Commun 11, 4490 (2020)](blogs/Yang NatCom 202009.md)
