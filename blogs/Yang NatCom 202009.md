@@ -13,7 +13,7 @@ title: Yang, L., Wang, Y., Wang, R. et al. Environmental-social-economic footpri
 - APAC countries
 
 ### **Methodology:**
-- Population growth equation
+- Leontief
 
 ### **Data Source**
 - MRIO: EXIOBASE
