@@ -116,3 +116,4 @@ title: Nature Review
 - [Bettencourt, L.M.A., Zünd, D. Demography and the emergence of universal patterns in urban systems. Nat Commun 11, 4584 (2020)](blogs/Bettencourt NatCom 202009.md)
 - [Yang, L., Wang, Y., Wang, R. et al. Environmental-social-economic footprints of consumption and trade in the Asia-Pacific region. Nat Commun 11, 4490 (2020)](blogs/Yang NatCom 202009.md)
 - [Deng, F., Lv, Z., Qi, L. et al. A big data approach to improving the vehicle emission inventory in China. Nat Commun 11, 2801 (2020)](blogs/Deng NatNom 202006.md)
+- [Yang, Y., Qu, S., Cai, B. et al. Mapping global carbon footprint in China. Nat Commun 11, 2237 (2020)](blogs/Yang NatCom 202005.md)
