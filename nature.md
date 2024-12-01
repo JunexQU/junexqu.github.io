@@ -92,6 +92,7 @@ title: Nature Review
 - [Milovanoff, A., Posen, I.D. & MacLean, H.L. Electrification of light-duty vehicle fleet alone will not meet mitigation targets. Nat. Clim. Chang. 10, 1102–1107 (2020)](blogs/Milovanoff 2020.md)
 
 ### Nature Cities
+- [Zhao, J., Tang, Y., Zhu, X. et al. National environmental monitoring and local enforcement strategies. Nat Cities (2024)](blogs/Zhao NatCities 202411.md)
 - [**Wang, L., Saiz, A. & Li, W. Natural fragmentation increases urban density but impedes transportation and city growth worldwide. Nat Cities 1, 642–653 (2024)**](blogs/Wang NatCities 202409.md)
 - [**Bruno, M., Monteiro Melo, H.P., Campanelli, B. et al. A universal framework for inclusive 15-minute cities. Nat Cities 1, 633–641 (2024)**](blogs/Bruno NCities202409.md)
 - [Almulhim, A.I., Sharifi, A., Aina, Y.A. et al. Charting sustainable urban development through a systematic review of SDG11 research. Nat Cities 1, 677–685 (2024)](blogs/Almulhim NatCities 202408.md)
