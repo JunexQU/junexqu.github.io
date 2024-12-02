@@ -92,6 +92,7 @@ title: Nature Review
 - [Milovanoff, A., Posen, I.D. & MacLean, H.L. Electrification of light-duty vehicle fleet alone will not meet mitigation targets. Nat. Clim. Chang. 10, 1102–1107 (2020)](blogs/Milovanoff 2020.md)
 
 ### Nature Cities
+- [Bakhtsiyarava, M., Moran, M., Ju, Y. et al. Potential drivers of urban green space availability in Latin American cities. Nat Cities 1, 842–852 (2024)](blogs/Bakhtsiyarava NatCities 202411.md)
 - [Winkler, R.L., Clark, J.A.G., Locke, D.H. et al. Unequal access to social, environmental and health amenities in US urban parks. Nat Cities 1, 861–870 (2024)](blogs/Winkler NatCities 202411.md)
 - [Zhao, J., Tang, Y., Zhu, X. et al. National environmental monitoring and local enforcement strategies. Nat Cities (2024)](blogs/Zhao NatCities 202411.md)
 - [**Wang, L., Saiz, A. & Li, W. Natural fragmentation increases urban density but impedes transportation and city growth worldwide. Nat Cities 1, 642–653 (2024)**](blogs/Wang NatCities 202409.md)
