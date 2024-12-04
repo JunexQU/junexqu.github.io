@@ -9,6 +9,7 @@ title: Science & PNAS Review
 - [**Chaopeng Hong et al. ,Land-use emissions embodied in international trade.Science376,597-603(2022)**](science/Hong Science202205.md)
 
 ## PNAS
+- [A. Ramani, J. Alcedo, N. Bloom, How working from home reshapes cities, Proc. Natl. Acad. Sci. U.S.A.121 (45) e2408930121 (2024)](science/Rammani PNAS 202412.md)
 - [Barrage, Lint, and William Nordhaus. Policies, projections, and the social cost of carbon Results from the DICE-2023 model. Proceedings of the National Academy of Sciences 121.13 (2024)](science/Barrage PNAS2024.md)
 - [Noll, Bessie, Bjarne Steffen, and Tobias S. Schmidt. The effects of local interventions on global technological change through spillovers A modeling framework and application to the road-freight sector (2023)](science/Noll PNAS2023.md)
 - [**Prieto-Curiel, Rafael, Jorge E. Patino, and Brilé Anderson. Scaling of the morphology of African cities. Proceedings of the National Academy of Sciences 120.9 (2023)**](science/Prieto-Curiel PNAS2023.md)
