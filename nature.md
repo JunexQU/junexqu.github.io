@@ -37,6 +37,7 @@ title: Nature Review
 - [Jenn, A. Emissions benefits of electric vehicles in Uber and Lyft ride-hailing services. Nat Energy 5, 520–525 (2020)](blogs/Jenn NE2020.md)
 
 ### Nature Sustainability
+- [Quante, L., Willner, S.N., Otto, C. et al. Global economic impact of weather variability on the rich and the poor. Nat Sustain 7, 1419–1428 (2024)](blogs/Quante NatSustain 202409.md)
 - [Kaufmann, D., Wicki, M., Wittwer, S. et al. Democratic discrepancies in urban sustainable development. Nat Sustain 7, 1409–1418 (2024)](blogs/Kaufmann NatSustain 202409.md)
 - [**Malik, A., Lenzen, M., Li, M. et al. Polarizing and equalizing trends in international trade and Sustainable Development Goals. Nat Sustain 7, 1359–1370 (2024)**](blogs/Malik NS202408.md)
 - [Zhang, S., Chen, W., Zhang, Q. et al. Targeting net-zero emissions while advancing other sustainable development goals in China. Nat Sustain 7, 1107–1119 (2024)](blogs/Zhang NS202407.md)
