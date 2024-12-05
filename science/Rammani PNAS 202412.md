@@ -48,7 +48,6 @@ title: A. Ramani, J. Alcedo, N. Bloom, (2024) How working from home reshapes cit
 <img src="/science/review.assets/Rammani PNAS 20241204.png">
 </center>
 
-- Polycentricity leads to win-loss outcomes
 <center>
 <img src="/science/review.assets/Rammani PNAS 20241205.png">
 </center>
