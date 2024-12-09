@@ -125,3 +125,4 @@ title: Nature Review
 - [Deng, F., Lv, Z., Qi, L. et al. A big data approach to improving the vehicle emission inventory in China. Nat Commun 11, 2801 (2020)](blogs/Deng NatNom 202006.md)
 - [**Yang, Y., Qu, S., Cai, B. et al. Mapping global carbon footprint in China. Nat Commun 11, 2237 (2020)**](blogs/Yang NatCom 202005.md)
 - [Guo, J., Gu, F., Liu, Y. et al. Assessing the impact of ETS trading profit on emission abatements based on firm-level transactions. Nat Commun 11, 2078 (2020)](blogs/Guo NatCom 202004.md)
+- [Roelfsema, M., van Soest, H.L., Harmsen, M. et al. Taking stock of national climate policies to evaluate implementation of the Paris Agreement. Nat Commun 11, 2096 (2020)](blogs/Roelfsema NatCom 202004.md)
