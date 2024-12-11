@@ -127,3 +127,4 @@ title: Nature Review
 - [Guo, J., Gu, F., Liu, Y. et al. Assessing the impact of ETS trading profit on emission abatements based on firm-level transactions. Nat Commun 11, 2078 (2020)](blogs/Guo NatCom 202004.md)
 - [Roelfsema, M., van Soest, H.L., Harmsen, M. et al. Taking stock of national climate policies to evaluate implementation of the Paris Agreement. Nat Commun 11, 2096 (2020)](blogs/Roelfsema NatCom 202004.md)
 - [Wei, YM., Han, R., Wang, C. et al. Self-preservation strategy for approaching global warming targets in the post-Paris Agreement era. Nat Commun 11, 1624 (2020)](blogs/NatCom/Wei NatCom 202404.md)
+- [**Lin, C., Qi, J., Liang, S. et al. Saving less in China facilitates global CO2 mitigation. Nat Commun 11, 1358 (2020)**](blogs/NatCom/Lin NatCom 202003.md)
