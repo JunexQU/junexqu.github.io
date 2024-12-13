@@ -116,6 +116,7 @@ title: Nature Review
 
 ### Nature Communication
 - [Wolfram, P., Weber, S., Gillingham, K. et al. Pricing indirect emissions accelerates low—carbon transition of US light vehicle sector. Nat Commun 12, 7121 (2021)](blogs/NatCom/Wolfram NatCom 202112.md)
+- [Simini, F., Barlacchi, G., Luca, M. et al. A Deep Gravity model for mobility flows generation. Nat Commun 12, 6576 (2021)](blogs/NatCom/Simini NatCom 202112.md)
 - [He, X., Ou, S., Gan, Y. et al. Greenhouse gas consequences of the China dual credit policy. Nat Commun 11, 5212 (2020)](blogs/He NatCom 202010.md)
 - [Hultman, N.E., Clarke, L., Frisch, C. et al. Fusing subnational with national climate action is central to decarbonization: the case of the United States. Nat Commun 11, 5255 (2020)](blogs/Hultman NatCom 202010.md)
 - [Sun, L., Chen, J., Li, Q. et al. Dramatic uneven urbanization of large cities throughout the world in recent decades. Nat Commun 11, 5366 (2020)](blogs/Sun NatCom 202010.md)
