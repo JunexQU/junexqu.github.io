@@ -6,13 +6,14 @@ title: Publications
 
 ## Working Manuscript
 
-- **Junxi Qu, Tianren Yang, and Yang Zhou**. Multimodal transport network and urban population growth: A comprehensive evaluation in China. Drafted.
+- **Junxi Qu, Tianren Yang, and Yang Zhou**. Multimodal transport network and urban population growth: A comprehensive evaluation in China. *Under review in TRA*.
 - **Junxi Qu, Dan Lv and Yang Song**. Carbon Emissions in the Context of Multimodal Transport Networks: A Focus on Quantile Effects and Modal Interactions.
 - **Junxi Qu, Dan Lv, Jing Cao and Zitong Ren**. Insights from 40 Years of Global Population Growth and Urban Dynamics: The Roles of Borrowing Size and Agglomeration Shadow. Drafted.
+- **Junxi Qu & Si Qiao**. How Urban Vitality Shapes Cycling Behaviour in the Age of Dock-less Shared Bikes. Drafted.
 
 ## In Progress
 
-- **Junxi Qu & Tianren Yang**. Trade-embeded carbon emission in China.+
+- **Junxi Qu & Tianren Yang**. Trade-embeded carbon emission in China.
 
 ## Journal Article
 
