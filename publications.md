@@ -13,6 +13,7 @@ title: Publications
 ## In Progress
 
 - **Junxi Qu & Tianren Yang**. Trade-embeded carbon emission in China.
+- **Junxi Qu & Tianren Yang**. Working population by workplace and residence geography in China.
 
 ## Journal Article
 
