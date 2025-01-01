@@ -25,17 +25,17 @@ title: Tang, L., Yang, J., Zheng, J. et al. Assessing the impacts of fertility a
 
 - East provinces tend to have higher total carbon footprints
 <center>
-<img src="/blogs/review.assets/NatClc/Tang NatNCC 20241001.png">
+<img src="/blogs/review.assets/Clc/Tang NatNCC 20241001.png">
 </center>
 
 - China's per capita carbon footprint is much lower than that of developed countries
 <center>
-<img src="/blogs/review.assets/NatClc/Tang NatNCC 20241002.png">
+<img src="/blogs/review.assets/Clc/Tang NatNCC 20241002.png">
 </center>
 
 - Carbon footprint is inversely correlate with age: young people have relatively higher household carbon footprint than those of midlle and older people
 <center>
-<img src="/blogs/review.assets/NatClc/Tang NatNCC 20241003.png">
+<img src="/blogs/review.assets/Clc/Tang NatNCC 20241003.png">
 </center>
 
 - Two top consumptions: related to residence and transport
