@@ -45,27 +45,27 @@ title: Hoffmann, R., Abel, G., Malpede, M. et al. Drought and aridity influence 
 
 - High- and low-mobility clusters which are shaped by country-specific topographic and socio-economic characteristics
 <center>
-<img src="/blogs/review.assets/NatClc/Hoffmann NatNCC 20241001.png">
+<img src="/blogs/review.assets/Clc/Hoffmann NatNCC 20241001.png">
 </center>
 
 - Central China experiences higher out-migration, similarly in central US, Canada, Brazil, whereas lower levels of out-migration and higher immigration are observed in eastern coastal regions
 <center>
-<img src="/blogs/review.assets/NatClc/Hoffmann NatNCC 20241002.png">
+<img src="/blogs/review.assets/Clc/Hoffmann NatNCC 20241002.png">
 </center>
 
 - Most internal migration is over short distance and between neighbouring regions
 <center>
-<img src="/blogs/review.assets/NatClc/Hoffmann NatNCC 20241003.png">
+<img src="/blogs/review.assets/Clc/Hoffmann NatNCC 20241003.png">
 </center>
 
 - Considerably higher migration to urban  as opposed to rural areas
 <center>
-<img src="/blogs/review.assets/NatClc/Hoffmann NatNCC 20241004.png">
+<img src="/blogs/review.assets/Clc/Hoffmann NatNCC 20241004.png">
 </center>
 
 - Significant and sizeable effects of drought and aridity on migration; differential impacts over time; non-linear migration impacts with increasing environmental stree
 <center>
-<img src="/blogs/review.assets/NatClc/Hoffmann NatNCC 20241005.png">
+<img src="/blogs/review.assets/Clc/Hoffmann NatNCC 20241005.png">
 </center>
 
 - Impacts are moderated by socioeconomic factors
