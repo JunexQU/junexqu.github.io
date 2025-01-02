@@ -37,6 +37,7 @@ title: Nature Review
 - [Jenn, A. Emissions benefits of electric vehicles in Uber and Lyft ride-hailing services. Nat Energy 5, 520–525 (2020)](blogs/Jenn NE2020.md)
 
 ### Nature Sustainability
+- [Cordova, T., Kissinger, M., Teschner, N. et al. Effects of demographic and technological trends on the mitigation of Israel’s environmental footprint. Nat Sustain 7, 1616–1625 (2024)](blogs/NatNS/Cordova NatNS 202410.md)
 - [Quante, L., Willner, S.N., Otto, C. et al. Global economic impact of weather variability on the rich and the poor. Nat Sustain 7, 1419–1428 (2024)](blogs/Quante NatSustain 202409.md)
 - [Kaufmann, D., Wicki, M., Wittwer, S. et al. Democratic discrepancies in urban sustainable development. Nat Sustain 7, 1409–1418 (2024)](blogs/Kaufmann NatSustain 202409.md)
 - [**Malik, A., Lenzen, M., Li, M. et al. Polarizing and equalizing trends in international trade and Sustainable Development Goals. Nat Sustain 7, 1359–1370 (2024)**](blogs/Malik NS202408.md)
