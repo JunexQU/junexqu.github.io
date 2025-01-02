@@ -78,6 +78,7 @@ title: Nature Review
 - [Guan, D., Wang, D., Hallegatte, S. et al. Global supply-chain effects of COVID-19 control measures. Nat Hum Behav 4, 577–587 (2020)](blogs/Guan2020.md)
 
 ### Nature Climate Change
+- [Emmerling, J., Andreoni, P., Charalampidis, I. et al. A multi-model assessment of inequality and climate change. Nat. Clim. Chang. 14, 1254–1260 (2024)](blogs/Clc/Emmerling NatNCC 202410.md)
 - [Tang, L., Yang, J., Zheng, J. et al. Assessing the impacts of fertility and retirement policies on China’s carbon emissions. Nat. Clim. Chang. 14, 1261–1267 (2024)](blogs/Clc/Tang NatNCC 202410.md)
 - [**Hoffmann, R., Abel, G., Malpede, M. et al. Drought and aridity influence internal migration worldwide. Nat. Clim. Chang. 14, 1245–1253 (2024)**](blogs/Clc/Hoffmann NatNCC 202410.md)
 - [**Johnson, E.J., Sugerman, E.R., Morwitz, V.G. et al. Widespread misestimates of greenhouse gas emissions suggest low carbon competence. Nat. Clim. Chang. 14, 707–714 (2024)**](blogs/Johnson NCC202406.md)
