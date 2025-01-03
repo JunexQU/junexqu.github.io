@@ -9,6 +9,7 @@ title: Science & PNAS Review
 - [**Chaopeng Hong et al. ,Land-use emissions embodied in international trade.Science376,597-603(2022)**](science/Hong Science202205.md)
 
 ## PNAS
+- [F.C. Moore, M.A. Drupp, J. Rising, S. Dietz, I. Rudik, G. Wagner, Synthesis of evidence yields high social cost of carbon due to structural model variation and uncertainties, Proc. Natl. Acad. Sci. U.S.A. 121 (52) e2410733121,](science/PNAS/Moore PNAS 202412.md)
 - [**M. Zioga, M. Kotz, A. Levermann, Observed carbon decoupling of subnational production insufficient for net-zero goal by 2050, Proc. Natl. Acad. Sci. U.S.A. 121 (45) e2411419121 (2024)**](science/Zioga PNAS 202412.md)
 - [A. Ramani, J. Alcedo, N. Bloom, How working from home reshapes cities, Proc. Natl. Acad. Sci. U.S.A.121 (45) e2408930121 (2024)](science/Rammani PNAS 202412.md)
 - [Barrage, Lint, and William Nordhaus. Policies, projections, and the social cost of carbon Results from the DICE-2023 model. Proceedings of the National Academy of Sciences 121.13 (2024)](science/Barrage PNAS2024.md)
