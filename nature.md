@@ -80,6 +80,7 @@ title: Nature Review
 
 ### Nature Computational Science
 - [Xu, Y., Olmos, L.E., Mateo, D. et al. Urban dynamics through the lens of human mobility. Nat Comput Sci 3, 611–620 (2023)](blogs/NatCS/Xu NatCS 202307.md)
+- [Xu, F., Li, Y., Jin, D. et al. Emergence of urban growth patterns from human mobility behavior. Nat Comput Sci 1, 791–800 (2021)](blogs/NatCS/Xu NatCS 202109.md)
 
 ### Nature Climate Change
 - [Emmerling, J., Andreoni, P., Charalampidis, I. et al. A multi-model assessment of inequality and climate change. Nat. Clim. Chang. 14, 1254–1260 (2024)](blogs/Clc/Emmerling NatNCC 202410.md)
