@@ -78,6 +78,9 @@ title: Nature Review
 - [Jachimowicz, J.M., Szaszi, B., Lukas, M. et al. Higher economic inequality intensifies the financial hardship of people living in poverty by fraying the community buffer. Nat Hum Behav 4, 702–712 (2020)](blogs/Jachimowicz2020.md)
 - [Guan, D., Wang, D., Hallegatte, S. et al. Global supply-chain effects of COVID-19 control measures. Nat Hum Behav 4, 577–587 (2020)](blogs/Guan2020.md)
 
+### Nature Computational Science
+- [Xu, Y., Olmos, L.E., Mateo, D. et al. Urban dynamics through the lens of human mobility. Nat Comput Sci 3, 611–620 (2023)](blogs/NatCS/Xu NatCS 202307.md)
+
 ### Nature Climate Change
 - [Emmerling, J., Andreoni, P., Charalampidis, I. et al. A multi-model assessment of inequality and climate change. Nat. Clim. Chang. 14, 1254–1260 (2024)](blogs/Clc/Emmerling NatNCC 202410.md)
 - [Tang, L., Yang, J., Zheng, J. et al. Assessing the impacts of fertility and retirement policies on China’s carbon emissions. Nat. Clim. Chang. 14, 1261–1267 (2024)](blogs/Clc/Tang NatNCC 202410.md)
