@@ -25,20 +25,20 @@ title: Xu, Y., Olmos, L.E., Mateo, D. et al. Urban dynamics through the lens of 
 
 - Cities display socieconomic segregation patterns, independent of urban structure
 <center>
-<img src="/blogs/review.assets/NatNS/Xu NatCS 20230701.png">
+<img src="/blogs/review.assets/NatCS/Xu NatCS 20230701.png">
 </center>
 
 - Residential location plays a dominant role in the spatial segregation
 <center>
-<img src="/blogs/review.assets/NatNS/Xu NatCS 20230702.png">
+<img src="/blogs/review.assets/NatCS/Xu NatCS 20230702.png">
 </center>
 
 <center>
-<img src="/blogs/review.assets/NatNS/Xu NatCS 20230703.png">
+<img src="/blogs/review.assets/NatCS/Xu NatCS 20230703.png">
 </center>
 
 <center>
-<img src="/blogs/review.assets/NatNS/Xu NatCS 20230704.png">
+<img src="/blogs/review.assets/NatCS/Xu NatCS 20230704.png">
 </center>
 
 ### **Coding Reference:**
