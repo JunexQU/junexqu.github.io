@@ -132,6 +132,7 @@ title: Nature Review
 - [Moro, E., Calacci, D., Dong, X. et al. Mobility patterns are associated with experienced income segregation in large US cities. Nat Commun 12, 4633 (2021)](blogs/NatCom/Moro NatCom 202106.md)
 - [Grewe, V., Gangoli Rao, A., Grönstedt, T. et al. Evaluating the climate impact of aviation emission scenarios towards the Paris agreement including COVID-19 effects. Nat Commun 12, 3841 (2021)](blogs/NatCom/Grewe NatCom 202106.md)
 - [**Gazzotti, P., Emmerling, J., Marangoni, G. et al. Persistent inequality in economically optimal climate policies. Nat Commun 12, 3421 (2021)**](blogs/NatCom/Gazzotti NatCom 202106.md)
+- [Willner, S.N., Glanemann, N. & Levermann, A. Investment incentive reduced by climate damages can be restored by optimal policy. Nat Commun 12, 3245 (2021)](blogs/NatCom/Willner NatCom 202105.md)
 - [He, X., Ou, S., Gan, Y. et al. Greenhouse gas consequences of the China dual credit policy. Nat Commun 11, 5212 (2020)](blogs/He NatCom 202010.md)
 - [Hultman, N.E., Clarke, L., Frisch, C. et al. Fusing subnational with national climate action is central to decarbonization: the case of the United States. Nat Commun 11, 5255 (2020)](blogs/Hultman NatCom 202010.md)
 - [Sun, L., Chen, J., Li, Q. et al. Dramatic uneven urbanization of large cities throughout the world in recent decades. Nat Commun 11, 5366 (2020)](blogs/Sun NatCom 202010.md)
