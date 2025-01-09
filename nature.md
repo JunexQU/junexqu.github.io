@@ -130,6 +130,7 @@ title: Nature Review
 - [García-León, D., Casanueva, A., Standardi, G. et al. Current and projected regional economic impacts of heatwaves in Europe. Nat Commun 12, 5807 (2021)](blogs/NatCom/Carcia NatCom 202110.md)
 - [Bressler, R.D. The mortality cost of carbon. Nat Commun 12, 4467 (2021)](blogs/NatCom/Bressler NatCom 202107.md)
 - [Moro, E., Calacci, D., Dong, X. et al. Mobility patterns are associated with experienced income segregation in large US cities. Nat Commun 12, 4633 (2021)](blogs/NatCom/Moro NatCom 202106.md)
+- [Ercin, E., Veldkamp, T.I.E. & Hunink, J. Cross-border climate vulnerabilities of the European Union to drought. Nat Commun 12, 3322 (2021)](blogs/NatCom/Ercin NatCom 202106.md)
 - [Grewe, V., Gangoli Rao, A., Grönstedt, T. et al. Evaluating the climate impact of aviation emission scenarios towards the Paris agreement including COVID-19 effects. Nat Commun 12, 3841 (2021)](blogs/NatCom/Grewe NatCom 202106.md)
 - [**Gazzotti, P., Emmerling, J., Marangoni, G. et al. Persistent inequality in economically optimal climate policies. Nat Commun 12, 3421 (2021)**](blogs/NatCom/Gazzotti NatCom 202106.md)
 - [Willner, S.N., Glanemann, N. & Levermann, A. Investment incentive reduced by climate damages can be restored by optimal policy. Nat Commun 12, 3245 (2021)](blogs/NatCom/Willner NatCom 202105.md)
