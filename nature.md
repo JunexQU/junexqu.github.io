@@ -134,6 +134,7 @@ title: Nature Review
 - [Grewe, V., Gangoli Rao, A., Grönstedt, T. et al. Evaluating the climate impact of aviation emission scenarios towards the Paris agreement including COVID-19 effects. Nat Commun 12, 3841 (2021)](blogs/NatCom/Grewe NatCom 202106.md)
 - [**Gazzotti, P., Emmerling, J., Marangoni, G. et al. Persistent inequality in economically optimal climate policies. Nat Commun 12, 3421 (2021)**](blogs/NatCom/Gazzotti NatCom 202106.md)
 - [Willner, S.N., Glanemann, N. & Levermann, A. Investment incentive reduced by climate damages can be restored by optimal policy. Nat Commun 12, 3245 (2021)](blogs/NatCom/Willner NatCom 202105.md)
+- [Hsu, A., Sheriff, G., Chakraborty, T. et al. Disproportionate exposure to urban heat island intensity across major US cities. Nat Commun 12, 2721 (2021)](blogs/NatCom/Hsu NatCom 202105.md)
 - [Karatayev, V.A., Vasconcelos, V.V., Lafuite, AS. et al. A well-timed shift from local to global agreements accelerates climate change mitigation. Nat Commun 12, 2908 (2021)](blogs/NatCom/Karatayev NatCom 202105.md)
 - [Hong, B., Bonczak, B.J., Gupta, A. et al. Measuring inequality in community resilience to natural disasters using large-scale mobility data. Nat Commun 12, 1870 (2021)](blogs/NatCom/Hong NatCom 202103.md)
 - [Yang, J., Zhou, M., Ren, Z. et al. Projecting heat-related excess mortality under climate change scenarios in China. Nat Commun 12, 1039 (2021)](blogs/NatCom/Yang NatCom 202102.md)
