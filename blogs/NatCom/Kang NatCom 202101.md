@@ -1,42 +1,50 @@
 ---
 layout: page
-permalink: /blogs/Kang, P., Song, G., Xu, M. et al. Low-carbon pathways for the booming express delivery sector in China. Nat Commun/index.html
-title: Kang, P., Song, G., Xu, M. et al. Low-carbon pathways for the booming express delivery sector in China. Nat Commun
+permalink: /blogs/Ercin, E., Veldkamp, T.I.E. & Hunink, J. Cross-border climate vulnerabilities of the European Union to drought. Nat Commun/index.html
+title: Ercin, E., Veldkamp, T.I.E. & Hunink, J. Cross-border climate vulnerabilities of the European Union to drought. Nat Commun
 ---
 
-## [Kang, P., Song, G., Xu, M. et al. Low-carbon pathways for the booming express delivery sector in China. Nat Commun](https://doi.org/10.1038/s41467-020-20738-4)
+## [Ercin, E., Veldkamp, T.I.E. & Hunink, J. Cross-border climate vulnerabilities of the European Union to drought. Nat Commun](https://doi.org/10.1038/s41467-021-23584-0)
 
 ### **Objective:**
-- Estimate the generation of scrap packaging materials and quantify the GHG emissions from logistic and transportation of express deliveries
+- Quantify and map cross-border climate vulnerabilities of the EU's agri-food economy in relation to drought severity
 
 ### **Case:**
-- China
+- EU countries and importer
 
 ### **Methodology:**
-- Regression
-- Simulation via removing key variables
+- IO
+- Green virtual water
+- Drought severity
 
 ### **Data Source**
-- Survey
-- Delivery
+- IO
+- SSP
 
 ### **Findings:**
 
-- 75%, 23% and 2% were intercity, intracity and international deliveries
-- 53.5% used corrugated boxes, followed by 33.5% plastic bags, 5.4% envelopes
+- Global climate change will make the EU's agri-food economy more vulnearble to drought in non-EU countries in the future
+- Drought is the main driver determining behind in cross-border climate vulnerabilities
 <center>
-<img src="/blogs/review.assets/NatCom/Kang NatCom 20210101.png">
+<img src="/blogs/review.assets/NatCom/Ercin NatCom 20210601.png">
 </center>
 
-- 13.7 Mt of CO2-equivalent of GHG emissions
+- 30% is imported from outside the EU
 <center>
-<img src="/blogs/review.assets/NatCom/Kang NatCom 20210102.png">
+<img src="/blogs/review.assets/NatCom/Ercin NatCom 20210602.png">
 </center>
 
-- Intercity contributed over 99% of the GHG emissions
 <center>
-<img src="/blogs/review.assets/NatCom/Kang NatCom 20210103.png">
+<img src="/blogs/review.assets/NatCom/Ercin NatCom 20210603.png">
+</center>
+
+<center>
+<img src="/blogs/review.assets/NatCom/Ercin NatCom 20210604.png">
+</center>
+
+<center>
+<img src="/blogs/review.assets/NatCom/Ercin NatCom 20210605.png">
 </center>
 
 ### **Coding Reference:**
-- Upon request
+- Not applicable
