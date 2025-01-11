@@ -138,6 +138,7 @@ title: Nature Review
 - [Hsu, A., Sheriff, G., Chakraborty, T. et al. Disproportionate exposure to urban heat island intensity across major US cities. Nat Commun 12, 2721 (2021)](blogs/NatCom/Hsu NatCom 202105.md)
 - [Karatayev, V.A., Vasconcelos, V.V., Lafuite, AS. et al. A well-timed shift from local to global agreements accelerates climate change mitigation. Nat Commun 12, 2908 (2021)](blogs/NatCom/Karatayev NatCom 202105.md)
 - [van der Wijst, KI., Hof, A.F. & van Vuuren, D.P. On the optimality of 2°C targets and a decomposition of uncertainty. Nat Commun 12, 2575 (2021)](blogs/NatCom/vander NatCom 202105.md)
+- [Soergel, B., Kriegler, E., Bodirsky, B.L. et al. Combining ambitious climate policies with efforts to eradicate poverty. Nat Commun 12, 2342 (2021)](blogs/NatCom/Soergel NatCom 202104.md)
 - [Hong, B., Bonczak, B.J., Gupta, A. et al. Measuring inequality in community resilience to natural disasters using large-scale mobility data. Nat Commun 12, 1870 (2021)](blogs/NatCom/Hong NatCom 202103.md)
 - [Yang, J., Zhou, M., Ren, Z. et al. Projecting heat-related excess mortality under climate change scenarios in China. Nat Commun 12, 1039 (2021)](blogs/NatCom/Yang NatCom 202102.md)
 - [Kang, P., Song, G., Xu, M. et al. Low-carbon pathways for the booming express delivery sector in China. Nat Commun 12, 450 (2021)](blogs/NatCom/Kang NatCom 202101.md)
