@@ -124,6 +124,7 @@ title: Nature Review
 - [Kontokosta, C.E., Hong, B. & Bonczak, B.J. Socio-spatial inequality and the effects of density on COVID-19 transmission in US cities. Nat Cities 1, 83–93 (2024)](blogs/Kontokosta2024.md)
 
 ### Nature Communication
+- [Anza-Ramirez, C., Lazo, M., Zafra-Tanaka, J.H. et al. The urban built environment and adult BMI, obesity, and diabetes in Latin American cities. Nat Commun 13, 7977 (2022)](blogs/NatCom/AnzaRamirez NatCom 202212.md)
 - [Wolfram, P., Weber, S., Gillingham, K. et al. Pricing indirect emissions accelerates low—carbon transition of US light vehicle sector. Nat Commun 12, 7121 (2021)](blogs/NatCom/Wolfram NatCom 202112.md)
 - [Simini, F., Barlacchi, G., Luca, M. et al. A Deep Gravity model for mobility flows generation. Nat Commun 12, 6576 (2021)](blogs/NatCom/Simini NatCom 202112.md)
 - [Ou, Y., Roney, C., Alsalam, J. et al. Deep mitigation of CO2 and non-CO2 greenhouse gases toward 1.5 °C and 2 °C futures. Nat Commun 12, 6245 (2021)](blogs/NatCom/Ou NatCom 202110.md)
