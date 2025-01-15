@@ -127,6 +127,7 @@ title: Nature Review
 - [Anza-Ramirez, C., Lazo, M., Zafra-Tanaka, J.H. et al. The urban built environment and adult BMI, obesity, and diabetes in Latin American cities. Nat Commun 13, 7977 (2022)](blogs/NatCom/AnzaRamirez NatCom 202212.md)
 - [Goforth, T., Nock, D. Air pollution disparities and equality assessments of US national decarbonization strategies. Nat Commun 13, 7488 (2022)](blogs/NatCom/Goforth NatCom 202212.md)
 - [**Hsu, A., Wang, X., Tan, J. et al. Predicting European cities’ climate mitigation performance using machine learning. Nat Commun 13, 7487 (2022)**](blogs/NatCom/Hsu NatCom 202212.md)
+- [Humpenöder, F., Popp, A., Schleussner, CF. et al. Overcoming global inequality is critical for land-based mitigation in line with the Paris Agreement. Nat Commun](blogs/NatCom/Humpenoder NatCom 202112.md)
 - [Wolfram, P., Weber, S., Gillingham, K. et al. Pricing indirect emissions accelerates low—carbon transition of US light vehicle sector. Nat Commun 12, 7121 (2021)](blogs/NatCom/Wolfram NatCom 202112.md)
 - [Simini, F., Barlacchi, G., Luca, M. et al. A Deep Gravity model for mobility flows generation. Nat Commun 12, 6576 (2021)](blogs/NatCom/Simini NatCom 202112.md)
 - [Ou, Y., Roney, C., Alsalam, J. et al. Deep mitigation of CO2 and non-CO2 greenhouse gases toward 1.5 °C and 2 °C futures. Nat Commun 12, 6245 (2021)](blogs/NatCom/Ou NatCom 202110.md)
