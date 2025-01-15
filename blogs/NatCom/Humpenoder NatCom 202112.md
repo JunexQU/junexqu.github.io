@@ -10,7 +10,7 @@ title: Humpenöder, F., Popp, A., Schleussner, CF. et al. Overcoming global ineq
 - Present a model-based quantification of two contrasting future scenarios for the GHG emissions from land sector (AFOLU)
 
 ### **Case:**
-- EU + UK
+- Global countries
 
 ### **Methodology:**
 - IAM: MAgPIE-Land use
