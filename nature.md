@@ -127,6 +127,7 @@ title: Nature Review
 - [Anza-Ramirez, C., Lazo, M., Zafra-Tanaka, J.H. et al. The urban built environment and adult BMI, obesity, and diabetes in Latin American cities. Nat Commun 13, 7977 (2022)](blogs/NatCom/AnzaRamirez NatCom 202212.md)
 - [Goforth, T., Nock, D. Air pollution disparities and equality assessments of US national decarbonization strategies. Nat Commun 13, 7488 (2022)](blogs/NatCom/Goforth NatCom 202212.md)
 - [Bistline, J.E.T., Blanford, G., Grant, J. et al. Economy-wide evaluation of CO2 and air quality impacts of electrification in the United States. Nat Commun 13, 6693 (2022)](blogs/NatCom/Bistline NatCom 202211.md)
+- [Reia, S.M., Rao, P.S.C., Barthelemy, M. et al. Spatial structure of city population growth. Nat Commun 13, 5931 (2022)](blogs/NatCom/Reia NatCom 202210.md)
 - [**Hsu, A., Wang, X., Tan, J. et al. Predicting European cities’ climate mitigation performance using machine learning. Nat Commun 13, 7487 (2022)**](blogs/NatCom/Hsu NatCom 202212.md)
 - [Humpenöder, F., Popp, A., Schleussner, CF. et al. Overcoming global inequality is critical for land-based mitigation in line with the Paris Agreement. Nat Commun 13, 7453 (2022)](blogs/NatCom/Humpenoder NatCom 202112.md)
 - [Slameršak, A., Kallis, G. & O’Neill, D.W. Energy requirements and carbon emissions for a low-carbon energy transition. Nat Commun 13, 6932 (2022)](blogs/NatCom/Slamersak NatCom 202211.md)
