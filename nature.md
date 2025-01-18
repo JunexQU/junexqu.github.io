@@ -131,6 +131,7 @@ title: Nature Review
 - [Reia, S.M., Rao, P.S.C., Barthelemy, M. et al. Spatial structure of city population growth. Nat Commun 13, 5931 (2022)](blogs/NatCom/Reia NatCom 202210.md)
 - [Diezmartínez, C.V., Short Gianotti, A.G. US cities increasingly integrate justice into climate planning and create policy tools for climate justice. Nat Commun 13, 5763 (2022)](blogs/NatCom/Diezmartinez NatCom 202209.md)
 - [Zhu, S., Mac Kinnon, M., Carlos-Carlos, A. et al. Decarbonization will lead to more equitable air quality in California. Nat Commun 13, 5738 (2022)](blogs/NatCom/Zhu NatCom 202209.md)
+- [Li, L., Zhang, Y., Zhou, T. et al. Mitigation of China’s carbon neutrality to global warming. Nat Commun 13, 5315 (2022)](blogs/NatCom/Li NatCom 202209.md)
 - [Humpenöder, F., Popp, A., Schleussner, CF. et al. Overcoming global inequality is critical for land-based mitigation in line with the Paris Agreement. Nat Commun 13, 7453 (2022)](blogs/NatCom/Humpenoder NatCom 202112.md)
 - [Slameršak, A., Kallis, G. & O’Neill, D.W. Energy requirements and carbon emissions for a low-carbon energy transition. Nat Commun 13, 6932 (2022)](blogs/NatCom/Slamersak NatCom 202211.md)
 - [Wolfram, P., Weber, S., Gillingham, K. et al. Pricing indirect emissions accelerates low—carbon transition of US light vehicle sector. Nat Commun 12, 7121 (2021)](blogs/NatCom/Wolfram NatCom 202112.md)
