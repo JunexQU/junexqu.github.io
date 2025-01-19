@@ -12,7 +12,7 @@ title: Publications
 
 ## In Progress
 
-- **Junxi Qu & Tianren Yang**. Trade-embeded carbon emission in China.
+- **Junxi Qu & Tianren Yang**. Integrated Assessment Models for Sustainable Futures: Technical Challenges, Shortcomings, and Path Forward in Human-Earth Modelling.
 - **Junxi Qu & Tianren Yang**. Working population by workplace and residence geography in China.
 
 ## Journal Article
