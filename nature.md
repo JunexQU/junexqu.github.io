@@ -138,6 +138,7 @@ title: Nature Review
 - [Brecha, R.J., Ganti, G., Lamboll, R.D. et al. Institutional decarbonization scenarios evaluated against the Paris Agreement 1.5 °C goal. Nat Commun 13, 4304 (2022)](blogs/NatCom/Brecha NatCom 202208.md)
 - [Chen, B., Wu, S., Song, Y. et al. Contrasting inequality in human exposure to greenspace between cities of Global North and Global South. Nat Commun 13, 4636 (2022)](blogs/NatCom/Chen NatCom 202208.md)
 - [**Verschuur, J., Koks, E.E. & Hall, J.W. Ports’ criticality in international trade and global supply-chains. Nat Commun 13, 4351 (2022)**](blogs/NatCom/Verschuur NatCom 202207.md)
+- [Liu, Y., Du, M., Cui, Q. et al. Contrasting suitability and ambition in regional carbon mitigation. Nat Commun 13, 4077 (2022)](blogs/NatCom/Liu NatCom202207.md)
 - [Humpenöder, F., Popp, A., Schleussner, CF. et al. Overcoming global inequality is critical for land-based mitigation in line with the Paris Agreement. Nat Commun 13, 7453 (2022)](blogs/NatCom/Humpenoder NatCom 202112.md)
 - [Slameršak, A., Kallis, G. & O’Neill, D.W. Energy requirements and carbon emissions for a low-carbon energy transition. Nat Commun 13, 6932 (2022)](blogs/NatCom/Slamersak NatCom 202211.md)
 - [Wolfram, P., Weber, S., Gillingham, K. et al. Pricing indirect emissions accelerates low—carbon transition of US light vehicle sector. Nat Commun 12, 7121 (2021)](blogs/NatCom/Wolfram NatCom 202112.md)
