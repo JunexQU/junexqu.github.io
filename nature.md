@@ -140,6 +140,7 @@ title: Nature Review
 - [**Verschuur, J., Koks, E.E. & Hall, J.W. Ports’ criticality in international trade and global supply-chains. Nat Commun 13, 4351 (2022)**](blogs/NatCom/Verschuur NatCom 202207.md)
 - [Liu, Y., Du, M., Cui, Q. et al. Contrasting suitability and ambition in regional carbon mitigation. Nat Commun 13, 4077 (2022)](blogs/NatCom/Liu NatCom202207.md)
 - [He, C., Zhang, Y., Schneider, A. et al. The inequality labor loss risk from future urban warming and adaptation strategies. Nat Commun 13, 3847 (2022)](blogs/NatCom/He NatCom 202207.md)
+- [Anguelovski, I., Connolly, J.J.T., Cole, H. et al. Green gentrification in European and North American cities. Nat Commun 13, 3816 (2022)](blogs/NatCom/Anguelovski NatCom 202207.md)
 - [Humpenöder, F., Popp, A., Schleussner, CF. et al. Overcoming global inequality is critical for land-based mitigation in line with the Paris Agreement. Nat Commun 13, 7453 (2022)](blogs/NatCom/Humpenoder NatCom 202112.md)
 - [Slameršak, A., Kallis, G. & O’Neill, D.W. Energy requirements and carbon emissions for a low-carbon energy transition. Nat Commun 13, 6932 (2022)](blogs/NatCom/Slamersak NatCom 202211.md)
 - [Wolfram, P., Weber, S., Gillingham, K. et al. Pricing indirect emissions accelerates low—carbon transition of US light vehicle sector. Nat Commun 12, 7121 (2021)](blogs/NatCom/Wolfram NatCom 202112.md)
