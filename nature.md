@@ -142,6 +142,7 @@ title: Nature Review
 - [He, C., Zhang, Y., Schneider, A. et al. The inequality labor loss risk from future urban warming and adaptation strategies. Nat Commun 13, 3847 (2022)](blogs/NatCom/He NatCom 202207.md)
 - [Anguelovski, I., Connolly, J.J.T., Cole, H. et al. Green gentrification in European and North American cities. Nat Commun 13, 3816 (2022)](blogs/NatCom/Anguelovski NatCom 202207.md)
 - [Steininger, K.W., Williges, K., Meyer, L.H. et al. Sharing the effort of the European Green Deal among countries. Nat Commun 13, 3673 (2022)](blogs/NatCom/Steininger NatCom 202206.md)
+- [Qiu, Y., Lamers, P., Daioglou, V. et al. Environmental trade-offs of direct air capture technologies in climate change mitigation toward 2100. Nat Commun 13, 3635 (2022)](blogs/NatCom/Qiu NatCom 202206.md)
 - [Humpenöder, F., Popp, A., Schleussner, CF. et al. Overcoming global inequality is critical for land-based mitigation in line with the Paris Agreement. Nat Commun 13, 7453 (2022)](blogs/NatCom/Humpenoder NatCom 202112.md)
 - [Slameršak, A., Kallis, G. & O’Neill, D.W. Energy requirements and carbon emissions for a low-carbon energy transition. Nat Commun 13, 6932 (2022)](blogs/NatCom/Slamersak NatCom 202211.md)
 - [Wolfram, P., Weber, S., Gillingham, K. et al. Pricing indirect emissions accelerates low—carbon transition of US light vehicle sector. Nat Commun 12, 7121 (2021)](blogs/NatCom/Wolfram NatCom 202112.md)
