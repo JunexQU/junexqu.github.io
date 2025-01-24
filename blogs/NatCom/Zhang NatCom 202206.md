@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /blogs/Zhang, R., Hanaoka, T. Cross-cutting scenarios and strategies for designing decarbonization pathways in the transport sector toward carbon neutrality. Nat Commun/index.html
-title: Zhang, R., Hanaoka, T. Cross-cutting scenarios and strategies for designing decarbonization pathways in the transport sector toward carbon neutrality. Nat CommunQiu, Y., Lamers, P., Daioglou, V. et al. Environmental trade-offs of direct air capture technologies in climate change mitigation toward 2100
+title: Zhang, R., Hanaoka, T. Cross-cutting scenarios and strategies for designing decarbonization pathways in the transport sector toward carbon neutrality. Nat Commun
 ---
 
 ## [Zhang, R., Hanaoka, T. Cross-cutting scenarios and strategies for designing decarbonization pathways in the transport sector toward carbon neutrality. Nat Commun](https://doi.org/10.1038/s41467-022-31354-9)
