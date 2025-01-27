@@ -149,6 +149,7 @@ title: Nature Review
 - [Zhuo, Z., Du, E., Zhang, N. et al. Cost increase in the electricity supply to achieve carbon neutrality in China. Nat Commun 13, 3172 (2022)](blogs/NatCom/Zhuo NatCom 202206.md)
 - [Camarasa, C., Mata, É., Navarro, J.P.J. et al. A global comparison of building decarbonization scenarios by 2050 towards 1.5–2 °C targets. Nat Commun 13, 3077 (2022)](blogs/NatCom/Camarasa NatCom 202206.md)
 - [Cobo, S., Galán-Martín, Á., Tulus, V. et al. Human and planetary health implications of negative emissions technologies. Nat Commun 13, 2535 (2022)](blogs/NatCom/Cobo NatCom 202205.md)
+- [McCallum, I., Kyba, C.C.M., Bayas, J.C.L. et al. Estimating global economic well-being with unlit settlements. Nat Commun 13, 2459 (2022)](blogs/NatCom/McCallum NatCom 202205.md)
 - [Humpenöder, F., Popp, A., Schleussner, CF. et al. Overcoming global inequality is critical for land-based mitigation in line with the Paris Agreement. Nat Commun 13, 7453 (2022)](blogs/NatCom/Humpenoder NatCom 202112.md)
 - [Slameršak, A., Kallis, G. & O’Neill, D.W. Energy requirements and carbon emissions for a low-carbon energy transition. Nat Commun 13, 6932 (2022)](blogs/NatCom/Slamersak NatCom 202211.md)
 - [Wolfram, P., Weber, S., Gillingham, K. et al. Pricing indirect emissions accelerates low—carbon transition of US light vehicle sector. Nat Commun 12, 7121 (2021)](blogs/NatCom/Wolfram NatCom 202112.md)
