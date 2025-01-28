@@ -151,6 +151,7 @@ title: Nature Review
 - [Cobo, S., Galán-Martín, Á., Tulus, V. et al. Human and planetary health implications of negative emissions technologies. Nat Commun 13, 2535 (2022)](blogs/NatCom/Cobo NatCom 202205.md)
 - [McCallum, I., Kyba, C.C.M., Bayas, J.C.L. et al. Estimating global economic well-being with unlit settlements. Nat Commun 13, 2459 (2022)](blogs/NatCom/McCallum NatCom 202205.md)
 - [Cong, S., Nock, D., Qiu, Y.L. et al. Unveiling hidden energy poverty using the energy equity gap. Nat Commun 13, 2456 (2022)](blogs/NatCom/Cong NatCom 202205.md)
+- [Abdul-Manan, A.F.N., Gordillo Zavaleta, V., Agarwal, A.K. et al. Electrifying passenger road transport in India requires near-term electricity grid decarbonisation. Nat Commun 13, 2095 (2022)](blogs/NatCom/Abdul NatCom 202204.md)
 - [Humpenöder, F., Popp, A., Schleussner, CF. et al. Overcoming global inequality is critical for land-based mitigation in line with the Paris Agreement. Nat Commun 13, 7453 (2022)](blogs/NatCom/Humpenoder NatCom 202112.md)
 - [Slameršak, A., Kallis, G. & O’Neill, D.W. Energy requirements and carbon emissions for a low-carbon energy transition. Nat Commun 13, 6932 (2022)](blogs/NatCom/Slamersak NatCom 202211.md)
 - [Wolfram, P., Weber, S., Gillingham, K. et al. Pricing indirect emissions accelerates low—carbon transition of US light vehicle sector. Nat Commun 12, 7121 (2021)](blogs/NatCom/Wolfram NatCom 202112.md)
