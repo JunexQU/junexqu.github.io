@@ -153,6 +153,7 @@ title: Nature Review
 - [Cong, S., Nock, D., Qiu, Y.L. et al. Unveiling hidden energy poverty using the energy equity gap. Nat Commun 13, 2456 (2022)](blogs/NatCom/Cong NatCom 202205.md)
 - [Abdul-Manan, A.F.N., Gordillo Zavaleta, V., Agarwal, A.K. et al. Electrifying passenger road transport in India requires near-term electricity grid decarbonisation. Nat Commun 13, 2095 (2022)](blogs/NatCom/Abdul NatCom 202204.md)
 - [**Chen, Z., Kelty, S., Evsukoff, A.G. et al. Contrasting social and non-social sources of predictability in human mobility. Nat Commun 13, 1922 (2022)**](blogs/NatCom/Chen NatCom 202204.md)
+- [Li, X., Gallagher, K.P. Assessing the climate change exposure of foreign direct investment. Nat Commun 13, 1451 (2022)](blogs/NatCom/Li NatCom 202203.md)
 - [Humpenöder, F., Popp, A., Schleussner, CF. et al. Overcoming global inequality is critical for land-based mitigation in line with the Paris Agreement. Nat Commun 13, 7453 (2022)](blogs/NatCom/Humpenoder NatCom 202112.md)
 - [Slameršak, A., Kallis, G. & O’Neill, D.W. Energy requirements and carbon emissions for a low-carbon energy transition. Nat Commun 13, 6932 (2022)](blogs/NatCom/Slamersak NatCom 202211.md)
 - [Wolfram, P., Weber, S., Gillingham, K. et al. Pricing indirect emissions accelerates low—carbon transition of US light vehicle sector. Nat Commun 12, 7121 (2021)](blogs/NatCom/Wolfram NatCom 202112.md)
