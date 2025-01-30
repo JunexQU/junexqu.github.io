@@ -156,6 +156,7 @@ title: Nature Review
 - [Li, X., Gallagher, K.P. Assessing the climate change exposure of foreign direct investment. Nat Commun 13, 1451 (2022)](blogs/NatCom/Li NatCom 202203.md)
 - [Boo, G., Darin, E., Leasure, D.R. et al. High-resolution population estimation using household survey data and building footprints. Nat Commun 13, 1330 (2022)](blogs/NatCom/Boo NatCom 202203.md)
 - [Bruninx, K., Ovaere, M. COVID-19, Green Deal and recovery plan permanently change emissions and prices in EU ETS Phase IV. Nat Commun 13, 1165 (2022)](blogs/NatCom/Bruninx NatCom 202203.md)
+- [Tang, R., Zhao, J., Liu, Y. et al. Air quality and health co-benefits of China’s carbon dioxide emissions peaking before 2030. Nat Commun 13, 1008 (2022)](blogs/NatCom/Tang NatCom 202202.md)
 - [Humpenöder, F., Popp, A., Schleussner, CF. et al. Overcoming global inequality is critical for land-based mitigation in line with the Paris Agreement. Nat Commun 13, 7453 (2022)](blogs/NatCom/Humpenoder NatCom 202112.md)
 - [Slameršak, A., Kallis, G. & O’Neill, D.W. Energy requirements and carbon emissions for a low-carbon energy transition. Nat Commun 13, 6932 (2022)](blogs/NatCom/Slamersak NatCom 202211.md)
 - [Wolfram, P., Weber, S., Gillingham, K. et al. Pricing indirect emissions accelerates low—carbon transition of US light vehicle sector. Nat Commun 12, 7121 (2021)](blogs/NatCom/Wolfram NatCom 202112.md)
