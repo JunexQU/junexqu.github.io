@@ -161,6 +161,7 @@ title: Nature Review
 - [Cuthbert, M.O., Rau, G.C., Ekström, M. et al. Global climate-driven trade-offs between the water retention and cooling benefits of urban greening. Nat Commun 13, 518 (2022)](blogs/NatCom/Cuthbert NatCom 202201.md)
 - [**Tian, K., Zhang, Y., Li, Y. et al. Regional trade agreement burdens global carbon emissions mitigation. Nat Commun 13, 408 (2022)**](blogs/NatCom/Tian NatCom 202201.md)
 - [Scheier, E., Kittner, N. A measurement strategy to address disparities across household energy burdens. Nat Commun 13, 288 (2022)](blogs/NatCom/Scheier NatCom 202201.md)
+- [Springmann, M., Freund, F. Options for reforming agricultural subsidies from health, climate, and economic perspectives. Nat Commun 13, 82 (2022)](blogs/NatCom/Springmann NatCom 202201.md)
 - [Humpenöder, F., Popp, A., Schleussner, CF. et al. Overcoming global inequality is critical for land-based mitigation in line with the Paris Agreement. Nat Commun 13, 7453 (2022)](blogs/NatCom/Humpenoder NatCom 202112.md)
 - [Slameršak, A., Kallis, G. & O’Neill, D.W. Energy requirements and carbon emissions for a low-carbon energy transition. Nat Commun 13, 6932 (2022)](blogs/NatCom/Slamersak NatCom 202211.md)
 - [Wolfram, P., Weber, S., Gillingham, K. et al. Pricing indirect emissions accelerates low—carbon transition of US light vehicle sector. Nat Commun 12, 7121 (2021)](blogs/NatCom/Wolfram NatCom 202112.md)
