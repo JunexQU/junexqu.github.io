@@ -7,7 +7,7 @@ title: Tian, K., Zhang, Y., Li, Y. et al. Regional trade agreement burdens globa
 ## [Tian, K., Zhang, Y., Li, Y. et al. Regional trade agreement burdens global carbon emissions mitigation. Nat Commun](https://doi.org/10.1038/s41467-022-28004-5)
 
 ### **Objective:**
-- Propose a conceptual, data-driven, screening-level analysis to understand and quantitatively estimate the comparative retention and cooling potential of urban greening across a global geographic extent
+- Estimate the carbon emission effects after evaluating the economic effects of RCEP tariff reductions
 
 ### **Case:**
 - Ten countries (RCEP)
