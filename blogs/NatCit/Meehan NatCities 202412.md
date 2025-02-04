@@ -35,7 +35,6 @@ title: Meehan, K., Jurjevich, J.R., Everitt, L. et al. Urban inequality, the hou
 <img src="/blogs/review.assets/NatCit/Meehan NatCities 20241203.png">
 </center>
 
-- Subdistricts located in the center layer generally featured the lowest average HUEs across China; with an increase in spatial distance to the city center
 <center>
 <img src="/blogs/review.assets/NatCit/Meehan NatCities 20241204.png">
 </center>
