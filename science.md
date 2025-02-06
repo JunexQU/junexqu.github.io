@@ -10,6 +10,7 @@ title: Science & PNAS Review
 - [**Chaopeng Hong et al. ,Land-use emissions embodied in international trade.Science376,597-603(2022)**](science/Hong Science202205.md)
 
 ## PNAS
+- [G. Li,Y. Cao,C. Fang,S. Sun,W. Qi,Z. Wang,S. He,& Z. Yang,  Global urban greening and its implication for urban heat mitigation, Proc. Natl. Acad. Sci. U.S.A. 122 (4) e2417179122](science/PNAS/Li PNAS 202501.md)
 - [F.C. Moore, M.A. Drupp, J. Rising, S. Dietz, I. Rudik, G. Wagner, Synthesis of evidence yields high social cost of carbon due to structural model variation and uncertainties, Proc. Natl. Acad. Sci. U.S.A. 121 (52) e2410733121,](science/PNAS/Moore PNAS 202412.md)
 - [**M. Zioga, M. Kotz, A. Levermann, Observed carbon decoupling of subnational production insufficient for net-zero goal by 2050, Proc. Natl. Acad. Sci. U.S.A. 121 (45) e2411419121 (2024)**](science/Zioga PNAS 202412.md)
 - [A. Ramani, J. Alcedo, N. Bloom, How working from home reshapes cities, Proc. Natl. Acad. Sci. U.S.A.121 (45) e2408930121 (2024)](science/Rammani PNAS 202412.md)
