@@ -10,6 +10,7 @@ title: Science & PNAS Review
 - [**Chaopeng Hong et al. ,Land-use emissions embodied in international trade.Science376,597-603(2022)**](science/Hong Science202205.md)
 
 ## PNAS
+- [P. Shorey,& A. Abdulla,  Integrating climate and physical constraints into assessments of net capture from direct air capture facilities, Proc. Natl. Acad. Sci. U.S.A. 122 (1) e2410824121](science/PNAS/Shorey PNAS 202501.md)
 - [P. Fernandez Velasco,E. Griesbauer,I.K. Brunec,J. Morley,E. Manley,D.C. McNamee,& H.J. Spiers,  Expert navigators deploy rational complexity–based decision precaching for large-scale real-world planning, Proc. Natl. Acad. Sci. U.S.A. 122 (4) e2407814122](science/PNAS/Fernandez PNSA 202501.md)
 - [G. Li,Y. Cao,C. Fang,S. Sun,W. Qi,Z. Wang,S. He,& Z. Yang,  Global urban greening and its implication for urban heat mitigation, Proc. Natl. Acad. Sci. U.S.A. 122 (4) e2417179122](science/PNAS/Li PNAS 202501.md)
 - [F.C. Moore, M.A. Drupp, J. Rising, S. Dietz, I. Rudik, G. Wagner, Synthesis of evidence yields high social cost of carbon due to structural model variation and uncertainties, Proc. Natl. Acad. Sci. U.S.A. 121 (52) e2410733121,](science/PNAS/Moore PNAS 202412.md)
