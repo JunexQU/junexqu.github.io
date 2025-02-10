@@ -37,6 +37,7 @@ title: Science & PNAS Review
 - [Yu, B., Zhao, Z., Wei, YM. et al. Approaching national climate targets in China considering the challenge of regional inequality. Nat Commun 14, 8342 (2023)](science/NatCom/Yu NatCom 202312.md)
 - [Yang, H., Deshmukh, R. & Suh, S. Global transcontinental power pools for low-carbon electricity. Nat Commun 14, 8350 (2023)](science/NatCom/Yang NatCom 202312.md)
 - [Yu, Q., He, B.Y., Ma, J. et al. California’s zero-emission vehicle adoption brings air quality benefits yet equity gaps persist. Nat Commun 14, 7798 (2023)](science/NatCom/YuQ NatCom 202312.md)
+- [Chong, C.T., Ng, JH. Limitations to sustainable renewable jet fuels production attributed to cost than energy-water-food resource availability. Nat Commun 14, 8156 (2023)](science/NatCom/Chong NatCom 202312.md)
 
 ## Other
 - [Li, W., Schmidt, S., & Siedentop, S. (2024). Can polycentric urban development simultaneously achieve both economic growth and regional equity? A multi-scale analysis of German regions. Environment & Planning](science/Li EPA 202309.md)
