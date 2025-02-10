@@ -38,6 +38,7 @@ title: Science & PNAS Review
 - [Yang, H., Deshmukh, R. & Suh, S. Global transcontinental power pools for low-carbon electricity. Nat Commun 14, 8350 (2023)](science/NatCom/Yang NatCom 202312.md)
 - [Yu, Q., He, B.Y., Ma, J. et al. California’s zero-emission vehicle adoption brings air quality benefits yet equity gaps persist. Nat Commun 14, 7798 (2023)](science/NatCom/YuQ NatCom 202312.md)
 - [Chong, C.T., Ng, JH. Limitations to sustainable renewable jet fuels production attributed to cost than energy-water-food resource availability. Nat Commun 14, 8156 (2023)](science/NatCom/Chong NatCom 202312.md)
+- [Cenci, S., Burato, M., Rei, M. et al. The alignment of companies' sustainability behavior and emissions with global climate targets. Nat Commun 14, 7831 (2023)](science/NatCom/Cenci NatCom 202312.md)
 
 ## Other
 - [Li, W., Schmidt, S., & Siedentop, S. (2024). Can polycentric urban development simultaneously achieve both economic growth and regional equity? A multi-scale analysis of German regions. Environment & Planning](science/Li EPA 202309.md)
