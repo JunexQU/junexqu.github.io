@@ -10,7 +10,7 @@ title: Ronco, M., Tárraga, J.M., Muñoz, J. et al. Exploring interactions betwe
 - Study human internal displacement induced by suddenonset hazards at a global scale with data-driven machine learning
 
 ### **Case:**
-- Global firms
+- Global countries
 
 ### **Methodology:**
 - ML: RF, GBM
