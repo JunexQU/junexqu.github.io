@@ -19,10 +19,9 @@ title: Woody, M., Keoleian, G.A. & Vaishnav, P. Decarbonization potential of ele
 - Grid projection: NREL's Cambium
 
 ### **Data Source**
-- Heat: UrbClim
-- Elevation map: MERIT DEM
-- Population: SEDAC
-- Mortality: Mosselot
+- Car
+- Emission
+- Fuel
 
 ### **Findings:**
 
