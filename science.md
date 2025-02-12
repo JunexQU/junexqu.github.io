@@ -41,6 +41,7 @@ title: Science & PNAS Review
 - [Cenci, S., Burato, M., Rei, M. et al. The alignment of companies' sustainability behavior and emissions with global climate targets. Nat Commun 14, 7831 (2023)](science/NatCom/Cenci NatCom 202312.md)
 - [Ronco, M., Tárraga, J.M., Muñoz, J. et al. Exploring interactions between socioeconomic context and natural hazards on human population displacement. Nat Commun 14, 8004 (2023)](science/NatCom/Ronco NatCom 202312.md)
 - [Huang, W.T.K., Masselot, P., Bou-Zeid, E. et al. Economic valuation of temperature-related mortality attributed to urban heat islands in European cities. Nat Commun 14, 7438 (2023)](science/NatCom/Huang NatCom 202311.md)
+- [Woody, M., Keoleian, G.A. & Vaishnav, P. Decarbonization potential of electrifying 50% of U.S. light-duty vehicle sales by 2030. Nat Commun 14, 7077 (2023)](science/NatCom/Woody NatCom 202311.md)
 
 ## Other
 - [Li, W., Schmidt, S., & Siedentop, S. (2024). Can polycentric urban development simultaneously achieve both economic growth and regional equity? A multi-scale analysis of German regions. Environment & Planning](science/Li EPA 202309.md)
