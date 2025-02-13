@@ -43,6 +43,7 @@ title: Science & PNAS Review
 - [Huang, W.T.K., Masselot, P., Bou-Zeid, E. et al. Economic valuation of temperature-related mortality attributed to urban heat islands in European cities. Nat Commun 14, 7438 (2023)](science/NatCom/Huang NatCom 202311.md)
 - [Woody, M., Keoleian, G.A. & Vaishnav, P. Decarbonization potential of electrifying 50% of U.S. light-duty vehicle sales by 2030. Nat Commun 14, 7077 (2023)](science/NatCom/Woody NatCom 202311.md)
 - [Hoehne, C., Muratori, M., Jadun, P. et al. Exploring decarbonization pathways for USA passenger and freight mobility. Nat Commun 14, 6913 (2023)](science/NatCom/Hoehne NatCom 202310.md)
+- [Gao, J., Bukovsky, M.S. Urban land patterns can moderate population exposures to climate extremes over the 21st century. Nat Commun 14, 6536 (2023)](science/NatCom/Gao NatCom 202310.md)
 
 ## Other
 - [Li, W., Schmidt, S., & Siedentop, S. (2024). Can polycentric urban development simultaneously achieve both economic growth and regional equity? A multi-scale analysis of German regions. Environment & Planning](science/Li EPA 202309.md)
