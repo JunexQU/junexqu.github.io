@@ -45,6 +45,7 @@ title: Science & PNAS Review
 - [Hoehne, C., Muratori, M., Jadun, P. et al. Exploring decarbonization pathways for USA passenger and freight mobility. Nat Commun 14, 6913 (2023)](science/NatCom/Hoehne NatCom 202310.md)
 - [Gao, J., Bukovsky, M.S. Urban land patterns can moderate population exposures to climate extremes over the 21st century. Nat Commun 14, 6536 (2023)](science/NatCom/Gao NatCom 202310.md)
 - [Wang, C., Song, J., Shi, D. et al. Impacts of climate change, population growth, and power sector decarbonization on urban building energy use. Nat Commun 14, 6434 (2023)](science/NatCom/Wang NatCom 202310.md)
+- [Wu, S., Chen, B., Webster, C. et al. Improved human greenspace exposure equality during 21st century urbanization. Nat Commun 14, 6460 (2023)](science/NatCom/WuS NatCom 202310.md)
 
 ## Other
 - [Li, W., Schmidt, S., & Siedentop, S. (2024). Can polycentric urban development simultaneously achieve both economic growth and regional equity? A multi-scale analysis of German regions. Environment & Planning](science/Li EPA 202309.md)
