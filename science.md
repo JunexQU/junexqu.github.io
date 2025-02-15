@@ -48,6 +48,7 @@ title: Science & PNAS Review
 - [Wu, S., Chen, B., Webster, C. et al. Improved human greenspace exposure equality during 21st century urbanization. Nat Commun 14, 6460 (2023)](science/NatCom/WuS NatCom 202310.md)
 - [Gillett, N.P. Warming proportional to cumulative carbon emissions not explained by heat and carbon sharing mixing processes. Nat Commun 14, 6466 (2023)](science/NatCom/Gillett NatCom 202310.md)
 - [von Dulong, A. Concentration of asset owners exposed to power sector stranded assets may trigger climate policy resistance. Nat Commun 14, 6442 (2023)](science/NatCom/vonDu NatCom 202310.md)
+- [Huo, J., Meng, J., Zheng, H. et al. Achieving decent living standards in emerging economies challenges national mitigation goals for CO2 emissions. Nat Commun 14, 6342 (2023)](science/NatCom/Huo NatCom 202310.md)
 
 ## Other
 - [Li, W., Schmidt, S., & Siedentop, S. (2024). Can polycentric urban development simultaneously achieve both economic growth and regional equity? A multi-scale analysis of German regions. Environment & Planning](science/Li EPA 202309.md)
