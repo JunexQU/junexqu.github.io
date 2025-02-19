@@ -53,6 +53,7 @@ title: Science & PNAS Review
 - [Feng, C., Ye, G., Zeng, J. et al. Sustainably developing global blue carbon for climate change mitigation and economic benefits through international cooperation. Nat Commun 14, 6144 (2023)](science/NatCom/Feng NatCom 202310.md)
 - [Newman, R., Noy, I. The global costs of extreme weather that are attributable to climate change. Nat Commun 14, 6103 (2023)](science/NatCom/Newman NatCom 202309.md)
 - [Ma, T., Zhang, S., Xiao, Y. et al. Costs and health benefits of the rural energy transition to carbon neutrality in China. Nat Commun 14, 6101 (2023)](science/NatCom/MaT NatCom 202309.md)
+- [Dixit, Y., El-Houjeiri, H., Monfort, JC. et al. Carbon intensity of global crude oil trading and market policy implications. Nat Commun 14, 5975 (2023)](science/NatCom/Dixit NatCom 202309.md)
 
 ## Other
 - [Li, W., Schmidt, S., & Siedentop, S. (2024). Can polycentric urban development simultaneously achieve both economic growth and regional equity? A multi-scale analysis of German regions. Environment & Planning](science/Li EPA 202309.md)
