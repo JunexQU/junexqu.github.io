@@ -10,7 +10,7 @@ title: Dixit, Y., El-Houjeiri, H., Monfort, JC. et al. Carbon intensity of globa
 - Present a global high-resolution assessment of crude oil carbon intensity (CI) based on bottom-up engineering-based methods
 
 ### **Case:**
-- China's provinces
+- Global
 
 ### **Methodology:**
 - Life cycle assessment
