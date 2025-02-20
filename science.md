@@ -55,6 +55,7 @@ title: Science & PNAS Review
 - [Ma, T., Zhang, S., Xiao, Y. et al. Costs and health benefits of the rural energy transition to carbon neutrality in China. Nat Commun 14, 6101 (2023)](science/NatCom/MaT NatCom 202309.md)
 - [Dixit, Y., El-Houjeiri, H., Monfort, JC. et al. Carbon intensity of global crude oil trading and market policy implications. Nat Commun 14, 5975 (2023)](science/NatCom/Dixit NatCom 202309.md)
 - [Fan, JL., Li, Z., Huang, X. et al. A net-zero emissions strategy for China’s power sector using carbon-capture utilization and storage. Nat Commun 14, 5972 (2023)](science/NatCom/Fan NatCom 202309.md)
+- [Gao, B., Yang, J., Chen, Z. et al. Causal inference from cross-sectional earth system data with geographical convergent cross mapping. Nat Commun 14, 5875 (2023)](science/NatCom/Gao NatCom 202309.md)
 
 ## Other
 - [Li, W., Schmidt, S., & Siedentop, S. (2024). Can polycentric urban development simultaneously achieve both economic growth and regional equity? A multi-scale analysis of German regions. Environment & Planning](science/Li EPA 202309.md)
