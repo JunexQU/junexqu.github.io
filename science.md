@@ -59,6 +59,7 @@ title: Science & PNAS Review
 - [Liu, Y., Cai, W., Lin, X. et al. Nonlinear El Niño impacts on the global economy under climate change. Nat Commun 14, 5887 (2023)](science/NatCom/Liu NatCom 202309.md)
 - [Picciano, P., Qiu, M., Eastham, S.D. et al. Air quality related equity implications of U.S. decarbonization policy. Nat Commun 14, 5543 (2023)](science/NatCom/Picciano NatCom 202309.md)
 - [Achakulwisut, P., Erickson, P., Guivarch, C. et al. Global fossil fuel reduction pathways under different climate mitigation strategies and ambitions. Nat Commun 14, 5425 (2023)](science/NatCom/Achakulwisut NatCom 202309.md)
+- [**Xu, F., Huang, Q., Yue, H. et al. The challenge of population aging for mitigating deaths from PM2.5 air pollution in China. Nat Commun 14, 5222 (2023)**](science/NatCom/XuF NatCom 202308.md)
 
 ## Other
 - [Li, W., Schmidt, S., & Siedentop, S. (2024). Can polycentric urban development simultaneously achieve both economic growth and regional equity? A multi-scale analysis of German regions. Environment & Planning](science/Li EPA 202309.md)
