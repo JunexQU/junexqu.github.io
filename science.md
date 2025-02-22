@@ -60,6 +60,7 @@ title: Science & PNAS Review
 - [Picciano, P., Qiu, M., Eastham, S.D. et al. Air quality related equity implications of U.S. decarbonization policy. Nat Commun 14, 5543 (2023)](science/NatCom/Picciano NatCom 202309.md)
 - [Achakulwisut, P., Erickson, P., Guivarch, C. et al. Global fossil fuel reduction pathways under different climate mitigation strategies and ambitions. Nat Commun 14, 5425 (2023)](science/NatCom/Achakulwisut NatCom 202309.md)
 - [**Xu, F., Huang, Q., Yue, H. et al. The challenge of population aging for mitigating deaths from PM2.5 air pollution in China. Nat Commun 14, 5222 (2023)**](science/NatCom/XuF NatCom 202308.md)
+- [**Lüthi, S., Fairless, C., Fischer, E.M. et al. Rapid increase in the risk of heat-related mortality. Nat Commun 14, 4894 (2023)**](science/NatCom/Luthi NatCom 202308.md)
 
 ## Other
 - [Li, W., Schmidt, S., & Siedentop, S. (2024). Can polycentric urban development simultaneously achieve both economic growth and regional equity? A multi-scale analysis of German regions. Environment & Planning](science/Li EPA 202309.md)
