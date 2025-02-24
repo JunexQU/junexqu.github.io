@@ -63,6 +63,7 @@ title: Science & PNAS Review
 - [**Lüthi, S., Fairless, C., Fischer, E.M. et al. Rapid increase in the risk of heat-related mortality. Nat Commun 14, 4894 (2023)**](science/NatCom/Luthi NatCom 202308.md)
 - [Gambhir, A., Mittal, S., Lamboll, R.D. et al. Adjusting 1.5 degree C climate change mitigation pathways in light of adverse new information. Nat Commun 14, 5117 (2023)](science/NatCom/Gambhir NatCom 202308.md)
 - [Bergquist, P., Warshaw, C. How climate policy commitments influence energy systems and the economies of US states. Nat Commun 14, 4850 (2023)](science/NatCom/Bergquist NatCom 202308.md)
+- [Rentschler, J., Leonova, N. Global air pollution exposure and poverty. Nat Commun 14, 4432 (2023)](science/NatCom/Rentschler NatCom 202307.md)
 
 ## Other
 - [Li, W., Schmidt, S., & Siedentop, S. (2024). Can polycentric urban development simultaneously achieve both economic growth and regional equity? A multi-scale analysis of German regions. Environment & Planning](science/Li EPA 202309.md)
