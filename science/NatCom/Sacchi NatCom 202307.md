@@ -4,7 +4,7 @@ permalink: /blogs/Sacchi, R., Becattini, V., Gabrielli, P. et al. How to make cl
 title: Sacchi, R., Becattini, V., Gabrielli, P. et al. How to make climate-neutral aviation fly. Nat Commun
 ---
 
-## [title: Sacchi, R., Becattini, V., Gabrielli, P. et al. How to make climate-neutral aviation fly. Nat Commun](https://doi.org/10.1038/s41467-023-39749-y)
+## [Sacchi, R., Becattini, V., Gabrielli, P. et al. How to make climate-neutral aviation fly. Nat Commun](https://doi.org/10.1038/s41467-023-39749-y)
 
 ### **Objective:**
 - Assess the climate impact of a fossil-based European aviation fleet over the 2018-2100 period under different socio-economic pathways and demand evolution scenarios
