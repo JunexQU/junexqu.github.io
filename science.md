@@ -68,6 +68,7 @@ title: Science & PNAS Review
 - [Sacchi, R., Becattini, V., Gabrielli, P. et al. How to make climate-neutral aviation fly. Nat Commun 14, 3989 (2023)](science/NatCom/Sacchi NatCom 202307.md)
 - [**Herfort, B., Lautenbach, S., Porto de Albuquerque, J. et al. A spatio-temporal analysis investigating completeness and inequalities of global urban building data in OpenStreetMap. Nat Commun 14, 3985 (2023)**](science/NatCom/Herfort NatCom 202307.md)
 - [Haberl, H., Löw, M., Perez-Laborda, A. et al. Built structures influence patterns of energy demand and CO2 emissions across countries. Nat Commun 14, 3898 (2023)](science/NatCom/Haberl NatCom 202307.md)
+- [Meng, J., Huo, J., Zhang, Z. et al. The narrowing gap in developed and developing country emission intensities reduces global trade’s carbon leakage. Nat Commun 14, 3775 (2023)](science/NatCom/Meng NatCom 202306.md)
 
 ## Other
 - [Li, W., Schmidt, S., & Siedentop, S. (2024). Can polycentric urban development simultaneously achieve both economic growth and regional equity? A multi-scale analysis of German regions. Environment & Planning](science/Li EPA 202309.md)
