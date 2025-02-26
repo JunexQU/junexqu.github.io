@@ -67,6 +67,7 @@ title: Science & PNAS Review
 - [Yarveysi, F., Alipour, A., Moftakhari, H. et al. Block-level vulnerability assessment reveals disproportionate impacts of natural hazards across the conterminous United States. Nat Commun 14, 4222 (2023)](science/NatCom/Yarveysi NatCom 202307.md)
 - [Sacchi, R., Becattini, V., Gabrielli, P. et al. How to make climate-neutral aviation fly. Nat Commun 14, 3989 (2023)](science/NatCom/Sacchi NatCom 202307.md)
 - [**Herfort, B., Lautenbach, S., Porto de Albuquerque, J. et al. A spatio-temporal analysis investigating completeness and inequalities of global urban building data in OpenStreetMap. Nat Commun 14, 3985 (2023)**](science/NatCom/Herfort NatCom 202307.md)
+- [Haberl, H., Löw, M., Perez-Laborda, A. et al. Built structures influence patterns of energy demand and CO2 emissions across countries. Nat Commun 14, 3898 (2023)](science/NatCom/Haberl NatCom 202307.md)
 
 ## Other
 - [Li, W., Schmidt, S., & Siedentop, S. (2024). Can polycentric urban development simultaneously achieve both economic growth and regional equity? A multi-scale analysis of German regions. Environment & Planning](science/Li EPA 202309.md)
