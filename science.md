@@ -70,6 +70,7 @@ title: Science & PNAS Review
 - [Haberl, H., Löw, M., Perez-Laborda, A. et al. Built structures influence patterns of energy demand and CO2 emissions across countries. Nat Commun 14, 3898 (2023)](science/NatCom/Haberl NatCom 202307.md)
 - [Meng, J., Huo, J., Zhang, Z. et al. The narrowing gap in developed and developing country emission intensities reduces global trade’s carbon leakage. Nat Commun 14, 3775 (2023)](science/NatCom/Meng NatCom 202306.md)
 - [Fu, R., Peng, K., Wang, P. et al. Tracing metal footprints via global renewable power value chains. Nat Commun 14, 3703 (2023)](science/NatCom/FuR NatCom 202306.md)
+- [Aleluia Reis, L., Vrontisi, Z., Verdolini, E. et al. A research and development investment strategy to achieve the Paris climate agreement. Nat Commun 14, 3581 (2023)](science/NatCom/Aleluia NatCom 202306.md)
 
 ## Other
 - [Li, W., Schmidt, S., & Siedentop, S. (2024). Can polycentric urban development simultaneously achieve both economic growth and regional equity? A multi-scale analysis of German regions. Environment & Planning](science/Li EPA 202309.md)
