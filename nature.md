@@ -85,6 +85,7 @@ title: Nature Review
 - [Xu, F., Li, Y., Jin, D. et al. Emergence of urban growth patterns from human mobility behavior. Nat Comput Sci 1, 791–800 (2021)](blogs/NatCS/Xu NatCS 202109.md)
 
 ### Nature Climate Change
+- [Liu, Y., Du, M., Yang, L. et al. Mitigation policies interactions delay the achievement of carbon neutrality in China. Nat. Clim. Chang. 15, 147–152 (2025)](blogs/NatNCC/Liu NatNCC 202501.md)
 - [Emmerling, J., Andreoni, P., Charalampidis, I. et al. A multi-model assessment of inequality and climate change. Nat. Clim. Chang. 14, 1254–1260 (2024)](blogs/Clc/Emmerling NatNCC 202410.md)
 - [Tang, L., Yang, J., Zheng, J. et al. Assessing the impacts of fertility and retirement policies on China’s carbon emissions. Nat. Clim. Chang. 14, 1261–1267 (2024)](blogs/Clc/Tang NatNCC 202410.md)
 - [**Hoffmann, R., Abel, G., Malpede, M. et al. Drought and aridity influence internal migration worldwide. Nat. Clim. Chang. 14, 1245–1253 (2024)**](blogs/Clc/Hoffmann NatNCC 202410.md)
