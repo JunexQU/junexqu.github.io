@@ -74,6 +74,7 @@ title: Science & PNAS Review
 - [Harmsen, M., Tabak, C., Höglund-Isaksson, L. et al. Uncertainty in non-CO2 greenhouse gas mitigation contributes to ambiguity in global climate policy feasibility. Nat Commun 14, 2949 (2023)](science/NatCom/Harmsen NatCom 202306.md)
 - [**Peng, K., Feng, K., Chen, B. et al. The global power sector’s low-carbon transition may enhance sustainable development goal achievement. Nat Commun 14, 3144 (2023)**](science/NatCom/Peng NatCom 202305.md)
 - [Massaro, E., Schifanella, R., Piccardo, M. et al. Spatially-optimized urban greening for reduction of population exposure to land surface temperature extremes. Nat Commun 14, 2903 (2023)](science/NatCom/Massaro NatCom 202305.md)
+- [Zhang, Z., Li, J. & Guan, D. Value chain carbon footprints of Chinese listed companies. Nat Commun 14, 2794 (2023)](science/NatCom/Zhang NatCom 202305.md)
 
 ## Other
 - [Li, W., Schmidt, S., & Siedentop, S. (2024). Can polycentric urban development simultaneously achieve both economic growth and regional equity? A multi-scale analysis of German regions. Environment & Planning](science/Li EPA 202309.md)
