@@ -76,6 +76,7 @@ title: Science & PNAS Review
 - [Massaro, E., Schifanella, R., Piccardo, M. et al. Spatially-optimized urban greening for reduction of population exposure to land surface temperature extremes. Nat Commun 14, 2903 (2023)](science/NatCom/Massaro NatCom 202305.md)
 - [Zhang, Z., Li, J. & Guan, D. Value chain carbon footprints of Chinese listed companies. Nat Commun 14, 2794 (2023)](science/NatCom/Zhang NatCom 202305.md)
 - [**Ye, Q., Krol, M.S., Shan, Y. et al. Allocating capital-associated CO2 emissions along the full lifespan of capital investments helps diffuse emission responsibility. Nat Commun 14, 2727 (2023)**](science/NatCom/YeQ NatCom 202305.md)
+- [Reimann, L., Jones, B., Bieker, N. et al. Exploring spatial feedbacks between adaptation policies and internal migration patterns due to sea-level rise. Nat Commun 14, 2630 (2023)](science/NatCom/Reimann NatCom 202305.md)
 
 ## Other
 - [Li, W., Schmidt, S., & Siedentop, S. (2024). Can polycentric urban development simultaneously achieve both economic growth and regional equity? A multi-scale analysis of German regions. Environment & Planning](science/Li EPA 202309.md)
