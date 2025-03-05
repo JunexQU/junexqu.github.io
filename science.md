@@ -77,6 +77,7 @@ title: Science & PNAS Review
 - [Zhang, Z., Li, J. & Guan, D. Value chain carbon footprints of Chinese listed companies. Nat Commun 14, 2794 (2023)](science/NatCom/Zhang NatCom 202305.md)
 - [**Ye, Q., Krol, M.S., Shan, Y. et al. Allocating capital-associated CO2 emissions along the full lifespan of capital investments helps diffuse emission responsibility. Nat Commun 14, 2727 (2023)**](science/NatCom/YeQ NatCom 202305.md)
 - [Reimann, L., Jones, B., Bieker, N. et al. Exploring spatial feedbacks between adaptation policies and internal migration patterns due to sea-level rise. Nat Commun 14, 2630 (2023)](science/NatCom/Reimann NatCom 202305.md)
+- [Liu, K., Wang, Q., Wang, M. et al. Global transportation infrastructure exposure to the change of precipitation in a warmer world. Nat Commun 14, 2541 (2023)](science/NatCom/LiuK NatCom 202305.md)
 
 ## Other
 - [Li, W., Schmidt, S., & Siedentop, S. (2024). Can polycentric urban development simultaneously achieve both economic growth and regional equity? A multi-scale analysis of German regions. Environment & Planning](science/Li EPA 202309.md)
