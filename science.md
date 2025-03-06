@@ -80,6 +80,7 @@ title: Science & PNAS Review
 - [Liu, K., Wang, Q., Wang, M. et al. Global transportation infrastructure exposure to the change of precipitation in a warmer world. Nat Commun 14, 2541 (2023)](science/NatCom/LiuK NatCom 202305.md)
 - [Winkler, L., Pearce, D., Nelson, J. et al. The effect of sustainable mobility transition policies on cumulative urban transport emissions and energy demand. Nat Commun](science/NatCom/Winkler NatCom 202304.md)
 - [Sasse, JP., Trutnevyte, E. A low-carbon electricity sector in Europe risks sustaining regional inequalities in benefits and vulnerabilities. Nat Commun 14, 2205 (2023)](science/NatCom/Sasse NatCom 202304.md)
+- [Zhang, C., Zhao, X., Sacchi, R. et al. Trade-off between critical metal requirement and transportation decarbonization in automotive electrification. Nat Commun 14, 1616 (2023)](science/NatCom/ZhangC NatCom 202304.md)
 
 ## Other
 - [Li, W., Schmidt, S., & Siedentop, S. (2024). Can polycentric urban development simultaneously achieve both economic growth and regional equity? A multi-scale analysis of German regions. Environment & Planning](science/Li EPA 202309.md)
