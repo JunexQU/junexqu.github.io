@@ -83,6 +83,7 @@ title: Science & PNAS Review
 - [Zhang, C., Zhao, X., Sacchi, R. et al. Trade-off between critical metal requirement and transportation decarbonization in automotive electrification. Nat Commun 14, 1616 (2023)](science/NatCom/ZhangC NatCom 202304.md)
 - [Ang, Y.Q., Berzolla, Z.M., Letellier-Duchesne, S. et al. Carbon reduction technology pathways for existing buildings in eight cities. Nat Commun 14, 1689 (2023)](science/NatCom/Ang NatCom 202304.md)
 - [Miyazaki, K., Bowman, K. Predictability of fossil fuel CO2 from air quality emissions. Nat Commun 14, 1604 (2023)](science/NatCom/Miyazaki NatCom 202303.md)
+- [Brottrager, M., Crespo Cuaresma, J., Kniveton, D. et al. Natural resources modulate the nexus between environmental shocks and human mobility. Nat Commun 14, 1393 (2023)](science/NatCom/Brottrager NatCom 202303.md)
 
 ## Other
 - [Li, W., Schmidt, S., & Siedentop, S. (2024). Can polycentric urban development simultaneously achieve both economic growth and regional equity? A multi-scale analysis of German regions. Environment & Planning](science/Li EPA 202309.md)
