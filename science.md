@@ -33,7 +33,10 @@ title: Science & PNAS Review
 - [**Mori, Tomoya, Tony E. Smith, and Wen-Tai Hsu. Common power laws for cities and spatial fractal structures. Proceedings of the National Academy of Sciences 117.12 (2020)**](science/Mori PNAS2020.md)
 - [**Barrington-Leigh, Christopher, and Adam Millard-Ball. Global trends toward urban street-network sprawl. Proceedings of the National Academy of Sciences 117.4 (2020)**](science/Barrington PNAS2020.md)
 
-## Nature Communication
+## Nature Communication 2024
+- [Sun, YY., Faturay, F., Lenzen, M. et al. Drivers of global tourism carbon emissions. Nat Commun 15, 10384 (2024)](science/NatCom/SunY NatCom 202412.md)
+
+## Nature Communication 2023
 - [Yu, B., Zhao, Z., Wei, YM. et al. Approaching national climate targets in China considering the challenge of regional inequality. Nat Commun 14, 8342 (2023)](science/NatCom/Yu NatCom 202312.md)
 - [Yang, H., Deshmukh, R. & Suh, S. Global transcontinental power pools for low-carbon electricity. Nat Commun 14, 8350 (2023)](science/NatCom/Yang NatCom 202312.md)
 - [Yu, Q., He, B.Y., Ma, J. et al. California’s zero-emission vehicle adoption brings air quality benefits yet equity gaps persist. Nat Commun 14, 7798 (2023)](science/NatCom/YuQ NatCom 202312.md)
