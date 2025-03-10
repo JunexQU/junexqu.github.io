@@ -36,6 +36,7 @@ title: Science & PNAS Review
 ## Nature Communication 2024
 - [Sun, YY., Faturay, F., Lenzen, M. et al. Drivers of global tourism carbon emissions. Nat Commun 15, 10384 (2024)](science/NatCom/SunY NatCom 202412.md)
 - [Giannico, O.V., Sardone, R., Bisceglia, L. et al. The mortality impacts of greening Italy. Nat Commun 15, 10452 (2024)](science/NatCom/Giannico NatCom 202412.md)
+- [Chen, M., Gao, L., Guo, Z. et al. A cost-effective climate mitigation pathway for China with co-benefits for sustainability. Nat Commun 15, 9489 (2024)](science/NatCom/ChenM NatCom 202311.md)
 
 ## Nature Communication 2023
 - [Yu, B., Zhao, Z., Wei, YM. et al. Approaching national climate targets in China considering the challenge of regional inequality. Nat Commun 14, 8342 (2023)](science/NatCom/Yu NatCom 202312.md)
