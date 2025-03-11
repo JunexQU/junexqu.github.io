@@ -39,6 +39,7 @@ title: Science & PNAS Review
 - [Chen, M., Gao, L., Guo, Z. et al. A cost-effective climate mitigation pathway for China with co-benefits for sustainability. Nat Commun 15, 9489 (2024)](science/NatCom/ChenM NatCom 202311.md)
 - [Strefler, J., Merfort, L., Bauer, N. et al. Technology availability, sector policies and behavioral change are complementary strategies for achieving net-zero emissions. Nat Commun 15, 8440 (2024)](science/NatCom/Strefler NatCom 202409.md)
 - [Han, S., Li, C., Li, M. et al. Prospects for global sustainable development through integrating the environmental impacts of economic activities. Nat Commun 15, 8424 (2024)](science/NatCom/HanS NatCom 202409.md)
+- [Li, Y., Svenning, JC., Zhou, W. et al. Green spaces provide substantial but unequal urban cooling globally. Nat Commun](science/NatCom/LiY NatCom 202409.md)
 
 ## Nature Communication 2023
 - [Yu, B., Zhao, Z., Wei, YM. et al. Approaching national climate targets in China considering the challenge of regional inequality. Nat Commun 14, 8342 (2023)](science/NatCom/Yu NatCom 202312.md)
