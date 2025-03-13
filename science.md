@@ -42,6 +42,7 @@ title: Science & PNAS Review
 - [Li, Y., Svenning, JC., Zhou, W. et al. Green spaces provide substantial but unequal urban cooling globally. Nat Commun](science/NatCom/LiY NatCom 202409.md)
 - [Öhlinger, P., Irlacher, M. & Güntner, J. Not all oil types are alike in trade substitution. Nat Commun 15, 7476 (2024)](science/NatCom/Ohlinger NatCom 202408.md)
 - [Zhang, Y., Jackson, C. & Krevor, S. The feasibility of reaching gigatonne scale CO2 storage by mid-century. Nat Commun 15, 6913 (2024)](science/NatCom/ZhangY NatCom 202408.md)
+- [Liu, K., Raisolsadat, A., Wang, X. et al. Quantitative assessment of The Group of Seven’s collaboration in sustainable development goals. Nat Commun 15, 7274 (2024)](science/NatCom/LiuK NatCom 202408.md)
 
 ## Nature Communication 2023
 - [Yu, B., Zhao, Z., Wei, YM. et al. Approaching national climate targets in China considering the challenge of regional inequality. Nat Commun 14, 8342 (2023)](science/NatCom/Yu NatCom 202312.md)
