@@ -43,6 +43,8 @@ title: Science & PNAS Review
 - [Öhlinger, P., Irlacher, M. & Güntner, J. Not all oil types are alike in trade substitution. Nat Commun 15, 7476 (2024)](science/NatCom/Ohlinger NatCom 202408.md)
 - [Zhang, Y., Jackson, C. & Krevor, S. The feasibility of reaching gigatonne scale CO2 storage by mid-century. Nat Commun 15, 6913 (2024)](science/NatCom/ZhangY NatCom 202408.md)
 - [Liu, K., Raisolsadat, A., Wang, X. et al. Quantitative assessment of The Group of Seven’s collaboration in sustainable development goals. Nat Commun 15, 7274 (2024)](science/NatCom/LiuK NatCom 202408.md)
+- [Morris, J., Gurgel, A., Mignone, B.K. et al. Mutual reinforcement of land-based carbon dioxide removal and international emissions trading in deep decarbonization scenarios. Nat Commun 15, 7160 (2024)](science/NatCom/Morris NatCom 202408.md)
+
 
 ## Nature Communication 2023
 - [Yu, B., Zhao, Z., Wei, YM. et al. Approaching national climate targets in China considering the challenge of regional inequality. Nat Commun 14, 8342 (2023)](science/NatCom/Yu NatCom 202312.md)
