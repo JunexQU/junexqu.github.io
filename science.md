@@ -45,7 +45,7 @@ title: Science & PNAS Review
 - [Liu, K., Raisolsadat, A., Wang, X. et al. Quantitative assessment of The Group of Seven’s collaboration in sustainable development goals. Nat Commun 15, 7274 (2024)](science/NatCom/LiuK NatCom 202408.md)
 - [Morris, J., Gurgel, A., Mignone, B.K. et al. Mutual reinforcement of land-based carbon dioxide removal and international emissions trading in deep decarbonization scenarios. Nat Commun 15, 7160 (2024)](science/NatCom/Morris NatCom 202408.md)
 - [Hickel, J., Hanbury Lemos, M. & Barbour, F. Unequal exchange of labour in the world economy. Nat Commun 15, 6298 (2024)](science/NatCom/Hickel NatCom 202407.md)
-
+- [Kerr, G.H., Meyer, M., Goldberg, D.L. et al. Air pollution impacts from warehousing in the United States uncovered with satellite data. Nat Commun 15, 6006 (2024)](science/NatCom/Kerr NatCom 202407.md)
 
 ## Nature Communication 2023
 - [Yu, B., Zhao, Z., Wei, YM. et al. Approaching national climate targets in China considering the challenge of regional inequality. Nat Commun 14, 8342 (2023)](science/NatCom/Yu NatCom 202312.md)
