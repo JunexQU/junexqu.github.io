@@ -9,7 +9,7 @@ title: Publications
 - **Junxi Qu & Tianren Yang**. Working population by workplace and residence geography in China. Drafted.
 - **Junxi Qu, Tianren Yang, and Yang Zhou**. Multimodal transport network and urban population growth: A comprehensive evaluation in China. *Under review in TRA*.
 - **Junxi Qu, Dan Lv, Jing Cao and Zitong Ren**. Insights from 40 Years of Global Population Growth and Urban Dynamics: The Roles of Borrowing Size and Agglomeration Shadow. Drafted.
-- **Junxi Qu & Si Qiao**. How Urban Vitality Shapes Cycling Behaviour in the Age of Dock-less Shared Bikes. *Submitted to the Journal of Landscape and Urban Planning*.
+- **Junxi Qu & Si Qiao**. How Urban Vitality Shapes Cycling Behaviour in the Age of Dock-less Shared Bikes. *Under Review in Cities*.
 
 ## In Progress
 
