@@ -47,6 +47,7 @@ title: Science & PNAS Review
 - [Hickel, J., Hanbury Lemos, M. & Barbour, F. Unequal exchange of labour in the world economy. Nat Commun 15, 6298 (2024)](science/NatCom/Hickel NatCom 202407.md)
 - [Kerr, G.H., Meyer, M., Goldberg, D.L. et al. Air pollution impacts from warehousing in the United States uncovered with satellite data. Nat Commun 15, 6006 (2024)](science/NatCom/Kerr NatCom 202407.md)
 - [Boakes, E.H., Dalin, C., Etard, A. et al. Impacts of the global food system on terrestrial biodiversity from land use and climate change. Nat Commun 15, 5750 (2024)](science/NatCom/Boakes NatCom 202407.md)
+- [Li, K., Gao, L., Guo, Z. et al. Safeguarding China’s long-term sustainability against systemic disruptors. Nat Commun 15, 5338 (2024)](science/NatCom/LiK NatCom 202406.md)
 
 ## Nature Communication 2023
 - [Yu, B., Zhao, Z., Wei, YM. et al. Approaching national climate targets in China considering the challenge of regional inequality. Nat Commun 14, 8342 (2023)](science/NatCom/Yu NatCom 202312.md)
