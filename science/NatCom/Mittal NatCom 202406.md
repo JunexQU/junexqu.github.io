@@ -24,7 +24,6 @@ title: Mittal, K.M., Timme, M. & Schröder, M. Efficient self-organization of in
 <img src="/science/review.assets/NatCom/Mittal NatCom 20240601.png">
 </center>
 
-- A mixed accessibility gap between low-moderate income and non-LMI households
 <center>
 <img src="/science/review.assets/NatCom/Mittal NatCom 20240602.png">
 </center>
