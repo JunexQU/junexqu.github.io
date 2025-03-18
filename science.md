@@ -52,6 +52,7 @@ title: Science & PNAS Review
 - [**Lou, J., Shen, X., Niemeier, D.A. et al. Income and racial disparity in household publicly available electric vehicle infrastructure accessibility. Nat Commun 15, 5106 (2024)**](science/NatCom/LouJ NatCom 202406.md)
 - [Mittal, K.M., Timme, M. & Schröder, M. Efficient self-organization of informal public transport networks. Nat Commun 15, 4910 (2024)](science/NatCom/Mittal NatCom 202406.md)
 - [Hogan, D., Schlenker, W. Non-linear relationships between daily temperature extremes and US agricultural yields uncovered by global gridded meteorological datasets. Nat Commun 15, 4638 (2024)](science/NatCom/Hogan NatCom 202405.md)
+- [Zhao, P., Wang, H., Liu, Q. et al. Unravelling the spatial directionality of urban mobility. Nat Commun 15, 4507 (2024)](science/NatCom/ZhaoP NatCom 202405.md)
 
 ## Nature Communication 2023
 - [Yu, B., Zhao, Z., Wei, YM. et al. Approaching national climate targets in China considering the challenge of regional inequality. Nat Commun 14, 8342 (2023)](science/NatCom/Yu NatCom 202312.md)
