@@ -55,6 +55,7 @@ title: Science & PNAS Review
 - [**Zhao, P., Wang, H., Liu, Q. et al. Unravelling the spatial directionality of urban mobility. Nat Commun 15, 4507 (2024)**](science/NatCom/ZhaoP NatCom 202405.md)
 - [Speizer, S., Fuhrman, J., Aldrete Lopez, L. et al. Integrated assessment modeling of a zero-emissions global transportation sector. Nat Commun 15, 4439 (2024)](science/NatCom/Speizer NatCom 202405.md)
 - [Yang, L., Yang, Y., Shen, Y. et al. Urban development pattern’s influence on extreme rainfall occurrences. Nat Commun 15, 3997 (2024)](science/NatCom/YangL NatCom 202405.md)
+- [Chakraborty, A., Reisch, T., Diem, C. et al. Inequality in economic shock exposures across the global firm-level supply network. Nat Commun 15, 3348 (2024)](science/NatCom/Chakraborty NatCom 202404.md)
 
 ## Nature Communication 2023
 - [Yu, B., Zhao, Z., Wei, YM. et al. Approaching national climate targets in China considering the challenge of regional inequality. Nat Commun 14, 8342 (2023)](science/NatCom/Yu NatCom 202312.md)
