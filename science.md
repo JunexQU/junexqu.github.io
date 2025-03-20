@@ -57,6 +57,7 @@ title: Science & PNAS Review
 - [Yang, L., Yang, Y., Shen, Y. et al. Urban development pattern’s influence on extreme rainfall occurrences. Nat Commun 15, 3997 (2024)](science/NatCom/YangL NatCom 202405.md)
 - [Chakraborty, A., Reisch, T., Diem, C. et al. Inequality in economic shock exposures across the global firm-level supply network. Nat Commun 15, 3348 (2024)](science/NatCom/Chakraborty NatCom 202404.md)
 - [Yue, H., He, C., Huang, Q. et al. Substantially reducing global PM2.5-related deaths under SDG3.9 requires better air pollution control and healthcare. Nat Commun 15, 2729 (2024)](science/NatCom/YueH NatCom 202403.md)
+- [Zhao, X., Mignone, B.K., Wise, M.A. et al. Trade-offs in land-based carbon removal measures under 1.5 °C and 2 °C futures. Nat Commun 15, 2297 (2024)](science/NatCom/ZhaoX NatCom 202403.md)
 
 ## Nature Communication 2023
 - [Yu, B., Zhao, Z., Wei, YM. et al. Approaching national climate targets in China considering the challenge of regional inequality. Nat Commun 14, 8342 (2023)](science/NatCom/Yu NatCom 202312.md)
