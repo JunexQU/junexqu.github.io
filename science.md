@@ -59,6 +59,8 @@ title: Science & PNAS Review
 - [Yue, H., He, C., Huang, Q. et al. Substantially reducing global PM2.5-related deaths under SDG3.9 requires better air pollution control and healthcare. Nat Commun 15, 2729 (2024)](science/NatCom/YueH NatCom 202403.md)
 - [Zhao, X., Mignone, B.K., Wise, M.A. et al. Trade-offs in land-based carbon removal measures under 1.5 °C and 2 °C futures. Nat Commun 15, 2297 (2024)](science/NatCom/ZhaoX NatCom 202403.md)
 - [Xing, Q., Wu, C., Chen, F. et al. Intranational synergies and trade-offs reveal common and differentiated priorities of sustainable development goals in China. Nat Commun 15, 2251 (2024)](science/NatCom/XingQ NatCom 202403.md)
+- [Chen, K., de Schrijver, E., Sivaraj, S. et al. Impact of population aging on future temperature-related mortality at different global warming levels. Nat Commun 15, 1796 (2024)](science/NatCom/ChenK NatCom 202402.md)
+
 
 ## Nature Communication 2023
 - [Yu, B., Zhao, Z., Wei, YM. et al. Approaching national climate targets in China considering the challenge of regional inequality. Nat Commun 14, 8342 (2023)](science/NatCom/Yu NatCom 202312.md)
