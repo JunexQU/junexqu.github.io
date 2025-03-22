@@ -60,6 +60,7 @@ title: Science & PNAS Review
 - [Zhao, X., Mignone, B.K., Wise, M.A. et al. Trade-offs in land-based carbon removal measures under 1.5 °C and 2 °C futures. Nat Commun 15, 2297 (2024)](science/NatCom/ZhaoX NatCom 202403.md)
 - [Xing, Q., Wu, C., Chen, F. et al. Intranational synergies and trade-offs reveal common and differentiated priorities of sustainable development goals in China. Nat Commun 15, 2251 (2024)](science/NatCom/XingQ NatCom 202403.md)
 - [Chen, K., de Schrijver, E., Sivaraj, S. et al. Impact of population aging on future temperature-related mortality at different global warming levels. Nat Commun 15, 1796 (2024)](science/NatCom/ChenK NatCom 202402.md)
+- [Allen, C., Biddulph, A., Wiedmann, T. et al. Modelling six sustainable development transformations in Australia and their accelerators, impediments, enablers, and interlinkages. Nat Commun 15, 594 (2024)](science/NatCom/Allen NatCom 202401.md)
 
 
 ## Nature Communication 2023
