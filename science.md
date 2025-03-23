@@ -34,7 +34,8 @@ title: Science & PNAS Review
 - [**Barrington-Leigh, Christopher, and Adam Millard-Ball. Global trends toward urban street-network sprawl. Proceedings of the National Academy of Sciences 117.4 (2020)**](science/Barrington PNAS2020.md)
 
 ## Nature Communication 2025
-- [Pandey, B., Brelsford, C. & Seto, K.C. Rising infrastructure inequalities accompany urbanization and economic development. Nat Commun 16, 1193 (2025)](science/NatCom/Pandey NatCom 202501.md)
+- [Ma, F., Wang, H., Tzachor, A. et al. The disparities and development trajectories of nations in achieving the sustainable development goals. Nat Commun 16, 1107 (2025)](science/NatCom/Pandey NatCom 202501.md)
+- [Pandey, B., Brelsford, C. & Seto, K.C. Rising infrastructure inequalities accompany urbanization and economic development. Nat Commun 16, 1193 (2025)](science/NatCom/MaF NatCom 202501.md)
 
 ## Nature Communication 2024
 - [Sun, YY., Faturay, F., Lenzen, M. et al. Drivers of global tourism carbon emissions. Nat Commun 15, 10384 (2024)](science/NatCom/SunY NatCom 202412.md)
