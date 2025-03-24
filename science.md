@@ -34,6 +34,7 @@ title: Science & PNAS Review
 - [**Barrington-Leigh, Christopher, and Adam Millard-Ball. Global trends toward urban street-network sprawl. Proceedings of the National Academy of Sciences 117.4 (2020)**](science/Barrington PNAS2020.md)
 
 ## Nature Communication 2025
+- [**Li, M., Meng, B., Geng, Y. et al. Inequitable distribution of risks associated with occupational heat exposure driven by trade. Nat Commun 16, 537 (2025)**](science/NatCom/LiM NatCom 202501.md)
 - [Brazzola, N., Meskaldji, A., Patt, A. et al. The role of direct air capture in achieving climate-neutral aviation. Nat Commun 16, 588 (2025)](science/NatCom/Brazzola NatCom 202501.md)
 - [Ma, F., Wang, H., Tzachor, A. et al. The disparities and development trajectories of nations in achieving the sustainable development goals. Nat Commun 16, 1107 (2025)](science/NatCom/Pandey NatCom 202501.md)
 - [Pandey, B., Brelsford, C. & Seto, K.C. Rising infrastructure inequalities accompany urbanization and economic development. Nat Commun 16, 1193 (2025)](science/NatCom/MaF NatCom 202501.md)
