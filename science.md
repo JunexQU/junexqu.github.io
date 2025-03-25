@@ -34,6 +34,7 @@ title: Science & PNAS Review
 - [**Barrington-Leigh, Christopher, and Adam Millard-Ball. Global trends toward urban street-network sprawl. Proceedings of the National Academy of Sciences 117.4 (2020)**](science/Barrington PNAS2020.md)
 
 ## Nature Communication 2025
+- [Mengesha, I., Roy, D. Carbon pricing drives critical transition to green growth. Nat Commun 16, 1321 (2025)](science/NatCom/Mengesha NatCom 202502.md)
 - [**Cabanas-Tirapu, O., Danús, L., Moro, E. et al. Human mobility is well described by closed-form gravity-like models learned automatically from data. Nat Commun 16, 1336 (2025)**](science/NatCom/Cabanas NatCom 202502.md)
 - [**van der Zwaan, B., Fattahi, A., Dalla Longa, F. et al. Electricity- and hydrogen-driven energy system sector-coupling in net-zero CO2 emission pathways. Nat Commun 16, 1368 (2025)**](science/NatCom/vanderZwaan NatCom 202502.md)
 - [**Li, M., Meng, B., Geng, Y. et al. Inequitable distribution of risks associated with occupational heat exposure driven by trade. Nat Commun 16, 537 (2025)**](science/NatCom/LiM NatCom 202501.md)
