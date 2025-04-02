@@ -106,6 +106,7 @@ title: Nature Review
 - [Milovanoff, A., Posen, I.D. & MacLean, H.L. Electrification of light-duty vehicle fleet alone will not meet mitigation targets. Nat. Clim. Chang. 10, 1102–1107 (2020)](blogs/Milovanoff 2020.md)
 
 ### Nature Cities
+- [Zhao, P., Li, J. & Zhang, M. Unequal roles of cities in the intercity healthcare system. Nat Cities 2, 198–209 (2025)](blogs/NatCit/Zhao NatCities 202502.md)
 - [Wu, Y., Zhong, L. Decarbonizing urban residential communities with green hydrogen systems. Nat Cities 2, 81–92 (2025)](blogs/NatCit/Wu NatCities 202501.md)
 - [Shi, L., Leichtle, T., Huang, X. et al. The decreasing housing utilization efficiency in China’s cities. Nat Cities 2, 70–80 (2025)](blogs/NatCit/Shi NatCities 202501.md)
 - [Meehan, K., Jurjevich, J.R., Everitt, L. et al. Urban inequality, the housing crisis and deteriorating water access in US cities. Nat Cities 2, 93–103 (2025)](blogs/NatCit/Meehan NatCities 202412.md)
