@@ -107,6 +107,7 @@ title: Nature Review
 
 ### Nature Cities
 - [Zhao, P., Li, J. & Zhang, M. Unequal roles of cities in the intercity healthcare system. Nat Cities 2, 198–209 (2025)](blogs/NatCit/Zhao NatCities 202502.md)
+- [Ríos-Ocampo, J.P., Gary, M.S. Urban growth strategy in Greater Sydney leads to unintended social and environmental challenges. Nat Cities 2, 223–233 (2025)](blogs/NatCit/Rios NatCities 202501.md)
 - [Wu, Y., Zhong, L. Decarbonizing urban residential communities with green hydrogen systems. Nat Cities 2, 81–92 (2025)](blogs/NatCit/Wu NatCities 202501.md)
 - [Shi, L., Leichtle, T., Huang, X. et al. The decreasing housing utilization efficiency in China’s cities. Nat Cities 2, 70–80 (2025)](blogs/NatCit/Shi NatCities 202501.md)
 - [Meehan, K., Jurjevich, J.R., Everitt, L. et al. Urban inequality, the housing crisis and deteriorating water access in US cities. Nat Cities 2, 93–103 (2025)](blogs/NatCit/Meehan NatCities 202412.md)
