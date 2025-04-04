@@ -21,6 +21,7 @@ title: Nature Review
 - [**Weiss, D., Nelson, A., Gibson, H. et al. A global map of travel time to cities to assess inequalities in accessibility in 2015. Nature 553, 333–336 (2018)**](blogs/Weiss2018.md)
 
 ### Nature Energy
+- [van Heerden, R., Edelenbosch, O.Y., Daioglou, V. et al. Demand-side strategies enable rapid and deep cuts in buildings and transport emissions to 2050. Nat Energy 10, 380–394 (2025)](blogs/NatEne/vanHeerden NatEne 202502.md)
 - [Zhao, P., Zhang, S., Santi, P. et al. Challenges and opportunities in truck electrification revealed by big operational data. Nat Energy 9, 1427–1437 (2024)](blogs/Zhao NatEnergy 202408.md)
 - [**Bushnell, J.B., Hughes, J.E. The role of modal substitution in rebound effects within US freight transportation. Nat Energy 9, 1153–1160 (2024)**](blogs/Bushnell NE202407.md)
 - [Wadud, Z., Adeel, M. & Anable, J. Understanding the large role of long-distance travel in carbon emissions from passenger travel. Nat Energy 9, 1129–1138 (2024)](blogs/Wadud Nat Energy 202407.md)
