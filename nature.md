@@ -38,6 +38,7 @@ title: Nature Review
 - [Jenn, A. Emissions benefits of electric vehicles in Uber and Lyft ride-hailing services. Nat Energy 5, 520–525 (2020)](blogs/Jenn NE2020.md)
 
 ### Nature Sustainability
+- [McNeil, W.H., Porzio, J., Tong, F. et al. Impact of truck electrification on air pollution disparities in the United States. Nat Sustain 8, 276–286 (2025)](blogs/NatNS/McNeil NatNS 202502.md)
 - [Xu, X., Huang, L., Yao, L. et al. Rising socio-economic costs of PM2.5 pollution and medical service mismatching. Nat Sustain 8, 265–275 (2025)](blogs/NatNS/XuX NatNS 202502.md)
 - [Chang, C.H., Erbaugh, J.T., Fajardo, P. et al. Global evidence of human well-being and biodiversity impacts of natural climate solutions. Nat Sustain 8, 75–85 (2025)](blogs/NatNS/Chang NatSus 202412.md)
 - [Kılkış, Ş., Bjørn, A., Bai, X. et al. City–company collaboration towards aligned science-based target setting. Nat Sustain 8, 54–65 (2025)](blogs/NatNS/Kilkis NatSus 202412.md)
