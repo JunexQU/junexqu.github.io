@@ -51,5 +51,9 @@ title: Morris, J., Sokolov, A., Reilly, J. et al. Quantifying both socioeconomic
 <img src="/science/review.assets/NatCom/Morris NatNC 20250307.png">
 </center>
 
+<center>
+<img src="/science/review.assets/NatCom/Morris NatNC 20250308.png">
+</center>
+
 ### **Coding Reference:**
 - [GAMS](https://globalchange.mit.edu/research/research-tools/human-system-model/download)
