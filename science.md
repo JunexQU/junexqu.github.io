@@ -34,6 +34,7 @@ title: Science & PNAS Review
 - [**Barrington-Leigh, Christopher, and Adam Millard-Ball. Global trends toward urban street-network sprawl. Proceedings of the National Academy of Sciences 117.4 (2020)**](science/Barrington PNAS2020.md)
 
 ## Nature Communication 2025
+- [**Láng-Ritter, J., Keskinen, M. & Tenkanen, H. Global gridded population datasets systematically underrepresent rural population. Nat Commun 16, 2170 (2025)**](science/NatCom/LangRitter NatNC 202503.md)
 - [Morris, J., Sokolov, A., Reilly, J. et al. Quantifying both socioeconomic and climate uncertainty in coupled human–Earth systems analysis. Nat Commun 16, 2703 (2025)](science/NatCom/Morris NatNC 202503.md)
 - [Tan, X., Huang, B., Batty, M. et al. The spatiotemporal scaling laws of urban population dynamics. Nat Commun 16, 2881 (2025)](science/NatCom/TanX NatNC 202503.md)
 - [Mengesha, I., Roy, D. Carbon pricing drives critical transition to green growth. Nat Commun 16, 1321 (2025)](science/NatCom/Mengesha NatCom 202502.md)
