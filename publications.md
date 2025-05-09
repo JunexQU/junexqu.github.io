@@ -5,7 +5,7 @@ title: Publications
 ---
 
 ## Working Manuscript
-- **Junxi Qu & Tianren Yang**. A Universal Framework in Predicting Urban Commuting A Perspective from Five Models. Drafted.
+- **Junxi Qu & Tianren Yang**. What Makes a Commuting Model Work? Insights from Normalization, Predictive Features, and Out-of-Sample Testing. **Prepared to submit**.
 - **Junxi Qu & Tianren Yang**. Human-Earth System Dynamics A Review of Integrated Assessment Models and Challenges. Drafted.
 - **Junxi Qu & Tianren Yang**. Working population by workplace and residence geography in China. Drafted.
 
