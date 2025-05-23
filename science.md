@@ -10,6 +10,7 @@ title: Science & PNAS Review
 - [**Chaopeng Hong et al. ,Land-use emissions embodied in international trade.Science376,597-603(2022)**](science/Hong Science202205.md)
 
 ## PNAS
+- [T. Hirano,& A.A. Toda,  Unbalanced growth and land overvaluation, Proc. Natl. Acad. Sci. U.S.A. 122 (14) e2423295122](science/PNAS/Hirano PNAS 202504.md)
 - [T.A. Kohler, Economic inequality is fueled by population scale, land-limited production, and settlement hierarchies across the archaeological record, Proc. Natl. Acad. Sci. U.S.A. 122 (16) e2400691122](science/PNAS/Kohler PNSA 202504.md)
 - [I. Lopez-Gomez,Z.Y. Wan,L. Zepeda-Núñez,T. Schneider,J. Anderson,& F. Sha,  Dynamical-generative downscaling of climate model ensembles, Proc. Natl. Acad. Sci. U.S.A. 122 (17) e2420288122](science/PNAS/Lopez-Gomez PNAS 202504.md)
 - [A. Ortiz-Bobea,R.G. Chambers,Y. He,& D.B. Lobell,  Large increases in public R&D investment are needed to avoid declines of US agricultural productivity, Proc. Natl. Acad. Sci. U.S.A. 122 (11) e2411010122](science/PNAS/Ortiz PNAS 202503.md)
