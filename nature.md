@@ -6,6 +6,7 @@ title: Nature Review
 
 ## Literature Review
 ### Nature
+- [van Vuuren, D.P., Doelman, J.C., Schmidt Tagomori, I. et al. Exploring pathways for world development within planetary boundaries. Nature 641, 910–916 (2025)](blogs/NatEne/Vuuren Nature 202505.md)
 - [**Tian, P., Zhong, H., Chen, X. et al. Keeping the global consumption within the planetary boundaries. Nature 635, 625–630 (2024)**](blogs/Tian Nature 202411.md)
 - [Bloom, N., Han, R. & Liang, J. Hybrid working from home improves retention without damaging performance. Nature 630, 920–925 (2024)](blogs/Bloom Nature2024.md)
 - [Sun, Y., Zhu, S., Wang, D. et al. Global supply chains amplify economic costs of future extreme heat risk. Nature 627, 797–804 (2024)](blogs/Sun et al Nature2024.md)
