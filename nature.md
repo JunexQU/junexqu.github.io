@@ -91,6 +91,7 @@ title: Nature Review
 - [Xu, F., Li, Y., Jin, D. et al. Emergence of urban growth patterns from human mobility behavior. Nat Comput Sci 1, 791–800 (2021)](blogs/NatCS/Xu NatCS 202109.md)
 
 ### Nature Climate Change
+- [Cheng, J., Tong, D., Zhao, H. et al. Trade risks to energy security in net-zero emissions energy scenarios. Nat. Clim. Chang. 15, 505–513 (2025)](blogs/NatNCC/Cheng NatNCC 202504.md)
 - [Wang, S., Zhan, W., Zhou, B. et al. Dual impact of global urban overheating on mortality. Nat. Clim. Chang. 15, 497–504 (2025)](blogs/NatNCC/Wang NatNCC 202504.md)
 - [Liu, Y., Du, M., Yang, L. et al. Mitigation policies interactions delay the achievement of carbon neutrality in China. Nat. Clim. Chang. 15, 147–152 (2025)](blogs/NatNCC/Liu NatNCC 202501.md)
 - [Emmerling, J., Andreoni, P., Charalampidis, I. et al. A multi-model assessment of inequality and climate change. Nat. Clim. Chang. 14, 1254–1260 (2024)](blogs/Clc/Emmerling NatNCC 202410.md)
