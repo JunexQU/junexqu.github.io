@@ -19,7 +19,7 @@ title: Ma, C., Peñasco, C. & Anadón, L.D. Technology innovation and environmen
 
 ### **Findings:**
 
-- Six types of road transportation policys
+- Six types of road transportation policy
 <center>
 <img src="/science/review.assets/NatCom/MaC NatCom 20250501.png">
 </center>
