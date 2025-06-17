@@ -38,6 +38,7 @@ title: Science & PNAS Review
 - [**Barrington-Leigh, Christopher, and Adam Millard-Ball. Global trends toward urban street-network sprawl. Proceedings of the National Academy of Sciences 117.4 (2020)**](science/Barrington PNAS2020.md)
 
 ## Nature Communication 2025
+- [Estrada, F., Lupi, V., Botzen, W.J.W. et al. Urban and non-urban contributions to the social cost of carbon. Nat Commun 16, 4193 (2025)](science/NatCom/Estrada NatCom 202505.md)
 - [Ma, C., Peñasco, C. & Anadón, L.D. Technology innovation and environmental outcomes of road transportation policy instruments. Nat Commun 16, 4467 (2025)](science/NatCom/MaC NatCom 202505.md)
 - [Guan, Y., Shan, Y., Hang, Y. et al. Unlocking global carbon reduction potential by embracing low-carbon lifestyles. Nat Commun 16, 4599 (2025)](science/NatCom/Guan NatCom 202505.md)
 - [Gao, S., Zhou, P., Zhang, H. et al. Evaluating socio-economic and subjective well-being impacts of coal power phaseout in China. Nat Commun 16, 2320 (2025)](science/NatCom/GaoS NatCom 202503.md)
