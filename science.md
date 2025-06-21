@@ -10,6 +10,7 @@ title: Science & PNAS Review
 - [**Chaopeng Hong et al. ,Land-use emissions embodied in international trade.Science376,597-603(2022)**](science/Hong Science202205.md)
 
 ## PNAS
+- [G. Chi,G.J. Abel,D. Johnston,E. Giraudy,& M. Bailey,  Measuring global migration flows using online data, Proc. Natl. Acad. Sci. U.S.A. 122 (18) e2409418122](science/PNAS/Chi PNAS 202505.md)
 - [P. Zhao,H. Wang,W.A.V. Clark,Y. Feng,Q. Liu,& Y. Cui,  ICT usage increases workforce geographical diversity, Proc. Natl. Acad. Sci. U.S.A. 122 (20) e2426901122](science/PNAS/ZhaoP PNAS 202505.md)
 - [T. Hirano,& A.A. Toda,  Unbalanced growth and land overvaluation, Proc. Natl. Acad. Sci. U.S.A. 122 (14) e2423295122](science/PNAS/Hirano PNAS 202504.md)
 - [T.A. Kohler, Economic inequality is fueled by population scale, land-limited production, and settlement hierarchies across the archaeological record, Proc. Natl. Acad. Sci. U.S.A. 122 (16) e2400691122](science/PNAS/Kohler PNSA 202504.md)
