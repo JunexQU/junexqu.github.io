@@ -10,6 +10,7 @@ title: Science & PNAS Review
 - [**Chaopeng Hong et al. ,Land-use emissions embodied in international trade.Science376,597-603(2022)**](science/Hong Science202205.md)
 
 ## PNAS
+- [S. Bontorin,S. Centellegher,R. Gallotti,L. Pappalardo,B. Lepri,& M. Luca,  Mixing individual and collective behaviors to predict out-of-routine mobility, Proc. Natl. Acad. Sci. U.S.A. 122 (17) e2414848122](science/PNAS/Bontorin PNAS 202505.md)
 - [G. Chi,G.J. Abel,D. Johnston,E. Giraudy,& M. Bailey,  Measuring global migration flows using online data, Proc. Natl. Acad. Sci. U.S.A. 122 (18) e2409418122](science/PNAS/Chi PNAS 202505.md)
 - [P. Zhao,H. Wang,W.A.V. Clark,Y. Feng,Q. Liu,& Y. Cui,  ICT usage increases workforce geographical diversity, Proc. Natl. Acad. Sci. U.S.A. 122 (20) e2426901122](science/PNAS/ZhaoP PNAS 202505.md)
 - [T. Hirano,& A.A. Toda,  Unbalanced growth and land overvaluation, Proc. Natl. Acad. Sci. U.S.A. 122 (14) e2423295122](science/PNAS/Hirano PNAS 202504.md)
