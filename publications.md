@@ -10,12 +10,11 @@ title: Publications
 - **Junxi Qu & Tianren Yang**. Working population by workplace and residence geography in China. Drafted.
 
 ## Under Review
-- **Junxi Qu, Tianren Yang, and Yang Zhou**. Multimodal transport network and urban population growth: A comprehensive evaluation in China. *Under review in TRA*.
 - **Junxi Qu & Si Qiao**. How Urban Vitality Shapes Cycling Behaviour in the Age of Dock-less Shared Bikes. *Under Review in Cities*.
 
 ## Journal Article
-
-- **Qu J** et al. Transport network changes and varying socioeconomic effects across China's Yangtze River Delta. Journal of Transport Geography 121, 104051 (2024). https://doi.org/https://doi.org/10.1016/j.jtrangeo.2024.104051
+- **Qu, J.,** Ma, X., Zhou, Y., Chen, X., & Yang, T. (2025). Fine-grained analysis of transport-demographic relationships: County-level responses to multimodal connectivity across metropolitan and peripheral China. Transportation Research Part A: Policy and Practice, 199, 104572.
+- **Qu, J.,** Yang, T., Nam, K. M., Kim, E., Chen, Y., & Liu, X. (2024). Transport network changes and varying socioeconomic effects across China's Yangtze River Delta. Journal of Transport Geography, 121, 104051.
 
 ## 中文期刊
 - 宋洋,贺灿飞,徐阳 & 曲峻熙.(2023).中国城市公园绿地供需时空格局演化及驱动机制. 自然资源学报(05),1194-1209. doi:CNKI:SUN:ZRZX.0.2023-05-006.
