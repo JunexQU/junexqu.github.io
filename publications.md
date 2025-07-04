@@ -5,11 +5,12 @@ title: Publications
 ---
 
 ## Working Manuscript
-- **Junxi Qu & Tianren Yang**. What Makes a Commuting Model Work? Insights from Normalization, Predictive Features, and Out-of-Sample Testing. **Prepared to submit**.
+- **Si Qiao & Junxi Qu**. Blurring the Line: How Jobs–Housing Location Trade-Offs Redefine Urban Boundaries. **Prepared to submit**.
 - **Junxi Qu & Tianren Yang**. Human-Earth System Dynamics A Review of Integrated Assessment Models and Challenges. Drafted.
 - **Junxi Qu & Tianren Yang**. Working population by workplace and residence geography in China. Drafted.
 
 ## Under Review
+- **Junxi Qu & Tianren Yang**. What Makes a Commuting Model Useful? Predictive Accuracy, Spatial Insights, and Transferability for Urban Planning. **Under Review in Computers, Environment and Urban Systems**.
 - **Junxi Qu & Si Qiao**. How Urban Vitality Shapes Cycling Behaviour in the Age of Dock-less Shared Bikes. *Under Review in Cities*.
 
 ## Journal Article
