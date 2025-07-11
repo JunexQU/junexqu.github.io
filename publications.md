@@ -5,6 +5,7 @@ title: Publications
 ---
 
 ## Working Manuscript
+- **Junxi Qu**. Mobility Inequality Emerges from The Interaction of Socioeconomic Status and Urban Opportunity Structure. **In progress**
 - **Si Qiao & Junxi Qu**. Blurring the Line: How Jobs–Housing Location Trade-Offs Redefine Urban Boundaries. **Prepared to submit**.
 - **Junxi Qu & Tianren Yang**. Human-Earth System Dynamics A Review of Integrated Assessment Models and Challenges. Drafted.
 - **Junxi Qu & Tianren Yang**. Working population by workplace and residence geography in China. Drafted.
