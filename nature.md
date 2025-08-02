@@ -115,6 +115,7 @@ title: Nature Review
 - [Milovanoff, A., Posen, I.D. & MacLean, H.L. Electrification of light-duty vehicle fleet alone will not meet mitigation targets. Nat. Clim. Chang. 10, 1102–1107 (2020)](blogs/Milovanoff 2020.md)
 
 ### Nature Cities
+- [Zhang, E., Hou, J. & Long, Y. The form of China’s urban commercial expansion in the digital era. Nat Cities 2, 639–649 (2025)](blogs/NatCit/Zhang NatCit 202506.md)
 - [Wang, H., He, Q., Kong, H. et al. Declining short-term emission control opportunity for major events in Chinese cities. Nat Cities 2, 434–446 (2025)](blogs/NatCit/Wang NatCit 202504.md)
 - [Huang, L., Huang, Y., Lv, X. et al. Disparities in access to sustainable dining options across the Tokyo Metropolis. Nat Cities 2, 387–399 (2025)](blogs/NatCit/Huang NatCit 202505.md)
 - [**Li, Q., Du, D. & Yu, Y. Scaling and network evolution of technology transfer in US cities. Nat Cities 2, 316–326 (2025)**](blogs/NatCit/LiQ NatCities 202503.md)
