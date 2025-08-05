@@ -91,6 +91,7 @@ title: Nature Review
 - [Xu, F., Li, Y., Jin, D. et al. Emergence of urban growth patterns from human mobility behavior. Nat Comput Sci 1, 791–800 (2021)](blogs/NatCS/Xu NatCS 202109.md)
 
 ### Nature Climate Change
+- [Vivier, L., Mastrucci, A. & van Ruijven, B. Meeting climate target with realistic demand-side policies in the residential sector. Nat. Clim. Chang. 15, 744–751 (2025)](blogs/NatNCC/Vivier NatNCC 202506.md)
 - [Schöngart, S., Nicholls, Z., Hoffmann, R. et al. High-income groups disproportionately contribute to climate extremes worldwide. Nat. Clim. Chang. 15, 627–633 (2025)](blogs/NatNCC/Schongart NatNCC 202505.md)
 - [Cheng, J., Tong, D., Zhao, H. et al. Trade risks to energy security in net-zero emissions energy scenarios. Nat. Clim. Chang. 15, 505–513 (2025)](blogs/NatNCC/Cheng NatNCC 202504.md)
 - [Wang, S., Zhan, W., Zhou, B. et al. Dual impact of global urban overheating on mortality. Nat. Clim. Chang. 15, 497–504 (2025)](blogs/NatNCC/Wang NatNCC 202504.md)
