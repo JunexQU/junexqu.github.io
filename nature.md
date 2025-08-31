@@ -6,6 +6,7 @@ title: Nature Review
 
 ## Literature Review
 ### Nature
+- [Grant, L., Vanderkelen, I., Gudmundsson, L. et al. Global emergence of unprecedented lifetime exposure to climate extremes. Nature 641, 374–379 (2025)](blogs/NatEne/LiaoS Nature 202507.md)
 - [Grant, L., Vanderkelen, I., Gudmundsson, L. et al. Global emergence of unprecedented lifetime exposure to climate extremes. Nature 641, 374–379 (2025)](blogs/NatEne/Grant Nature 202505.md)
 - [van Vuuren, D.P., Doelman, J.C., Schmidt Tagomori, I. et al. Exploring pathways for world development within planetary boundaries. Nature 641, 910–916 (2025)](blogs/NatEne/Vuuren Nature 202505.md)
 - [**Tian, P., Zhong, H., Chen, X. et al. Keeping the global consumption within the planetary boundaries. Nature 635, 625–630 (2024)**](blogs/Tian Nature 202411.md)
