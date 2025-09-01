@@ -10,7 +10,7 @@ title: Tu, Y., Chen, B., Liao, C. et al. Inequality in infrastructure access and
 - Provide a comprehensive, multidimensional analysis of global inequality in infrastructure access adn associated disparity in health outcomes
 
 ### **Case:**
-- 5 Metropolitans in the US
+- Global countries
 
 ### **Methodology:**
 - OLS
@@ -47,4 +47,5 @@ title: Tu, Y., Chen, B., Liao, C. et al. Inequality in infrastructure access and
 </center>
 
 ### **Coding Reference:**
+
 - [Python](https://figshare.com/projects/Infrastructure_inequality/237854)
