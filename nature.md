@@ -78,6 +78,7 @@ title: Nature Review
 - [Bain, P.G., Kroonenberg, P.M., Johansson, LO. et al. Public views of the Sustainable Development Goals across countries. Nat Sustain 2, 819–825 (2019)](blogs/Bain et al NS2019.md)
 
 ### Nature Human Behavior
+- [Tu, Y., Chen, B., Liao, C. et al. Inequality in infrastructure access and its association with health disparities. Nat Hum Behav 9, 1669–1682 (2025)](blogs/NatHum/TuY NatHum 202505.md)
 - [Yabe, T., García Bulle Bueno, B., Frank, M.R. et al. Behaviour-based dependency networks between places shape urban economic resilience. Nat Hum Behav 9, 496–506 (2025)](blogs/NatHum/Yabe NatHum 202412.md)
 - [Abbiasov, T., Heine, C., Sabouri, S. et al. The 15-minute city quantified using human mobility data. Nat Hum Behav 8, 445–455 (2024)](blogs/Abbiasov2024.md)
 - [Pangallo, M., Aleta, A., del Rio-Chanona, R.M. et al. The unequal effects of the health–economy trade-off during the COVID-19 pandemic. Nat Hum Behav 8, 264–275 (2024)](blogs/Pangallo2024.md)
