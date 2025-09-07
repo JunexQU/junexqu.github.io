@@ -43,6 +43,7 @@ title: Science & PNAS Review
 - [**Barrington-Leigh, Christopher, and Adam Millard-Ball. Global trends toward urban street-network sprawl. Proceedings of the National Academy of Sciences 117.4 (2020)**](science/Barrington PNAS2020.md)
 
 ## Nature Communication 2025
+- [Xia, B., Xiao, J., Liu, G. et al. Exploiting vacant urban residential buildings to promote carbon neutrality in China. Nat Commun 16, 7661 (2025)](science/NatCom/XiaB NatCom 202508.md)
 - [Hosseinzadehtalaei, P., Hamdi, R., Moradkhani, H. et al. Inequality in human exposure to future climate extremes. Nat Commun 16, 8058 (2025)](science/NatCom/Hosseinzadehtalaei NatCom 202508.md)
 - [Zhong, J., Zhang, X., Zhang, D. et al. Plausible global emissions scenario for 2 °C aligned with China’s net-zero pathway. Nat Commun 16, 8102 (2025)](science/NatCom/ZhongJ NatCom 202508.md)
 - [Horton, D., Logan, T.M., Speakman, E. et al. Hundreds of grocery outlets needed across the United States to achieve walkable cities. Nat Commun 16, 6051 (2025)](science/NatCom/Horton NatCom 202507.md)
