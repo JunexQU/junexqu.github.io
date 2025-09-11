@@ -10,6 +10,7 @@ title: Science & PNAS Review
 - [**Chaopeng Hong et al. ,Land-use emissions embodied in international trade.Science376,597-603(2022)**](science/Hong Science202205.md)
 
 ## PNAS
+- [**M. Hendrick,A. Rinaldo, & G. Manoli,  A stochastic theory of urban metabolism, Proc. Natl. Acad. Sci. U.S.A. 122 (33) e2501224122**](science/PNAS/Hendrick PNAS 202508.md)
 - [A. Millard-Ball,M. Reginald,Y. Yusuf,& C. Bian,  Global health and climate benefits from walking and cycling infrastructure, Proc. Natl. Acad. Sci. U.S.A. 122 (24) e2422334122](science/PNAS/Millard PNAS 202506.md)
 - [C. Hu,Z. Chen,P. Liu,W. Zhang,X. He,& D. Bosch,  Impact of large-scale solar on property values in the United States: Diverse effects and causal mechanisms, Proc. Natl. Acad. Sci. U.S.A. 122 (24) e2418414122](science/PNAS/HuC PNAS 202506.md)
 - [S. Bontorin,S. Centellegher,R. Gallotti,L. Pappalardo,B. Lepri,& M. Luca,  Mixing individual and collective behaviors to predict out-of-routine mobility, Proc. Natl. Acad. Sci. U.S.A. 122 (17) e2414848122](science/PNAS/Bontorin PNAS 202505.md)
