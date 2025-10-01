@@ -6,7 +6,7 @@ title: Nature Review
 
 ## Literature Review
 ### Nature
-- [Liao, S., Pan, W., Wen, L. et al. Temperature-related hospitalization burden under climate change. Nature 644, 960–968 (2025)](blogs/NatEne/Althoff Nat 202508.md)
+- [Althoff, T., Ivanovic, B., King, A.C. et al. Countrywide natural experiment links built environment to physical activity. Nature 645, 407–413 (2025)](blogs/NatEne/Althoff Nat 202508.md)
 - [Liao, S., Pan, W., Wen, L. et al. Temperature-related hospitalization burden under climate change. Nature 644, 960–968 (2025)](blogs/NatEne/LiaoS Nature 202507.md)
 - [Grant, L., Vanderkelen, I., Gudmundsson, L. et al. Global emergence of unprecedented lifetime exposure to climate extremes. Nature 641, 374–379 (2025)](blogs/NatEne/Grant Nature 202505.md)
 - [van Vuuren, D.P., Doelman, J.C., Schmidt Tagomori, I. et al. Exploring pathways for world development within planetary boundaries. Nature 641, 910–916 (2025)](blogs/NatEne/Vuuren Nature 202505.md)
