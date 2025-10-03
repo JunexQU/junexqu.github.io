@@ -120,6 +120,7 @@ title: Nature Review
 - [Milovanoff, A., Posen, I.D. & MacLean, H.L. Electrification of light-duty vehicle fleet alone will not meet mitigation targets. Nat. Clim. Chang. 10, 1102–1107 (2020)](blogs/Milovanoff 2020.md)
 
 ### Nature Cities
+- [Wang, D., Chen, S. Synergistic action on mitigation and adaptation pilot policies to enhance low-carbon resilience of Chinese cities. Nat Cities 2, 812–824 (2025)](blogs/NatCit/WangD NatCit 202508.md)
 - [Chen, Z., Li, X., Liu, B. et al. Public transport accessibility in villages in and around major Chinese cities. Nat Cities 2, 749–758 (2025)](blogs/NatCit/ChenZ NatCit 202507.md)
 - [Zhang, E., Hou, J. & Long, Y. The form of China’s urban commercial expansion in the digital era. Nat Cities 2, 639–649 (2025)](blogs/NatCit/Zhang NatCit 202506.md)
 - [Wang, H., He, Q., Kong, H. et al. Declining short-term emission control opportunity for major events in Chinese cities. Nat Cities 2, 434–446 (2025)](blogs/NatCit/Wang NatCit 202504.md)
