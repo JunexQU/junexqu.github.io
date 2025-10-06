@@ -120,6 +120,7 @@ title: Nature Review
 - [Milovanoff, A., Posen, I.D. & MacLean, H.L. Electrification of light-duty vehicle fleet alone will not meet mitigation targets. Nat. Clim. Chang. 10, 1102–1107 (2020)](blogs/Milovanoff 2020.md)
 
 ### Nature Cities
+- [Mondolfo, N., Leblois, A., Delacote, P. et al. Urban planning decisions expose Traveller sites to disproportionate environmental burdens. Nat Cities 2, 865–874 (2025)](blogs/NatCit/Mondolfo NatCit 202508.md)
 - [Li, B., Liao, H., Li, K. et al. Environmental burden and health inequity in China’s road-based express delivery. Nat Cities 2, 825–834 (2025)](blogs/NatCit/LiB NatCit 202508.md)
 - [Wang, D., Chen, S. Synergistic action on mitigation and adaptation pilot policies to enhance low-carbon resilience of Chinese cities. Nat Cities 2, 812–824 (2025)](blogs/NatCit/WangD NatCit 202508.md)
 - [Chen, Z., Li, X., Liu, B. et al. Public transport accessibility in villages in and around major Chinese cities. Nat Cities 2, 749–758 (2025)](blogs/NatCit/ChenZ NatCit 202507.md)
