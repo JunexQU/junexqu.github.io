@@ -19,6 +19,7 @@ title: Publications
 - **Qu, J.,** Yang, T., Nam, K. M., Kim, E., Chen, Y., & Liu, X. (2024). Transport network changes and varying socioeconomic effects across China's Yangtze River Delta. Journal of Transport Geography, 121, 104051.
 
 ## 中文期刊
+- 李嘉,曲峻熙* & 董亚宁.(2025).房地产市场的双重信号效应与城市创新. 经济管理(10).
 - 宋洋,贺灿飞,徐阳 & 曲峻熙.(2023).中国城市公园绿地供需时空格局演化及驱动机制. 自然资源学报(05),1194-1209. doi:CNKI:SUN:ZRZX.0.2023-05-006.
 - 杨天人,吴志强,潘起胜,曲峻熙 & 金鹰.(2022).城市发展的模拟与预测——研究进展、发展挑战与未来展望. 国际城市规划(06),1-8. doi:10.19830/j.upi.2022.418.
 - 张明斗,刘奕 & 曲峻熙.(2019).收缩型城市的分类识别及高质量发展研究. 郑州大学学报(哲学社会科学版)(05),47-51. doi:CNKI:SUN:ZZDX.0.2019-05-010.
