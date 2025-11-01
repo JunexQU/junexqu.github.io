@@ -11,6 +11,7 @@ title: Gan, T., Dighe, T. & Porfiri, M. Trade-off between diversity and provisio
 
 ### **Case:**
 - US cites
+  
 ### **Methodology:**
 - Scaling law
 
@@ -37,4 +38,5 @@ title: Gan, T., Dighe, T. & Porfiri, M. Trade-off between diversity and provisio
 </center>
 
 ### **Coding Reference:**
+
 - [Python](https://github.com/dynamicalsystemslaboratory/Healthcare-Disparities-in-the-United-States/)
