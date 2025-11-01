@@ -121,6 +121,7 @@ title: Nature Review
 - [Milovanoff, A., Posen, I.D. & MacLean, H.L. Electrification of light-duty vehicle fleet alone will not meet mitigation targets. Nat. Clim. Chang. 10, 1102–1107 (2020)](blogs/Milovanoff 2020.md)
 
 ### Nature Cities
+- [Gan, T., Dighe, T. & Porfiri, M. Trade-off between diversity and provision of specialized healthcare in US cities. Nat Cities 2, 980–989 (2025)](blogs/NatCit/Gan NatCit 202509.md)
 - [Lai, Y., Zhao, H. Comparative analysis of smart city scientific research trends in the USA and China. Nat Cities 2, 875–883 (2025)](blogs/NatCit/LaiY NatCit 202508.md)
 - [Mondolfo, N., Leblois, A., Delacote, P. et al. Urban planning decisions expose Traveller sites to disproportionate environmental burdens. Nat Cities 2, 865–874 (2025)](blogs/NatCit/Mondolfo NatCit 202508.md)
 - [Li, B., Liao, H., Li, K. et al. Environmental burden and health inequity in China’s road-based express delivery. Nat Cities 2, 825–834 (2025)](blogs/NatCit/LiB NatCit 202508.md)
