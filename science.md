@@ -44,6 +44,7 @@ title: Science & PNAS Review
 - [**Barrington-Leigh, Christopher, and Adam Millard-Ball. Global trends toward urban street-network sprawl. Proceedings of the National Academy of Sciences 117.4 (2020)**](science/Barrington PNAS2020.md)
 
 ## Nature Communication 2025
+- [Wang, B., Liu, Q., Ouyang, X. et al. Global hidden material flows triggered by China’s vehicle supply chain far exceed eventual material use. Nat Commun 16, 9217 (2025)](science/NatCom/Wang NatCom 202510.md)
 - [Piccialli, F., Amitrano, S., Cerciello, D. et al. A digital twin framework for urban parking management and mobility forecasting. Nat Commun 16, 9400 (2025)](science/NatCom/Piccialli NatCom 202510.md)
 - [Su, J., Lin, Q. & Chen, M. Optimizing carbon footprint in long-haul heavy-duty E-Truck transportation. Nat Commun 16, 9562 (2025)](science/NatCom/Su NatCom 202510.md)
 - [Xia, B., Xiao, J., Liu, G. et al. Exploiting vacant urban residential buildings to promote carbon neutrality in China. Nat Commun 16, 7661 (2025)](science/NatCom/XiaB NatCom 202508.md)
