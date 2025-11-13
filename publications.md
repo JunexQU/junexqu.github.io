@@ -11,6 +11,7 @@ title: Publications
 - **Junxi Qu & Tianren Yang**. Working population by workplace and residence geography in China. Drafted.
 
 ## Under Review
+- **Junxi Qu & Tianren Yang**. Multi-layer City Networks Reveal Severe Inequality in Chinese Counties. **Under Review in Nature Cities**
 - **Junxi Qu & Tianren Yang**. What Makes a Commuting Model Useful? Predictive Accuracy, Spatial Insights, and Transferability for Urban Planning. **Under Review in Computers, Environment and Urban Systems**.
 - **Junxi Qu & Si Qiao**. How Urban Vitality Shapes Cycling Behaviour in the Age of Dock-less Shared Bikes. *Under Review in Cities*.
 
