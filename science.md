@@ -44,6 +44,7 @@ title: Science & PNAS Review
 - [**Barrington-Leigh, Christopher, and Adam Millard-Ball. Global trends toward urban street-network sprawl. Proceedings of the National Academy of Sciences 117.4 (2020)**](science/Barrington PNAS2020.md)
 
 ## Nature Communication 2025
+- [Wessel, J., Chowdhury, A.K., Wild, T. et al. Regional coordination can alleviate the cost burden of a low-carbon electricity system. Nat Commun 16, 9033 (2025)](science/NatCom/Wessel NatCom 202510.md)
 - [Schechtl, M. The association between childhood exposure to local wealth inequality and intergenerational income mobility in the United States. Nat Commun 16, 9164 (2025)](science/NatCom/Schehtl NatCom 202510.md)
 - [Wang, B., Liu, Q., Ouyang, X. et al. Global hidden material flows triggered by China’s vehicle supply chain far exceed eventual material use. Nat Commun 16, 9217 (2025)](science/NatCom/Wang NatCom 202510.md)
 - [Piccialli, F., Amitrano, S., Cerciello, D. et al. A digital twin framework for urban parking management and mobility forecasting. Nat Commun 16, 9400 (2025)](science/NatCom/Piccialli NatCom 202510.md)
