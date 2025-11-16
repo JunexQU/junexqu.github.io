@@ -44,6 +44,7 @@ title: Science & PNAS Review
 - [**Barrington-Leigh, Christopher, and Adam Millard-Ball. Global trends toward urban street-network sprawl. Proceedings of the National Academy of Sciences 117.4 (2020)**](science/Barrington PNAS2020.md)
 
 ## Nature Communication 2025
+- [Zhao, P., Li, Y., Zhang, C. et al. Arctic Sea Route access reshapes global shipping carbon emissions. Nat Commun 16, 8431 (2025)](science/NatCom/Zhao NatCom 202510.md)
 - [Chen, Y., Wang, Z., Wen, Q. et al. A building-scale modeling framework for urban net-zero transitions in Nanjing. Nat Commun 16, 8954 (2025)](science/NatCom/Chen NatCom 202510.md)
 - [Wessel, J., Chowdhury, A.K., Wild, T. et al. Regional coordination can alleviate the cost burden of a low-carbon electricity system. Nat Commun 16, 9033 (2025)](science/NatCom/Wessel NatCom 202510.md)
 - [Schechtl, M. The association between childhood exposure to local wealth inequality and intergenerational income mobility in the United States. Nat Commun 16, 9164 (2025)](science/NatCom/Schehtl NatCom 202510.md)
