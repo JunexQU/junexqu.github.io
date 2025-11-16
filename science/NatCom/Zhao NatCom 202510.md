@@ -10,7 +10,7 @@ title: Zhao, P., Li, Y., Zhang, C. et al. Arctic Sea Route access reshapes globa
 - Quantify the long-term carbon consequences of Arctic Sea Route (ASR) access using a trade-integrated shipping emissions projection (TISEP) model
 
 ### **Case:**
-- Nanjing, China
+- Global countries
 
 ### **Methodology:**
 - ARIMAX model for trade volume
@@ -42,4 +42,5 @@ title: Zhao, P., Li, Y., Zhang, C. et al. Arctic Sea Route access reshapes globa
 </center>
 
 ### **Coding Reference:**
+
 - [Python](https://zenodo.org/records/17082778)
