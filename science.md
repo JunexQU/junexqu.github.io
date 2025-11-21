@@ -10,6 +10,7 @@ title: Science & PNAS Review
 - [**Chaopeng Hong et al. ,Land-use emissions embodied in international trade.Science376,597-603(2022)**](science/Hong Science202205.md)
 
 ## PNAS
+- [D.S. Seara,J. Colen,M. Fruchart,Y. Avni,D.G. Martin, & V. Vitelli,  Sociohydrodynamics: Data-driven modeling of social behavior, Proc. Natl. Acad. Sci. U.S.A. 122 (35) e2508692122](science/PNAS/Seara PNAS 202508.md)
 - [**S. Daniotti,M. Hartog, & F. Neffke,  The coherence of US cities, Proc. Natl. Acad. Sci. U.S.A. 122 (37) e2501504122**](science/PNAS/Daniotti PNAS 202508.md)
 - [**M. Hendrick,A. Rinaldo, & G. Manoli,  A stochastic theory of urban metabolism, Proc. Natl. Acad. Sci. U.S.A. 122 (33) e2501224122**](science/PNAS/Hendrick PNAS 202508.md)
 - [A. Millard-Ball,M. Reginald,Y. Yusuf,& C. Bian,  Global health and climate benefits from walking and cycling infrastructure, Proc. Natl. Acad. Sci. U.S.A. 122 (24) e2422334122](science/PNAS/Millard PNAS 202506.md)
