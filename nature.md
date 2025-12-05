@@ -80,6 +80,7 @@ title: Nature Review
 - [Bain, P.G., Kroonenberg, P.M., Johansson, LO. et al. Public views of the Sustainable Development Goals across countries. Nat Sustain 2, 819–825 (2019)](blogs/Bain et al NS2019.md)
 
 ### Nature Human Behavior
+- [Newman, D.B., Gordon, A.M. & Mendes, W.B. Income and education show distinct links to health and happiness in daily life. Nat Hum Behav 9, 2299–2312 (2025)](blogs/NatHum/Newman NatHum 202508.md)
 - [Fan, W., Schor, J.B., Kelly, O. et al. Work time reduction via a 4-day workweek finds improvements in workers’ well-being. Nat Hum Behav 9, 2153–2168 (2025)](blogs/NatHum/Fan NatHum 202507.md)
 - [Tu, Y., Chen, B., Liao, C. et al. Inequality in infrastructure access and its association with health disparities. Nat Hum Behav 9, 1669–1682 (2025)](blogs/NatHum/TuY NatHum 202505.md)
 - [Yabe, T., García Bulle Bueno, B., Frank, M.R. et al. Behaviour-based dependency networks between places shape urban economic resilience. Nat Hum Behav 9, 496–506 (2025)](blogs/NatHum/Yabe NatHum 202412.md)
