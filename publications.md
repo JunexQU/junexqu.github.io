@@ -5,13 +5,15 @@ title: Publications
 ---
 
 ## Working Manuscript
-- **Junxi Qu**. Mobility Inequality Emerges from The Interaction of Socioeconomic Status and Urban Opportunity Structure. **In progress**
-- **Si Qiao & Junxi Qu**. Blurring the Line: How Jobs–Housing Location Trade-Offs Redefine Urban Boundaries. **Prepared to submit**.
-- **Junxi Qu & Tianren Yang**. Human-Earth System Dynamics A Review of Integrated Assessment Models and Challenges. Drafted.
-- **Junxi Qu & Tianren Yang**. Working population by workplace and residence geography in China. Drafted.
+- **Junxi Qu & Tianren Yang**. The Epistemology of Urban Prediction: From the Lowry Model to the Age of AI. **In progress**
+- **Junxi Qu & Tianren Yang**. Human-Earth System Dynamics A Review of Integrated Assessment Models and Challenges. **Drafted**.
+- **Junxi Qu & Tianren Yang**. Working population by workplace and residence geography in China. **Drafted**.
 
 ## Under Review
-- **Junxi Qu & Tianren Yang**. A Multi-Objective Deep Learning Model for Predicting Spatial Inequality Across Multi-Layer City Networks. **Under Review in Computers, Environment and Urban Systems**.
+- **Si Qiao & Junxi Qu**. Blurring the Line: How Jobs–Housing Location Trade-Offs Redefine Urban Boundaries. **Prepared to submit**.
+- **Junxi Qu & Tianren Yang**. Data-Driven Identification and Attribution of Core-Periphery Structure in Multi-Layer City Networks. *Submitted to npj Complexity*.
+- **Junxi Qu, Lingkun Meng & Tianren Yang**. Measuring Spatial Inequality using Multi-layer Urban Networks: Nationwide Evidence from Chinese Counties. *Submitted to Applied Geography*.
+- **Junxi Qu & Tianren Yang**. A Multi-Objective Deep Learning Model for Predicting Spatial Inequality Across Multi-Layer City Networks. *Under Review in Computers, Environment and Urban Systems*.
 - **Junxi Qu & Si Qiao**. How Urban Vitality Shapes Cycling Behaviour in the Age of Dock-less Shared Bikes. *Under Review in Cities*.
 
 ## Journal Article
