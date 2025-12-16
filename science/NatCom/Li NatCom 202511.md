@@ -10,7 +10,7 @@ title: Li, K., Li, X., Xiong, Z. et al. Unlocking vehicle-to-grid potential of l
 - Present a Mobility and vehicle-to-grid (V2G) coupled framework for systematic, megacity-scale evaluation of V2G potential
 
 ### **Case:**
-- California
+- Beijing and Shenzhen
 
 ### **Methodology:**
 - Optimization
@@ -57,4 +57,5 @@ title: Li, K., Li, X., Xiong, Z. et al. Unlocking vehicle-to-grid potential of l
 </center>
 
 ### **Coding Reference:**
+
 - [Python](https://springernature.figshare.com/articles/dataset/Unlocking_vehicle-to-grid_potential_of_load_shifting_in_China_s_megacities_considering_comprehensive_real-world_behaviors_Source_Data/27950028)
