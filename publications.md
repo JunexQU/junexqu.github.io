@@ -10,7 +10,8 @@ title: Publications
 - **Junxi Qu & Tianren Yang**. Working population by workplace and residence geography in China. **Drafted**.
 
 ## Under Review
-- **Si Qiao & Junxi Qu**. Blurring the Line: How Jobs–Housing Location Trade-Offs Redefine Urban Boundaries. **Prepared to submit**.
+- **Qu & Qiao**. What Does a Resilient City Look Like? A Mobility Lens on Functional Reconfiguration. *Under Review in Transportmetric B*.
+- **Qiao, Qu**, Chen, Pradhananga, Chow, Grusky, & Yeh. (2025). Blurring the Line: How Jobs–Housing Location Trade-Offs Redefine Urban Boundaries. *Prepared to Submit*.
 - **Junxi Qu & Tianren Yang**. Data-Driven Identification and Attribution of Core-Periphery Structure in Multi-Layer City Networks. *Submitted to npj Complexity*.
 - **Junxi Qu, Lingkun Meng & Tianren Yang**. Measuring Spatial Inequality using Multi-layer Urban Networks: Nationwide Evidence from Chinese Counties. *Submitted to Applied Geography*.
 - **Junxi Qu & Tianren Yang**. A Multi-Objective Deep Learning Model for Predicting Spatial Inequality Across Multi-Layer City Networks. *Under Review in Computers, Environment and Urban Systems*.
