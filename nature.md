@@ -6,6 +6,7 @@ title: Nature Review
 
 ## Literature Review
 ### Nature
+- [Huang, T., Zanocco, C., Wang, Z. et al. Built environment disparities are amplified during extreme weather recovery. Nature 648, 349–356 (2025)](blogs/NatEne/Huang Nature 202512.md)
 - [Althoff, T., Ivanovic, B., King, A.C. et al. Countrywide natural experiment links built environment to physical activity. Nature 645, 407–413 (2025)](blogs/NatEne/Althoff Nat 202508.md)
 - [Liao, S., Pan, W., Wen, L. et al. Temperature-related hospitalization burden under climate change. Nature 644, 960–968 (2025)](blogs/NatEne/LiaoS Nature 202507.md)
 - [Grant, L., Vanderkelen, I., Gudmundsson, L. et al. Global emergence of unprecedented lifetime exposure to climate extremes. Nature 641, 374–379 (2025)](blogs/NatEne/Grant Nature 202505.md)
