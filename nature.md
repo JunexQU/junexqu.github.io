@@ -131,6 +131,7 @@ title: Nature Review
 - [Chen, Z., Litvine, A. & Shaw-Taylor, L. Railways and urban scaling in England and Wales over 190 years of development. Nat Cities 2, 1240–1250 (2025)](blogs/NatCit/Chen NatCit 202512.md)
 - [Renninger, A., O’Clery, N. & Arcaute, E. US cities are defined by rings and pockets with limited socioeconomic mixing. Nat Cities 2, 1172–1182 (2025)](blogs/NatCit/Renninger NatCit 202512.md)
 - [Prieto-Curiel, R., Luengas-Sierra, P. & Borja-Vega, C. Urban sprawl is associated with reduced access and increased costs of water and sanitation. Nat Cities 2, 1148–1159 (2025)](blogs/NatCit/Prieto NatCit 202512.md)
+- [Prieto-Curiel, R. Metros reduce car use in European cities but trams do not. Nat Cities 2, 1140–1147 (2025)](blogs/NatCit/Prieto NatCit 202511.md)
 - [Li, C., Yu, L., Ndugwa, R. et al. Mapping urban slums and their inequality in sub-Saharan Africa. Nat Cities 2, 1037–1048 (2025)](blogs/NatCit/Li NatCit 202508.md)
 - [Gan, T., Dighe, T. & Porfiri, M. Trade-off between diversity and provision of specialized healthcare in US cities. Nat Cities 2, 980–989 (2025)](blogs/NatCit/Gan NatCit 202509.md)
 - [Lai, Y., Zhao, H. Comparative analysis of smart city scientific research trends in the USA and China. Nat Cities 2, 875–883 (2025)](blogs/NatCit/LaiY NatCit 202508.md)
