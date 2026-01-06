@@ -5,17 +5,18 @@ title: Publications
 ---
 
 ## Working Manuscript
-- **Junxi Qu & Tianren Yang**. The Epistemology of Urban Prediction: From the Lowry Model to the Age of AI. **In progress**
 - **Junxi Qu & Tianren Yang**. Human-Earth System Dynamics A Review of Integrated Assessment Models and Challenges. **Drafted**.
 - **Junxi Qu & Tianren Yang**. Working population by workplace and residence geography in China. **Drafted**.
 
 ## Under Review
-- **Qu & Qiao**. What Does a Resilient City Look Like? A Mobility Lens on Functional Reconfiguration. *Under Review in Transportmetric B*.
-- **Qiao, Qu**, Chen, Pradhananga, Chow, Grusky, & Yeh. (2025). Blurring the Line: How Jobs–Housing Location Trade-Offs Redefine Urban Boundaries. *Prepared to Submit*.
-- **Junxi Qu & Tianren Yang**. Data-Driven Identification and Attribution of Core-Periphery Structure in Multi-Layer City Networks. *Submitted to npj Complexity*.
-- **Junxi Qu, Lingkun Meng & Tianren Yang**. Measuring Spatial Inequality using Multi-layer Urban Networks: Nationwide Evidence from Chinese Counties. *Submitted to Applied Geography*.
-- **Junxi Qu & Tianren Yang**. A Multi-Objective Deep Learning Model for Predicting Spatial Inequality Across Multi-Layer City Networks. *Under Review in Computers, Environment and Urban Systems*.
-- **Junxi Qu & Si Qiao**. How Urban Vitality Shapes Cycling Behaviour in the Age of Dock-less Shared Bikes. *Under Review in Cities*.
+- **Junxi Qu & Tianren Yang**. Predicting Urban Futures: Paradigm Shifts in Urban Modelling from Lowry to Artificial Intelligence. *Prepared to Submit*.
+- **Qu & Qiao**. Measuring Social–Spatial Segregation. *Prepared to submit*.
+- Qiao, **Qu**, Chen, Pradhananga, Chow, Grusky, & Yeh. (2025). Blurring the Line: How Jobs–Housing Location Trade-Offs Redefine Urban Boundaries. *Prepared to Submit*.
+- **Junxi Qu** & Tianren Yang. Data-Driven Identification and Attribution of Core-Periphery Structure in Multi-Layer City Networks. *Submitted to AAAG*.
+- **Junxi Qu** & Qiao. What Does a Resilient City Look Like? A Mobility Lens on Functional Reconfiguration. *Under Review in Transportmetric B*.
+- **Junxi Qu**, Lingkun Meng & Tianren Yang. Measuring Spatial Inequality using Multi-layer Urban Networks: Nationwide Evidence from Chinese Counties. *Under Review in Applied Geography*.
+- **Junxi Qu** & Tianren Yang. A Multi-Objective Deep Learning Model for Predicting Spatial Inequality Across Multi-Layer City Networks. *Under Review in Computers, Environment and Urban Systems*.
+- **Junxi Qu** & Si Qiao. How Urban Vitality Shapes Cycling Behaviour in the Age of Dock-less Shared Bikes. *Under Review in Cities*.
 
 ## Journal Article
 - **Qu, J.,** Ma, X., Zhou, Y., Chen, X., & Yang, T. (2025). Fine-grained analysis of transport-demographic relationships: County-level responses to multimodal connectivity across metropolitan and peripheral China. Transportation Research Part A: Policy and Practice, 199, 104572.
