@@ -84,6 +84,7 @@ title: Nature Review
 - [Bain, P.G., Kroonenberg, P.M., Johansson, LO. et al. Public views of the Sustainable Development Goals across countries. Nat Sustain 2, 819–825 (2019)](blogs/Bain et al NS2019.md)
 
 ### Nature Human Behavior
+- [Behrer, A.P., Bolotnyy, V. Understanding the migratory response to hurricanes and tropical storms in the USA. Nat Hum Behav 9, 2589–2598 (2025)](blogs/NatHum/Behrer NatHum 202510.md)
 - [Boucherie, L., Maier, B.F. & Lehmann, S. Decoupling geographical constraints from human mobility. Nat Hum Behav 9, 2564–2575 (2025)](blogs/NatHum/Boucherie NatHum 202509.md)
 - [Han, Y., Liao, P., Li, W. et al. Visitation patterns reveal service access disparities for ageing populations in the USA. Nat Hum Behav 9, 2370–2381 (2025)](blogs/NatHum/Han NatHum 202508.md)
 - [Newman, D.B., Gordon, A.M. & Mendes, W.B. Income and education show distinct links to health and happiness in daily life. Nat Hum Behav 9, 2299–2312 (2025)](blogs/NatHum/Newman NatHum 202508.md)
