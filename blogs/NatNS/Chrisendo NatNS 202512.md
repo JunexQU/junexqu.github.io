@@ -18,10 +18,8 @@ title: Chrisendo, D., Niva, V., Hoffmann, R. et al. Rising income inequality acr
 ### **Data Source**
 - World income inequality
 
-
 ### **Findings:**
 
-- The extent of the global terrestrial land influenced by moderate to very high extra-urban road traffic increased by 53% since 1975
 <center>
 <img src="/blogs/review.assets/NatNS/Chrisendo NatNS 20251201.png">
 </center>
@@ -43,4 +41,5 @@ title: Chrisendo, D., Niva, V., Hoffmann, R. et al. Rising income inequality acr
 </center>
 
 ### **Coding Reference:**
+
 - [R](https://github.com/mattikummu/subnatGini)
