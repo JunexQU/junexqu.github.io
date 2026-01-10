@@ -44,6 +44,7 @@ title: Nature Review
 - [Jenn, A. Emissions benefits of electric vehicles in Uber and Lyft ride-hailing services. Nat Energy 5, 520–525 (2020)](blogs/Jenn NE2020.md)
 
 ### Nature Sustainability
+- [Chrisendo, D., Niva, V., Hoffmann, R. et al. Rising income inequality across half of global population and socioecological implications. Nat Sustain 8, 1601–1613 (2025)](blogs/NatNS/Chrisendo NatNS 202512.md)
 - [van Strien, M.J., Grêt-Regamey, A. Global expansion of the ecological impact of extra-urban road traffic. Nat Sustain 8, 1294–1303 (2025)](blogs/NatNS/vanStrien NatNS 202509.md)
 - [Zhao, J., Mo, B., Caros, N.S. et al. Housing exchange framework to reduce carbon emissions from commuting. Nat Sustain 8, 1259–1269 (2025)](blogs/NatNS/Zhao NatNS 202510.md)
 - [Yap, W., Wu, A.N., Miller, C. et al. Revealing building operating carbon dynamics for multiple cities. Nat Sustain 8, 1199–1210 (2025)](blogs/NatNS/Yep NatNS 202508.md)
