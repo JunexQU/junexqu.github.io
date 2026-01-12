@@ -47,6 +47,7 @@ title: Science & PNAS Review
 - [**Barrington-Leigh, Christopher, and Adam Millard-Ball. Global trends toward urban street-network sprawl. Proceedings of the National Academy of Sciences 117.4 (2020)**](science/Barrington PNAS2020.md)
 
 ## Nature Communication 2025
+- [Zhou, Y., Lu, Y. Varying relationships between experienced income segregation and travel behaviour across neighbourhood social and urban contexts. Nat Commun 16, 11236 (2025)](science/NatCom/Zhou NatCom 202512.md)
 - [Agostini, G., Young, R., Fitzpatrick, M. et al. Inferring fine-grained migration patterns across the United States. Nat Commun (2025)](science/NatCom/Agostini NatCom 202512.md)
 - [Li, K., Li, X., Xiong, Z. et al. Unlocking vehicle-to-grid potential of load shifting in China’s megacities considering comprehensive real-world behaviors. Nat Commun 16, 10087 (2025)](science/NatCom/Li NatCom 202511.md)
 - [Martin, S., Powell, S. & Rajagopal, R. Cascading marginal emissions signals for green charging with growing electric vehicle adoption. Nat Commun 16, 10150 (2025)](science/NatCom/Martin NatCom 202511.md)
