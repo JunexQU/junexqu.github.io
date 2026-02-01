@@ -132,6 +132,7 @@ title: Nature Review
 - [Milovanoff, A., Posen, I.D. & MacLean, H.L. Electrification of light-duty vehicle fleet alone will not meet mitigation targets. Nat. Clim. Chang. 10, 1102–1107 (2020)](blogs/Milovanoff 2020.md)
 
 ### Nature Cities
+- [Yu, C., Yuan, Q., Goodchild, A. et al. Increasing nationwide disparities in road freight emissions across cities. Nat Cities 3, 28–37 (2026)](blogs/NatCit/Yu NatCit 202601.md)
 - [Chen, Z., Litvine, A. & Shaw-Taylor, L. Railways and urban scaling in England and Wales over 190 years of development. Nat Cities 2, 1240–1250 (2025)](blogs/NatCit/Chen NatCit 202512.md)
 - [Renninger, A., O’Clery, N. & Arcaute, E. US cities are defined by rings and pockets with limited socioeconomic mixing. Nat Cities 2, 1172–1182 (2025)](blogs/NatCit/Renninger NatCit 202512.md)
 - [Prieto-Curiel, R., Luengas-Sierra, P. & Borja-Vega, C. Urban sprawl is associated with reduced access and increased costs of water and sanitation. Nat Cities 2, 1148–1159 (2025)](blogs/NatCit/Prieto NatCit 202512.md)
