@@ -1,42 +1,51 @@
 ---
 layout: page
-permalink: /blogs/Deng, Y., Cao, K., Chen, M. et al. Regulatory effect of China’s city hierarchy on urban redevelopment. Nat Cities/index.html
-title: Deng, Y., Cao, K., Chen, M. et al. Regulatory effect of China’s city hierarchy on urban redevelopment. Nat Cities
+permalink: /blogs/Amico, A., Duarte, F., Liao, WC. et al. Air connectivity boosts urban attractiveness for global firms. Nat Cities/index.html
+title: Amico, A., Duarte, F., Liao, WC. et al. Air connectivity boosts urban attractiveness for global firms. Nat Cities
 ---
 
-## [Deng, Y., Cao, K., Chen, M. et al. Regulatory effect of China’s city hierarchy on urban redevelopment. Nat Cities](https://doi.org/10.1038/s44284-025-00360-5)
+## [Amico, A., Duarte, F., Liao, WC. et al. Air connectivity boosts urban attractiveness for global firms. Nat Cities](https://doi.org/10.1038/s44284-025-00361-4)
 
 ### **Objective:**
-- Shed light on where, how and what extent higher-ranking cities facilitate or hinder redevelopment
+- Examine the role of air connectivity in over 800 airport cities across 142 countries between 1993 and 2023
 
 ### **Case:**
-- China
+- Global 
 
 ### **Methodology:**
-- Multi-level model
-- Mediator 
+- Fixed effect regression
 
 ### **Data Source**
-- Land price
+- Firms
+- Air route
 
 ### **Findings:**
 
-- Higher-ranked cities tend to prioritize government regulation over market forces, whereas lower-ranked cities rely more on market-oriented approaches
+- Reductions in layovers are associated with a greater presence of subsidiaries in destination cities
 <center>
-<img src="/blogs/review.assets/NatCit/Deng NatCit 20260101.png">
+<img src="/blogs/review.assets/NatCit/Amico NatCit 20260101.png">
+</center>
+
+- Face-to-face-relient firms are more responsive to air connectivity
+<center>
+<img src="/blogs/review.assets/NatCit/Amico NatCit 20260102.png">
 </center>
 
 <center>
-<img src="/blogs/review.assets/NatCit/Deng NatCit 20260102.png">
+<img src="/blogs/review.assets/NatCit/Amico NatCit 20260103.png">
 </center>
 
 <center>
-<img src="/blogs/review.assets/NatCit/Deng NatCit 20260103.png">
+<img src="/blogs/review.assets/NatCit/Amico NatCit 20260104.png">
 </center>
 
 <center>
-<img src="/blogs/review.assets/NatCit/Deng NatCit 20260104.png">
+<img src="/blogs/review.assets/NatCit/Amico NatCit 20260105.png">
+</center>
+
+<center>
+<img src="/blogs/review.assets/NatCit/Amico NatCit 20260106.png">
 </center>
 
 ### **Coding Reference:**
-- Upon request
+- Cannot Open
