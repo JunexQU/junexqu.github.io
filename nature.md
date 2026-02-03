@@ -132,6 +132,7 @@ title: Nature Review
 - [Milovanoff, A., Posen, I.D. & MacLean, H.L. Electrification of light-duty vehicle fleet alone will not meet mitigation targets. Nat. Clim. Chang. 10, 1102–1107 (2020)](blogs/Milovanoff 2020.md)
 
 ### Nature Cities
+- [Amico, A., Duarte, F., Liao, WC. et al. Air connectivity boosts urban attractiveness for global firms. Nat Cities 3, 78–88 (2026)](blogs/NatCit/Amico NatCit 202601.md)
 - [Deng, Y., Cao, K., Chen, M. et al. Regulatory effect of China’s city hierarchy on urban redevelopment. Nat Cities 3, 48–57 (2026)](blogs/NatCit/Deng NatCit 202601.md)
 - [Yu, C., Yuan, Q., Goodchild, A. et al. Increasing nationwide disparities in road freight emissions across cities. Nat Cities 3, 28–37 (2026)](blogs/NatCit/Yu NatCit 202601.md)
 - [Chen, Z., Litvine, A. & Shaw-Taylor, L. Railways and urban scaling in England and Wales over 190 years of development. Nat Cities 2, 1240–1250 (2025)](blogs/NatCit/Chen NatCit 202512.md)
