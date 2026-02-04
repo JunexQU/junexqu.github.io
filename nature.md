@@ -26,6 +26,7 @@ title: Nature Review
 - [**Weiss, D., Nelson, A., Gibson, H. et al. A global map of travel time to cities to assess inequalities in accessibility in 2015. Nature 553, 333–336 (2018)**](blogs/Weiss2018.md)
 
 ### Nature Energy
+- [Yang, Y., Raman, G. & Peng, J.CH. Shaping residential electricity demand with negative pricing. Nat Energy 11, 58–65 (2026)](blogs/NatEne/Yang NatEne 202511.md)
 - [Chen, J., Anderson, J.E., De Kleine, R. et al. Vehicle-to-home charging can cut costs and greenhouse gas emissions across the USA. Nat Energy 10, 1458–1469 (2025)](blogs/NatEne/Chen NatEne 202512.md)
 - [van Heerden, R., Edelenbosch, O.Y., Daioglou, V. et al. Demand-side strategies enable rapid and deep cuts in buildings and transport emissions to 2050. Nat Energy 10, 380–394 (2025)](blogs/NatEne/vanHeerden NatEne 202502.md)
 - [Zhao, P., Zhang, S., Santi, P. et al. Challenges and opportunities in truck electrification revealed by big operational data. Nat Energy 9, 1427–1437 (2024)](blogs/Zhao NatEnergy 202408.md)
