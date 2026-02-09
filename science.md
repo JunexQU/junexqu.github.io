@@ -53,11 +53,12 @@ title: Science & PNAS Review
 ## Nature Communication 2025
 - [Zhou, Y., Lu, Y. Varying relationships between experienced income segregation and travel behaviour across neighbourhood social and urban contexts. Nat Commun 16, 11236 (2025)](science/NatCom/Zhou NatCom 202512.md)
 - [Agostini, G., Young, R., Fitzpatrick, M. et al. Inferring fine-grained migration patterns across the United States. Nat Commun (2025)](science/NatCom/Agostini NatCom 202512.md)
+- [Zhou, Y., Lu, Y. Varying relationships between experienced income segregation and travel behaviour across neighbourhood social and urban contexts. Nat Commun 16, 11236 (2025)](science/NatCom/Zhou NatCom 202512.md)
 - [Li, K., Li, X., Xiong, Z. et al. Unlocking vehicle-to-grid potential of load shifting in China’s megacities considering comprehensive real-world behaviors. Nat Commun 16, 10087 (2025)](science/NatCom/Li NatCom 202511.md)
 - [Martin, S., Powell, S. & Rajagopal, R. Cascading marginal emissions signals for green charging with growing electric vehicle adoption. Nat Commun 16, 10150 (2025)](science/NatCom/Martin NatCom 202511.md)
 - [McNerney, J., Li, Y., Gomez-Lievano, A. et al. Bridging the short-term and long-term dynamics of economic structural change. Nat Commun 16, 10225 (2025)](science/NatCom/McNerney NatCom 202511.md)
 - [Wu, S., Chen, B., An, J. et al. Measuring global human accessibility to essential daily necessities and services. Nat Commun 16, 10709 (2025)](science/NatCom/Wu NatCom 202511.md)
-- [Zhao, P., Li, Y., Zhang, C. et al. Arctic Sea Route access reshapes global shipping carbon emissions. Nat Commun 16, 8431 (2025)](science/NatCom/Zhao NatCom 202510.md)
+- [Xu, Y., Gao, S., Huang, Q. et al. Predicting human mobility flows in cities using deep learning on satellite imagery. Nat Commun 16, 10372 (2025)](science/NatCom/Xu NatCom 202511.md)
 - [Chen, Y., Wang, Z., Wen, Q. et al. A building-scale modeling framework for urban net-zero transitions in Nanjing. Nat Commun 16, 8954 (2025)](science/NatCom/Chen NatCom 202510.md)
 - [Wessel, J., Chowdhury, A.K., Wild, T. et al. Regional coordination can alleviate the cost burden of a low-carbon electricity system. Nat Commun 16, 9033 (2025)](science/NatCom/Wessel NatCom 202510.md)
 - [Schechtl, M. The association between childhood exposure to local wealth inequality and intergenerational income mobility in the United States. Nat Commun 16, 9164 (2025)](science/NatCom/Schehtl NatCom 202510.md)
