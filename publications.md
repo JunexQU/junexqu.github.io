@@ -9,8 +9,8 @@ title: Publications
 - **Junxi Qu & Tianren Yang**. Working population by workplace and residence geography in China. **Drafted**.
 
 ## Under Review
-- **Junxi Qu & Tianren Yang**. Predicting Urban Futures: Paradigm Shifts in Urban Modelling from Lowry to Artificial Intelligence. *Prepared to Submit*.
-- **Qu & Qiao**. Measuring Social–Spatial Segregation. *Under review in Annals of the American Association of Geographers*.
+- **Junxi Qu**, Lingkun Meng & Tianren Yang. Predicting Urban Futures: Paradigm Shifts in Urban Modelling from Lowry to Artificial Intelligence. *Under Review in Progress in Human Geography*.
+- **Junxi Qu** & Si Qiao. Measuring Social–Spatial Segregation. *Under review in Annals of the American Association of Geographers*.
 - Qiao, **Qu**, Chen, Pradhananga, Chow, Grusky, & Yeh. (2025). Blurring the Line: How Jobs–Housing Location Trade-Offs Redefine Urban Boundaries. *Prepared to Submit*.
 - **Junxi Qu** & Tianren Yang. Data-Driven Identification and Attribution of Core-Periphery Structure in Multi-Layer City Networks. *Submitted to AAAG*.
 - **Junxi Qu** & Qiao. What Does a Resilient City Look Like? A Mobility Lens on Functional Reconfiguration. *Under Review in Transportmetric B*.
