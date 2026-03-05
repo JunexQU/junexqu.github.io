@@ -48,6 +48,7 @@ title: Science & PNAS Review
 - [**Barrington-Leigh, Christopher, and Adam Millard-Ball. Global trends toward urban street-network sprawl. Proceedings of the National Academy of Sciences 117.4 (2020)**](science/Barrington PNAS2020.md)
 
 ## Nature Communication 2026
+- [Li, Y., Zhong, X., Derudder, B. et al. Global increases in built-up volume indicate more divergent and less dispersed urban expansion patterns. Nat Commun (2026)](science/NatCom/Li NatCom 202602.md)
 - [Di Domenico, L., Bosetti, P., Sabbatini, C.E. et al. Mobility-driven synthetic contact matrices as a scalable solution for real-time pandemic response modeling. Nat Commun (2026)](science/NatCom/Domenico NatCom 202601.md)
 
 ## Nature Communication 2025
