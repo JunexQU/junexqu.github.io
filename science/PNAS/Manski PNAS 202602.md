@@ -7,7 +7,6 @@ title: C.F. Manski,  What is the general Welfare: Welfare economic perspectives 
 ## [C.F. Manski,  What is the general Welfare: Welfare economic perspectives on equity, Proc. Natl. Acad. Sci](https://doi.org/10.1073/pnas.2529376123)
 
 ### **Objective:**
-- Understand the ways in which social networks influence international migration
 
 ### **Case:**
 - Not Applicable
