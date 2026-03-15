@@ -10,6 +10,7 @@ title: Science & PNAS Review
 - [**Chaopeng Hong et al. ,Land-use emissions embodied in international trade.Science376,597-603(2022)**](science/Hong Science202205.md)
 
 ## PNAS
+- [C.F. Manski,  What is the general Welfare: Welfare economic perspectives on equity, Proc. Natl. Acad. Sci. U.S.A. 123 (7) e2529376123](science/PNAS/Manski PNAS 202602.md)
 - [K.A. Islam,A. Kishore,R. Meyur,S. Thorve,D.Q. Chen,H.V. Poor, & M.V. Marathe,  CHARGE-MAP: An integrated framework to study the multicriteria EV charging infrastructure expansion problem, Proc. Natl. Acad. Sci. U.S.A. 122 (51) e2514184122](science/PNAS/Islam PNAS 202511.md)
 - [A. Winbush,D. McDuff,J. Hernandez,A. Barakat,A. Jiang,C. Heneghan,B.W. Nelson, & N.B. Allen,  Smartphone use in a large US adult population: Temporal associations between objective measures of usage and mental well-being, Proc. Natl. Acad. Sci. U.S.A. 122 (43) e2427311122](science/PNAS/Winbush PNAS 202510.md)
 - [D.S. Seara,J. Colen,M. Fruchart,Y. Avni,D.G. Martin, & V. Vitelli,  Sociohydrodynamics: Data-driven modeling of social behavior, Proc. Natl. Acad. Sci. U.S.A. 122 (35) e2508692122](science/PNAS/Seara PNAS 202508.md)
