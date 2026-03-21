@@ -49,6 +49,7 @@ title: Science & PNAS Review
 - [**Barrington-Leigh, Christopher, and Adam Millard-Ball. Global trends toward urban street-network sprawl. Proceedings of the National Academy of Sciences 117.4 (2020)**](science/Barrington PNAS2020.md)
 
 ## Nature Communication 2026
+- [Gaskin, T., Demirel, G., Wolfram, MT. et al. Modelling global trade with optimal transport. Nat Commun (2026)](science/NatCom/Gaskin NatCom 202602.md)
 - [Quispe-Torreblanca, E., De Neve, JE. & Brown, G.D.A. Social status and the relationship between income rank and well-being in 109 nations. Nat Commun (2026)](science/NatCom/Quispe NatCom 202602.md)
 - [Li, Y., Zhong, X., Derudder, B. et al. Global increases in built-up volume indicate more divergent and less dispersed urban expansion patterns. Nat Commun (2026)](science/NatCom/Li NatCom 202602.md)
 - [Di Domenico, L., Bosetti, P., Sabbatini, C.E. et al. Mobility-driven synthetic contact matrices as a scalable solution for real-time pandemic response modeling. Nat Commun (2026)](science/NatCom/Domenico NatCom 202601.md)
