@@ -1,31 +1,32 @@
 ---
 layout: page
-permalink: /blogs/Li, Y., Zhong, X., Derudder, B. et al. Global increases in built-up volume indicate more divergent and less dispersed urban expansion patterns. Nat Commun/index.html
-title: Li, Y., Zhong, X., Derudder, B. et al. Global increases in built-up volume indicate more divergent and less dispersed urban expansion patterns. Nat Commun
+permalink: /blogs/Li, Z., Li, L., Hu, T. et al. Satellite mapping of every building’s function in urban China reveals deep built environment disparities. Nat Commun/index.html
+title: Li, Z., Li, L., Hu, T. et al. Satellite mapping of every building’s function in urban China reveals deep built environment disparities. Nat Commun
 ---
 
-## [Li, Y., Zhong, X., Derudder, B. et al. Global increases in built-up volume indicate more divergent and less dispersed urban expansion patterns. Nat Commun](https://doi.org/10.1038/s41467-026-69766-6)
+## [Li, Z., Li, L., Hu, T. et al. Satellite mapping of every building’s function in urban China reveals deep built environment disparities. Nat Commun](https://doi.org/10.1038/s41467-026-69589-5)
 
 ### **Objective:**
-- Characterize the centralization trends in the global urban expansion from both 2D and 3D perspectives and analyze the differences therein
+- Present SinoBF-1 to delineate 110 million buildings across 109 major cities
 
 ### **Case:**
-- Global cities
+- Chinese cities
 
 ### **Methodology:**
-- Machine learning
-- Centrality and intensity index
+- Deep learning
+- Diversity index (entropy)
+- Inequality (Gini)
 
 ### **Data Source**
-- GHSL
+- 1-meter satellite data
   
 ### **Findings:**
-- 3D expansion is generally more centralized than 2D expansion
+
+- Accessibility and amenity diversity decline sharply from top- to low-tier cities
 <center>
 <img src="/science/review.assets/NatCom/Li NatCom 20260201.png">
 </center>
 
-- 3D expansion patterns are closely associated with natural and socioeconomic conditions and display strong path dependency
 <center>
 <img src="/science/review.assets/NatCom/Li NatCom 20260202.png">
 </center>
@@ -38,5 +39,9 @@ title: Li, Y., Zhong, X., Derudder, B. et al. Global increases in built-up volum
 <img src="/science/review.assets/NatCom/Li NatCom 20260204.png">
 </center>
 
+<center>
+<img src="/science/review.assets/NatCom/Li NatCom 20260205.png">
+</center>
+
 ### **Coding Reference:**
-- [Python](https://zenodo.org/records/18314967)
+- [Python](https://github.com/LiZhuoHong/SinoBF-1/)
