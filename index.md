@@ -21,7 +21,7 @@ If your are interested in any aspect of me, I would love to chat and collaborate
 ---
 
 ## Employment
-
+- **Mar 2026 - Present:** Visiting Scholar, The Hong Kong University of Science and Technology (Guangzhou)
 - **Dec 2019 - Oct 2021:** Policy Analyst, Peking University-Lincoln Institute Center for Urban Development and Land Policy
 - **Nov 2021 - Aug 2022:** Research Assistant, Department of Urban Planning and Design, HKU
 
@@ -29,11 +29,13 @@ If your are interested in any aspect of me, I would love to chat and collaborate
 
 ## Research Interests
 
-- Integrated urban modeling
-- Network modeling
-- Sustainable development goals
+- Urban Simulation
+- Human Mobility
+- Intelligent Transport Systems (ITS)
+- Multimodal urban sensing
 
-My current research focuses on the relationship between tranport infrastructure and urban performance, highlighting the sustainable development. 
+My research uses mobile phone and transport data to analyse urban systems.
+It is evolving toward a multimodal framework integrating remote sensing, street view imagery, surveys, buildings, and weather data.
 
 ---
 
