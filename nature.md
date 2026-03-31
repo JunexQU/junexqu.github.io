@@ -134,6 +134,7 @@ title: Nature Review
 - [Milovanoff, A., Posen, I.D. & MacLean, H.L. Electrification of light-duty vehicle fleet alone will not meet mitigation targets. Nat. Clim. Chang. 10, 1102–1107 (2020)](blogs/Milovanoff 2020.md)
 
 ### Nature Cities
+- [Agarwal, S., Fan, Y., Qian, W. et al. Affordable public housing and intergenerational mobility. Nat Cities 3, 224–233 (2026)](blogs/NatCit/Agarwal NatCit 202601.md)
 - [Sevtsuk, A., Basu, R., Liu, L. et al. Spatial distribution of foot traffic in New York City and applications for urban planning. Nat Cities 3, 136–145 (2026)](blogs/NatCit/Sevtsuk NatCit 202602.md)
 - [Amico, A., Duarte, F., Liao, WC. et al. Air connectivity boosts urban attractiveness for global firms. Nat Cities 3, 78–88 (2026)](blogs/NatCit/Amico NatCit 202601.md)
 - [Deng, Y., Cao, K., Chen, M. et al. Regulatory effect of China’s city hierarchy on urban redevelopment. Nat Cities 3, 48–57 (2026)](blogs/NatCit/Deng NatCit 202601.md)
