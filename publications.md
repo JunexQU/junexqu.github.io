@@ -10,16 +10,17 @@ title: Publications
 
 ## Under Review
 - **李嘉 & 曲峻熙**. 2026. 宏观风险管理视角下的城市创新与房地产市场韧性. Under review in *中国软科学*
+- Si Qiao, **Junxi Qu**, Alex Chow; Sarah-Eve Dill; Anthony Gar-On Yeh. Residential Relocation and Cross-Income Exposure in Daily Life. *Under Review in Journal of Urban Economics*.
 - **Junxi Qu**, Lingkun Meng & Tianren Yang. Predicting Urban Futures: Paradigm Shifts in Urban Modelling from Lowry to Artificial Intelligence. *Under Review in Progress in Human Geography*.
-- **Junxi Qu** & Si Qiao. Measuring Social–Spatial Segregation. *Under review in Annals of the American Association of Geographers*.
-- Qiao, **Qu**, Chen, Pradhananga, Chow, Grusky, & Yeh. (2025). Blurring the Line: How Jobs–Housing Location Trade-Offs Redefine Urban Boundaries. *Prepared to Submit*.
+- **Junxi Qu** & Si Qiao. Measuring Social–Spatial Segregation. *Under review in Computers, Environment and Urban Systems*.
+- Qiao, **Qu**, Chen, Pradhananga, Chow, Grusky, & Yeh. (2025). Blurring the Line: How Jobs–Housing Location Trade-Offs Redefine Urban Boundaries. *Submited to Nature Communications*.
 - **Junxi Qu** & Tianren Yang. Data-Driven Identification and Attribution of Core-Periphery Structure in Multi-Layer City Networks. *Submitted to AAAG*.
-- **Junxi Qu** & Qiao. What Does a Resilient City Look Like? A Mobility Lens on Functional Reconfiguration. *Under Review in Transportmetric B*.
 - **Junxi Qu**, Lingkun Meng & Tianren Yang. Measuring Spatial Inequality using Multi-layer Urban Networks: Nationwide Evidence from Chinese Counties. *Under Review in Applied Geography*.
 - **Junxi Qu** & Tianren Yang. A Multi-Objective Deep Learning Model for Predicting Spatial Inequality Across Multi-Layer City Networks. *Under Review in Computers, Environment and Urban Systems*.
 - **Junxi Qu** & Si Qiao. How Urban Vitality Shapes Cycling Behaviour in the Age of Dock-less Shared Bikes. *Under Review in Cities*.
 
 ## Journal Article
+- **Junxi Qu** & Si Qiao. What Does a Resilient City Look Like? A Mobility Lens on Functional Reconfiguration. Transportmetrica B: Transport Dynamics. *Forthcoming*.
 - **Qu, J.,** Ma, X., Zhou, Y., Chen, X., & Yang, T. (2025). Fine-grained analysis of transport-demographic relationships: County-level responses to multimodal connectivity across metropolitan and peripheral China. Transportation Research Part A: Policy and Practice, 199, 104572.
 - **Qu, J.,** Yang, T., Nam, K. M., Kim, E., Chen, Y., & Liu, X. (2024). Transport network changes and varying socioeconomic effects across China's Yangtze River Delta. Journal of Transport Geography, 121, 104051.
 
