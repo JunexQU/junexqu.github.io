@@ -9,7 +9,7 @@ title: Publications
 - **Junxi Qu & Tianren Yang**. Working population by workplace and residence geography in China. **Drafted**.
 
 ## Under Review
-- **Junxi Qu** && Si Qiao. Emergent scaling laws of global commuting shaped by coupled spatial constraints. Prepared to submit.
+- **Junxi Qu** & Si Qiao. Emergent scaling laws of global commuting shaped by coupled spatial constraints. Prepared to submit.
 - **李嘉 & 曲峻熙**. 2026. 宏观风险管理视角下的城市创新与房地产市场韧性. Under review in *中国软科学*
 - Si Qiao, **Junxi Qu**, Alex Chow; Sarah-Eve Dill; Anthony Gar-On Yeh. Residential Relocation and Cross-Income Exposure in Daily Life. *Under Review in Journal of Urban Economics*.
 - **Junxi Qu**, Lingkun Meng & Tianren Yang. Predicting Urban Futures: Paradigm Shifts in Urban Modelling from Lowry to Artificial Intelligence. *Minor Revision from Progress in Human Geography*.
