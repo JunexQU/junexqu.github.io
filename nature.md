@@ -6,6 +6,7 @@ title: Nature Review
 
 ## Literature Review
 ### Nature
+- [Li, T., Wang, Z., Kyba, C.C.M. et al. Satellite imagery reveals increasing volatility in human night-time activity. Nature 652, 379–386 (2026)](blogs/NatEne/Li Nat 202604.md)
 - [Huang, T., Zanocco, C., Wang, Z. et al. Built environment disparities are amplified during extreme weather recovery. Nature 648, 349–356 (2025)](blogs/NatEne/Huang Nature 202512.md)
 - [Althoff, T., Ivanovic, B., King, A.C. et al. Countrywide natural experiment links built environment to physical activity. Nature 645, 407–413 (2025)](blogs/NatEne/Althoff Nat 202508.md)
 - [Liao, S., Pan, W., Wen, L. et al. Temperature-related hospitalization burden under climate change. Nature 644, 960–968 (2025)](blogs/NatEne/LiaoS Nature 202507.md)
