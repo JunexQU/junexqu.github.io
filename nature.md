@@ -135,6 +135,7 @@ title: Nature Review
 - [Milovanoff, A., Posen, I.D. & MacLean, H.L. Electrification of light-duty vehicle fleet alone will not meet mitigation targets. Nat. Clim. Chang. 10, 1102–1107 (2020)](blogs/Milovanoff 2020.md)
 
 ### Nature Cities
+- [Zhu, S., Liu, Z. & He, C. China’s high-speed rail widens urban–rural disparities in air pollution and public health. Nat Cities 3, 347–358 (2026)](blogs/NatCit/Zhu NatCit 202603.md)
 - [Sheng, H., He, C. & Hu, W. Intercity economic ties amplify natural disasters spillovers in China. Nat Cities 3, 283–292 (2026)](blogs/NatCit/Sheng NatCit 202603.md)
 - [Ma, Y., Qiu, M., Wang, Y. et al. Empirical evidence of air pollution reduction from electric vehicle usage across Chinese cities. Nat Cities 3, 251–260 (2026)](blogs/NatCit/Ma NatCit 202603.md)
 - [Agarwal, S., Fan, Y., Qian, W. et al. Affordable public housing and intergenerational mobility. Nat Cities 3, 224–233 (2026)](blogs/NatCit/Agarwal NatCit 202601.md)
