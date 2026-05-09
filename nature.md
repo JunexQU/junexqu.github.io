@@ -108,6 +108,7 @@ title: Nature Review
 - [Xu, F., Li, Y., Jin, D. et al. Emergence of urban growth patterns from human mobility behavior. Nat Comput Sci 1, 791–800 (2021)](blogs/NatCS/Xu NatCS 202109.md)
 
 ### Nature Climate Change
+- [Wang, J., Wang, P., Hsu, SC. et al. International trade reduces emissions through technology transfer led by key emitters. Nat. Clim. Chang. 16, 451–459 (2026)](blogs/NatNCC/Wang NatNCC 202603.md)
 - [Chen, S., Liu, Y., Yi, Y. et al. Long-term impacts of heatwaves on accelerated ageing. Nat. Clim. Chang. 15, 1000–1007 (2025)](blogs/NatNCC/ChenS NatNCC 202508.md)
 - [Li, P., Zhu, R., McJeon, H. et al. Using deep learning to generate key variables in global mitigation scenarios. Nat. Clim. Chang. 15, 760–768 (2025)](blogs/NatNCC/LiP NatNCC 202506.md)
 - [Vivier, L., Mastrucci, A. & van Ruijven, B. Meeting climate target with realistic demand-side policies in the residential sector. Nat. Clim. Chang. 15, 744–751 (2025)](blogs/NatNCC/Vivier NatNCC 202506.md)
