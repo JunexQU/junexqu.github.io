@@ -49,6 +49,7 @@ title: Science & PNAS Review
 - [**Barrington-Leigh, Christopher, and Adam Millard-Ball. Global trends toward urban street-network sprawl. Proceedings of the National Academy of Sciences 117.4 (2020)**](science/Barrington PNAS2020.md)
 
 ## Nature Communication 2026
+- [Xu, X., Ou, S., Peng, T. et al. The potential role of truck-hailing and operational efficiency improvement in China’s road freight decarbonization. Nat Commun (2026)](science/NatCom/Xu NatCom 202604.md)
 - [Deng, Y., Wu, J., Lu, X. et al. Community structure unveils the path multiplicity in complex networks. Nat Commun 17, 2283 (2026)](science/NatCom/Deng NatCom 202603.md)
 - [Nakis, N., Lehmann, S., Christakis, N.A. et al. Modeling roles and trade-offs in multiplex networks. Nat Commun (2026)](science/NatCom/Nakis NatCom 202603.md)
 - [Eichholtz, P., Kok, N. & Sun, X. The impact of minimum energy performance standards on the commercial real estate market. Nat Commun (2026)](science/NatCom/Eichholtz NatCom 202603.md)
