@@ -49,6 +49,7 @@ title: Science & PNAS Review
 - [**Barrington-Leigh, Christopher, and Adam Millard-Ball. Global trends toward urban street-network sprawl. Proceedings of the National Academy of Sciences 117.4 (2020)**](science/Barrington PNAS2020.md)
 
 ## Nature Communication 2026
+- [Ronco, M., Tilloy, A., Corbane, C. et al. Compounding hazards increase flood economic losses across Europe. Nat Commun (2026)](science/NatCom/Ronco NatCom 202605.md)
 - [Malekzadeh, M., Väisänen, T., Panori, A. et al. How regional characteristics drive various human mobility types across Europe. Nat Commun (2026)](science/NatCom/Malekzadeh NatCom 202605.md)
 - [Zhang, J., Deng, C., Yang, L. et al. A scalable and generic framework for city-wide traffic prediction with large language model. Nat Commun (2026)](science/NatCom/Zhang NatCom 202605.md)
 - [Zhu, L., Wang, F., Nielsen, C.P. et al. Optimized spatial planning offers a dual solution for managing urban heat and air pollution in humid subtropical climates. Nat Commun (2026)](science/NatCom/Zhu NatCom 202605.md)
