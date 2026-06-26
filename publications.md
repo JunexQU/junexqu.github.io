@@ -10,9 +10,7 @@ title: Publications
 
 ## Under Review
 - **Junxi Qu** & Si Qiao. Emergent scaling laws of global commuting shaped by coupled spatial constraints. Prepared to submit.
-- **李嘉 & 曲峻熙**. 2026. 宏观风险管理视角下的城市创新与房地产市场韧性. Under review in *中国软科学*
 - Si Qiao, **Junxi Qu**, Alex Chow; Sarah-Eve Dill; Anthony Gar-On Yeh. Residential Relocation and Cross-Income Exposure in Daily Life. *Under Review in Journal of Urban Economics*.
-- **Junxi Qu**, Lingkun Meng & Tianren Yang. Predicting Urban Futures: Paradigm Shifts in Urban Modelling from Lowry to Artificial Intelligence. *Minor Revision from Progress in Human Geography*.
 - **Junxi Qu** & Si Qiao. Measuring Social–Spatial Segregation. *Under review in Computers, Environment and Urban Systems*.
 - Qiao, **Qu**, Chen, Pradhananga, Chow, Grusky, & Yeh. (2025). Blurring the Line: How Jobs–Housing Location Trade-Offs Redefine Urban Boundaries. *Submited to Nature Communications*.
 - **Junxi Qu** & Tianren Yang. Data-Driven Identification and Attribution of Core-Periphery Structure in Multi-Layer City Networks. *Submitted to AAAG*.
@@ -21,12 +19,14 @@ title: Publications
 - **Junxi Qu** & Si Qiao. How Urban Vitality Shapes Cycling Behaviour in the Age of Dock-less Shared Bikes. *Under Review in Cities*.
 
 ## Journal Article
+- **Junxi Qu**, Lingkun Meng & Tianren Yang. Predicting Urban Futures: Paradigm Shifts in Urban Modelling from Lowry to Artificial Intelligence. Progress in Human Geography. (Accept)
 - **Qu, J.,** & Qiao, S. (2026). What does a resilient city look like? A mobility lens on functional reconfiguration. Transportmetrica B: Transport Dynamics, 14(1), 2659112.
 - **Qu, J.,** Ma, X., Zhou, Y., Chen, X., & Yang, T. (2025). Fine-grained analysis of transport-demographic relationships: County-level responses to multimodal connectivity across metropolitan and peripheral China. Transportation Research Part A: Policy and Practice, 199, 104572.
 - **Qu, J.,** Yang, T., Nam, K. M., Kim, E., Chen, Y., & Liu, X. (2024). Transport network changes and varying socioeconomic effects across China's Yangtze River Delta. Journal of Transport Geography, 121, 104051.
 
 ## 中文期刊
-- 李嘉,曲峻熙* & 董亚宁.(2025).房地产市场的双重信号效应与城市创新. 经济管理(10),86-109.
+- 李嘉 & **曲峻熙**. 2026. 宏观风险管理视角下的城市创新与房地产市场韧性. *中国软科学*. (接收)
+- 李嘉,曲峻熙 & 董亚宁.(2025).房地产市场的双重信号效应与城市创新. 经济管理(10),86-109.
 - 宋洋,贺灿飞,徐阳 & 曲峻熙.(2023).中国城市公园绿地供需时空格局演化及驱动机制. 自然资源学报(05),1194-1209. 
 - 杨天人,吴志强,潘起胜,曲峻熙 & 金鹰.(2022).城市发展的模拟与预测——研究进展、发展挑战与未来展望. 国际城市规划(06),1-8.
 - 张明斗 & 曲峻熙.(2020).城市收缩对经济发展的影响研究.城市发展研究,27(05),50-57.
