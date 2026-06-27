@@ -23,31 +23,31 @@ title: S. Ojha,A. Anupriya,D. Hörcher, & D.J. Graham,  Uncovering how transport
 ### **Findings:**
 - Gravity and cumulative oppotunity measures display similar linear behavior, in constrast to the strong nonlinearity of the random-utility measure
 <center>
-<img src="/blogs/review.assets/PNAS/Ojha PNAS 20260401.png">
+<img src="/science/review.assets/PNAS/Ojha PNAS 20260401.png">
 </center>
 
 <center>
-<img src="/blogs/review.assets/PNAS/Ojha PNAS 20260402.png">
+<img src="/science/review.assets/PNAS/Ojha PNAS 20260402.png">
 </center>
 
 <center>
-<img src="/blogs/review.assets/PNAS/Ojha PNAS 20260403.png">
+<img src="/science/review.assets/PNAS/Ojha PNAS 20260403.png">
 </center>
 
 <center>
-<img src="/blogs/review.assets/PNAS/Ojha PNAS 20260404.png">
+<img src="/science/review.assets/PNAS/Ojha PNAS 20260404.png">
 </center>
 
 <center>
-<img src="/blogs/review.assets/PNAS/Ojha PNAS 20260405.png">
+<img src="/science/review.assets/PNAS/Ojha PNAS 20260405.png">
 </center>
 
 <center>
-<img src="/blogs/review.assets/PNAS/Ojha PNAS 20260406.png">
+<img src="/science/review.assets/PNAS/Ojha PNAS 20260406.png">
 </center>
 
 <center>
-<img src="/blogs/review.assets/PNAS/Ojha PNAS 20260407.png">
+<img src="/science/review.assets/PNAS/Ojha PNAS 20260407.png">
 </center>
 
 
