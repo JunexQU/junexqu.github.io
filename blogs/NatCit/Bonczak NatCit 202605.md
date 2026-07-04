@@ -10,10 +10,10 @@ title: Bonczak, B., Angel, S. & Kontokosta, C.E. Commuter loss and retention in 
 - Analyse the changes in commute pattern from 2019 to 2024 and the effects on work-related mobility activity in cities across the USA as a measure of local and regional economic resilience
 
 ### **Case:**
-- China
+- US
 
 ### **Methodology:**
-- Mileage-based emission
+- Regression
 
 ### **Data Source**
 - Mobile phone (Advan)
