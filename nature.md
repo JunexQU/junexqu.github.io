@@ -136,6 +136,7 @@ title: Nature Review
 - [Milovanoff, A., Posen, I.D. & MacLean, H.L. Electrification of light-duty vehicle fleet alone will not meet mitigation targets. Nat. Clim. Chang. 10, 1102–1107 (2020)](blogs/Milovanoff 2020.md)
 
 ### Nature Cities
+- [Duran-Sala, M., Hendrick, M. & Manoli, G. Scaling intra-urban climate fluctuations. Nat Cities 3, 545–554 (2026)](blogs/NatCit/Duran-Sala NatCit 202605.md)
 - [Xiang, B., Hong, M., Guo, F. et al. Unequal spatial patterns and differentiated city roles in the intercity telemedicine system. Nat Cities 3, 523–534 (2026)](blogs/NatCit/Xiang NatCit 202605.md)
 - [Bonczak, B., Angel, S. & Kontokosta, C.E. Commuter loss and retention in US employment centers during COVID-19 and its aftermath. Nat Cities 3, 486–499 (2026)](blogs/NatCit/Bonczak NatCit 202605.md)
 - [Hong, Z., Li, Z., Zhong, S. et al. Decarbonizing emissions from last-mile deliveries in Chinese cities. Nat Cities 3, 458–466 (2026)](blogs/NatCit/Hong NatCit 202604.md)
