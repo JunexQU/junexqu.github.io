@@ -50,6 +50,7 @@ title: Science & PNAS Review
 - [**Barrington-Leigh, Christopher, and Adam Millard-Ball. Global trends toward urban street-network sprawl. Proceedings of the National Academy of Sciences 117.4 (2020)**](science/Barrington PNAS2020.md)
 
 ## Nature Communication 2026
+- [Kimsanova, B., Herzfeld, T., Umirbekov, A. et al. Household mobility responses to weather extremes in Kyrgyzstan. Nat Commun 17, 5629 (2026)](science/NatCom/Kimsanova NatCom 202606.md)
 - [Huang, C., Liu, X., Zhang, S. et al. A universal scaling law of intra-urban inequality. Nat Commun (2026)](science/NatCom/Huang NatCom 202605.md)
 - [Ronco, M., Tilloy, A., Corbane, C. et al. Compounding hazards increase flood economic losses across Europe. Nat Commun (2026)](science/NatCom/Ronco NatCom 202605.md)
 - [Malekzadeh, M., Väisänen, T., Panori, A. et al. How regional characteristics drive various human mobility types across Europe. Nat Commun (2026)](science/NatCom/Malekzadeh NatCom 202605.md)
