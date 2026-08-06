@@ -8,7 +8,7 @@ layout: page
 
 Here is **Junxi Qu (Junex, 曲峻熙)**.
 
-I'm a PhD researcher majoring in multimodal urban sensing and AI-driven urban simulation, advised by [Prof. Tianren Yang](https://scholar.google.com.hk/citations?hl=zh-CN&user=uAMK7LcAAAAJ) at The University of Hong Kong and Prof. Si Qiao at The Hong Kong University of Science and Technology (Guangzhou).
+I'm a researcher focusing on multimodal urban sensing and AI-driven urban simulation, advised by [Prof. Tianren Yang](https://scholar.google.com.hk/citations?hl=zh-CN&user=uAMK7LcAAAAJ) at The University of Hong Kong and Prof. Si Qiao at The Hong Kong University of Science and Technology (Guangzhou).
 
 If your are interested in any aspect of me, I would like to chat and collaborate, please email me at - *qujunxi@connect.hku.hk*
 
