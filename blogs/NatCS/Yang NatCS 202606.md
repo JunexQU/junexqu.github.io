@@ -7,7 +7,7 @@ title: Yang, J., Huang, S., Huang, Z. et al. Transferable human mobility network
 ## [Yang, J., Huang, S., Huang, Z. et al. Transferable human mobility network reconstruction with neuroGravity. Nat Comput Sci](https://doi.org/10.1038/s43588-026-01003-y)
 
 ### **Objective:**
-- develop neuroGravity, a physics-informed deep learning model that reliably reconstructs mobility flows from limited observations and transfers to unobserved cities
+- Develop neuroGravity, a physics-informed deep learning model that reliably reconstructs mobility flows from limited observations and transfers to unobserved cities
 
 ### **Case:**
 - Global countries
