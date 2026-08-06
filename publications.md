@@ -9,6 +9,9 @@ title: Publications
 - **Junxi Qu & Tianren Yang**. Working population by workplace and residence geography in China. **Drafted**.
 
 ## Under Review
+- **Junxi Qu**, & Si Qiao. Individual Inequalities in Travel Carbon Emissions across the United States. In Progress.
+- **Junxi Qu**, Tianren Yang, & Si Qiao. Predictability Analysis of Individual Activity Chains via Multimodal Urban Sensing and Spatiotemporal Neural Networks. Submitted to Neurocomputing.
+- Chen, Lv, Xu, & **Qu***. Dual Dimensions of Innovation Activity and Entrepreneurial Entry: The Roles of Citation Network, Semantic Linkages, and Intellectual Property Protection. Submitted to Research Policy.
 - **Junxi Qu** & Si Qiao. Emergent scaling laws of global commuting shaped by coupled spatial constraints. Prepared to submit.
 - Si Qiao, **Junxi Qu**, Alex Chow; Sarah-Eve Dill; Anthony Gar-On Yeh. Residential Relocation and Cross-Income Exposure in Daily Life. *Under Review in Journal of Urban Economics*.
 - **Junxi Qu** & Si Qiao. Measuring Social–Spatial Segregation. *Under review in Computers, Environment and Urban Systems*.
