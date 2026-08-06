@@ -9,6 +9,7 @@ title: Publications
 - **Junxi Qu & Tianren Yang**. Working population by workplace and residence geography in China. **Drafted**.
 
 ## Under Review
+- **Junxi Qu**, & Si Qiao. Deep Learning Global Commuting Geography. In Progress.
 - **Junxi Qu**, & Si Qiao. Individual Inequalities in Travel Carbon Emissions across the United States. In Progress.
 - **Junxi Qu**, Tianren Yang, & Si Qiao. Predictability Analysis of Individual Activity Chains via Multimodal Urban Sensing and Spatiotemporal Neural Networks. Submitted to Neurocomputing.
 - Chen, Lv, Xu, & **Qu***. Dual Dimensions of Innovation Activity and Entrepreneurial Entry: The Roles of Citation Network, Semantic Linkages, and Intellectual Property Protection. Submitted to Research Policy.
