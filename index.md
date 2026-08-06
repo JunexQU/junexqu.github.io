@@ -8,12 +8,12 @@ layout: page
 
 Here is **Junxi Qu (Junex, 曲峻熙)**.
 
-I'm a PhD candidate majoring in **DUPAD** at the University of Hong Kong, advised by [Prof. Tianren Yang](https://scholar.google.com.hk/citations?hl=zh-CN&user=uAMK7LcAAAAJ).
+I'm a PhD researcher majoring in multimodal urban sensing and AI-driven urban simulation, advised by [Prof. Tianren Yang](https://scholar.google.com.hk/citations?hl=zh-CN&user=uAMK7LcAAAAJ) at The University of Hong Kong and Prof. Si Qiao at The Hong Kong University of Science and Technology (Guangzhou).
 
-If your are interested in any aspect of me, I would love to chat and collaborate, please email me at - *qujunxi@connect.hku.hk*
+If your are interested in any aspect of me, I would like to chat and collaborate, please email me at - *qujunxi@connect.hku.hk*
 
 ## Academic Background
-- **Sep 2022 - Present:** PhD, The University of Hong Kong
+- **Sep 2022 - Jul 2026:** PhD, The University of Hong Kong
 - **Sep 2018 - Jan 2021:** Dongbei University of Finance and Economics (ME)
 - **Sep 2014 - Jun 2018:** Dongbei University of Finance and Economics (BE)
 
@@ -38,4 +38,5 @@ It is evolving toward a multimodal framework integrating remote sensing, street 
 ---
 
 ## News and Updates
+- **Jul 2026:** Graduated from HKU!
 - **Apr 2024:** Become PhD Candidate!
