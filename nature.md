@@ -106,6 +106,7 @@ title: Nature Review
 - [Guan, D., Wang, D., Hallegatte, S. et al. Global supply-chain effects of COVID-19 control measures. Nat Hum Behav 4, 577–587 (2020)](blogs/Guan2020.md)
 
 ### Nature Computational Science
+- [Yang, J., Huang, S., Huang, Z. et al. Transferable human mobility network reconstruction with neuroGravity. Nat Comput Sci 6, 630–641 (2026)](blogs/NatCS/Yang NatCS 202606.md)
 - [Xu, Y., Olmos, L.E., Mateo, D. et al. Urban dynamics through the lens of human mobility. Nat Comput Sci 3, 611–620 (2023)](blogs/NatCS/Xu NatCS 202307.md)
 - [Xu, F., Li, Y., Jin, D. et al. Emergence of urban growth patterns from human mobility behavior. Nat Comput Sci 1, 791–800 (2021)](blogs/NatCS/Xu NatCS 202109.md)
 
