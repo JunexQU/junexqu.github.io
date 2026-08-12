@@ -139,6 +139,7 @@ title: Nature Review
 - [Milovanoff, A., Posen, I.D. & MacLean, H.L. Electrification of light-duty vehicle fleet alone will not meet mitigation targets. Nat. Clim. Chang. 10, 1102–1107 (2020)](blogs/Milovanoff 2020.md)
 
 ### Nature Cities
+- [Brown, J.R., Kenny, C.T. & Simko, T. City racial segregation statistics are robust to aggregation bias. Nat Cities 3, 618–628 (2026)](blogs/NatCit/Brown NatCit 202606.md)
 - [Zimmer, A., Brooks, N., Gaughan, A.E. et al. Global divergence in urban demographic change and migration patterns. Nat Cities 3, 599–607 (2026)](blogs/NatCit/Zimmer NatCit 202605.md)
 - [Arora, N., Bayen, A., Cabannes, T. et al. Urban congestion relief experiments through routing-app interventions. Nat Cities 3, 591–598 (2026)](blogs/NatCit/Arora NatCit 202606.md)
 - [Duran-Sala, M., Hendrick, M. & Manoli, G. Scaling intra-urban climate fluctuations. Nat Cities 3, 545–554 (2026)](blogs/NatCit/Duran-Sala NatCit 202605.md)
