@@ -51,6 +51,7 @@ title: Science & PNAS Review
 - [**Barrington-Leigh, Christopher, and Adam Millard-Ball. Global trends toward urban street-network sprawl. Proceedings of the National Academy of Sciences 117.4 (2020)**](science/Barrington PNAS2020.md)
 
 ## Nature Communication 2026
+- [Tian, Z., Zhang, C., Li, W. et al. Structural inequality shapes the daily rhythm of stationarity and mobility. Nat Commun 17, 9006 (2026)](science/NatCom/Tian NatCom 202607.md)
 - [Peraza-Mues, G.G., Resendiz, E., Figueroa-Soriano, R. et al. Scaling and Population Loss in Mexican Urban Centres. Nat Commun (2026)](science/NatCom/Peraza-Mues NatCom 202607.md)
 - [Vo, K.D., Ham, S.W., Roy, M. et al. Uncovering latent urban mobility patterns via smart-card and survey data fusion. Nat Commun (2026)](science/NatCom/Vo NatCom 202606.md)
 - [Greene, J.H., Gidden, M.J., Brutschin, E. et al. Drivers of technology diffusion speed in countries. Nat Commun (2026)](science/NatCom/Greene NatCom 202606.md)
