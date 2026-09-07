@@ -141,6 +141,7 @@ title: Nature Review
 - [Milovanoff, A., Posen, I.D. & MacLean, H.L. Electrification of light-duty vehicle fleet alone will not meet mitigation targets. Nat. Clim. Chang. 10, 1102–1107 (2020)](blogs/Milovanoff 2020.md)
 
 ### Nature Cities
+- [Fan, Z., Loo, B.P.Y., Duarte, F. et al. Hidden patterns of urban mixing across five global cities. Nat Cities 3, 745–755 (2026)](blogs/NatCit/Fan NatCit 202607.md)
 - [Koling, A., Michalek, J., Armanios, D. et al. Effects of Uber and Lyft on jobs, wages and GDP. Nat Cities 3, 700–707 (2026)](blogs/NatCit/Koling NatCit 202607.md)
 - [Liu, J., Zheng, L., Du, H. et al. Intercity inequality in carbon emission reductions from vehicle electrification in China. Nat Cities 3, 629–641 (2026)](blogs/NatCit/Liu NatCit 202606.md)
 - [Brown, J.R., Kenny, C.T. & Simko, T. City racial segregation statistics are robust to aggregation bias. Nat Cities 3, 618–628 (2026)](blogs/NatCit/Brown NatCit 202606.md)
