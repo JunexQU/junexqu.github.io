@@ -112,6 +112,7 @@ title: Nature Review
 - [Xu, F., Li, Y., Jin, D. et al. Emergence of urban growth patterns from human mobility behavior. Nat Comput Sci 1, 791–800 (2021)](blogs/NatCS/Xu NatCS 202109.md)
 
 ### Nature Climate Change
+- [Emerton, R., Nicolas, J., Lombardi, A. et al. Global heat stress intensification and its expanding footprint on the human population. Nat. Clim. Chang. 16, 989–996 (2026)](blogs/NatNCC/Emerton NCC 202606.md)
 - [Chancel, L., Rehm, Y. Global inequalities in ownership-based carbon footprints. Nat. Clim. Chang. 16, 781–789 (2026)](blogs/NatNCC/Chancel NatNCC 202606.md)
 - [Wang, J., Wang, P., Hsu, SC. et al. International trade reduces emissions through technology transfer led by key emitters. Nat. Clim. Chang. 16, 451–459 (2026)](blogs/NatNCC/Wang NatNCC 202603.md)
 - [Chen, S., Liu, Y., Yi, Y. et al. Long-term impacts of heatwaves on accelerated ageing. Nat. Clim. Chang. 15, 1000–1007 (2025)](blogs/NatNCC/ChenS NatNCC 202508.md)
