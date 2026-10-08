@@ -10,9 +10,9 @@ title: Publications
 
 ## Under Review
 - **Junxi Qu**, & Si Qiao. Deep Learning Global Commuting Geography. In Progress.
-- **Junxi Qu**, & Si Qiao. Individual Inequalities in Travel Carbon Emissions across the United States. In Progress.
+- **Junxi Qu**, & Si Qiao. Individual Inequalities in Travel Carbon Emissions across the United States. Draft.
 - **Junxi Qu**, Tianren Yang, & Si Qiao. Predictability Analysis of Individual Activity Chains via Multimodal Urban Sensing and Spatiotemporal Neural Networks. Submitted to Neurocomputing.
-- Chen, Lv, Xu, & **Qu***. Dual Dimensions of Innovation Activity and Entrepreneurial Entry: The Roles of Citation Network, Semantic Linkages, and Intellectual Property Protection. Submitted to Research Policy.
+- Chen, Lv, Xu, & **Qu***. Dual Dimensions of Innovation Activity and Entrepreneurial Entry: The Roles of Citation Network, Semantic Linkages, and Intellectual Property Protection. Under Review in Research Policy.
 - **Junxi Qu** & Si Qiao. Emergent scaling laws of global commuting shaped by coupled spatial constraints. Prepared to submit.
 - Si Qiao, **Junxi Qu**, Alex Chow; Sarah-Eve Dill; Anthony Gar-On Yeh. Residential Relocation and Cross-Income Exposure in Daily Life. *Under Review in Journal of Urban Economics*.
 - **Junxi Qu** & Si Qiao. Measuring Social–Spatial Segregation. *Under review in Computers, Environment and Urban Systems*.
@@ -23,7 +23,8 @@ title: Publications
 - **Junxi Qu** & Si Qiao. How Urban Vitality Shapes Cycling Behaviour in the Age of Dock-less Shared Bikes. *Under Review in Cities*.
 
 ## Journal Article
-- **Junxi Qu**, Lingkun Meng & Tianren Yang. Predicting Urban Futures: Paradigm Shifts in Urban Modelling from Lowry to Artificial Intelligence. Progress in Human Geography. (Accept)
+- **Qu, J.,** & Qiao, S. (2026). How Urban Vitality Shapes Cycling Behaviour in the Age of Dock-less Shared Bikes. Transactions in Urban Data, Science, and Technology. (Accept)
+- **Qu, J.,** Meng, L., & Yang, T. (2026). Predicting urban futures: Epistemic shifts and the governance of uncertainty. Progress in Human Geography, 03091325261472137. 
 - **Qu, J.,** & Qiao, S. (2026). What does a resilient city look like? A mobility lens on functional reconfiguration. Transportmetrica B: Transport Dynamics, 14(1), 2659112.
 - **Qu, J.,** Ma, X., Zhou, Y., Chen, X., & Yang, T. (2025). Fine-grained analysis of transport-demographic relationships: County-level responses to multimodal connectivity across metropolitan and peripheral China. Transportation Research Part A: Policy and Practice, 199, 104572.
 - **Qu, J.,** Yang, T., Nam, K. M., Kim, E., Chen, Y., & Liu, X. (2024). Transport network changes and varying socioeconomic effects across China's Yangtze River Delta. Journal of Transport Geography, 121, 104051.
