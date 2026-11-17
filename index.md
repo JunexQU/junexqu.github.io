@@ -20,7 +20,8 @@ If your are interested in any aspect of me, I would like to chat and collaborate
 ---
 
 ## Employment
-- **Mar 2026 - Present:** Visiting Scholar, The Hong Kong University of Science and Technology (Guangzhou)
+- **Oct 2026 - Present:** Postdoctoral fellow, The Hong Kong University of Science and Technology (Guangzhou)
+- **Mar 2026 - Sep 2026:** Visiting Scholar, The Hong Kong University of Science and Technology (Guangzhou)
 - **Nov 2021 - Aug 2022:** Research Assistant, Department of Urban Planning and Design, HKU
 - **Dec 2019 - Oct 2021:** Policy Analyst, Peking University-Lincoln Institute Center for Urban Development and Land Policy
 
@@ -36,7 +37,6 @@ My research uses mobile phone and transport data to analyse urban systems.
 It is evolving toward a multimodal framework integrating remote sensing, street view imagery, surveys, buildings, and weather data.
 
 ---
-
 ## News and Updates
 - **Jul 2026:** Graduated from HKU!
 - **Apr 2024:** Become PhD Candidate!
