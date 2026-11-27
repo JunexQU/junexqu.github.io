@@ -9,18 +9,17 @@ title: Publications
 - **Junxi Qu & Tianren Yang**. Working population by workplace and residence geography in China. **Drafted**.
 
 ## Under Review
-- **Junxi Qu**, & Si Qiao. Deep Learning Global Commuting Geography. In Progress.
-- **Junxi Qu**, & Si Qiao. Individual Inequalities in Travel Carbon Emissions across the United States. Draft.
-- **Junxi Qu**, Tianren Yang, & Si Qiao. Predictability Analysis of Individual Activity Chains via Multimodal Urban Sensing and Spatiotemporal Neural Networks. Submitted to Neurocomputing.
-- Chen, Lv, Xu, & **Qu***. Dual Dimensions of Innovation Activity and Entrepreneurial Entry: The Roles of Citation Network, Semantic Linkages, and Intellectual Property Protection. Under Review in Research Policy.
+- **Junxi Qu**, & Si Qiao. Global geography of daily commuting using transferable deep learning. Submitted to *Nature Computational Science*.
+- **Junxi Qu**, & Si Qiao. Individual Inequalities in Travel Carbon Emissions across the United States. Submitted to *Nature Sustainability*.
+- **Junxi Qu**, Tianren Yang, & Si Qiao. Predictability Analysis of Individual Activity Chains via Multimodal Urban Sensing and Spatiotemporal Neural Networks. Submitted to *Neurocomputing*.
+- Chen, Lv, Xu, & **Qu***. Dual Dimensions of Innovation Activity and Entrepreneurial Entry: The Roles of Citation Network, Semantic Linkages, and Intellectual Property Protection. Under Review in *Research Policy*.
 - **Junxi Qu** & Si Qiao. Emergent scaling laws of global commuting shaped by coupled spatial constraints. Prepared to submit.
-- Si Qiao, **Junxi Qu**, Alex Chow; Sarah-Eve Dill; Anthony Gar-On Yeh. Residential Relocation and Cross-Income Exposure in Daily Life. *Under Review in Journal of Urban Economics*.
-- **Junxi Qu** & Si Qiao. Measuring Social–Spatial Segregation. *Under review in Computers, Environment and Urban Systems*.
-- Qiao, **Qu**, Chen, Pradhananga, Chow, Grusky, & Yeh. (2025). Blurring the Line: How Jobs–Housing Location Trade-Offs Redefine Urban Boundaries. *Submited to Nature Communications*.
+- Si Qiao, **Junxi Qu**, Alex Chow; Sarah-Eve Dill; Anthony Gar-On Yeh. Residential Relocation and Cross-Income Exposure in Daily Life. Under Review in *Journal of Urban Economics*.
+- **Junxi Qu** & Si Qiao. Measuring Social–Spatial Segregation. Under review in *Computers, Environment and Urban Systems*.
+- Qiao, **Qu**, Chen, Pradhananga, Chow, Grusky, & Yeh. (2025). Blurring the Line: How Jobs–Housing Location Trade-Offs Redefine Urban Boundaries. Submited to *Nature Communications*.
 - **Junxi Qu** & Tianren Yang. Data-Driven Identification and Attribution of Core-Periphery Structure in Multi-Layer City Networks. *Submitted to AAAG*.
-- **Junxi Qu**, Lingkun Meng & Tianren Yang. Measuring Spatial Inequality using Multi-layer Urban Networks: Nationwide Evidence from Chinese Counties. *Under Review in Applied Geography*.
-- **Junxi Qu** & Tianren Yang. A Multi-Objective Deep Learning Model for Predicting Spatial Inequality Across Multi-Layer City Networks. *Under Review in Computers, Environment and Urban Systems*.
-- **Junxi Qu** & Si Qiao. How Urban Vitality Shapes Cycling Behaviour in the Age of Dock-less Shared Bikes. *Under Review in Cities*.
+- **Junxi Qu**, Lingkun Meng & Tianren Yang. Measuring Spatial Inequality using Multi-layer Urban Networks: Nationwide Evidence from Chinese Counties. Under Review in *Applied Geography*.
+- **Junxi Qu** & Tianren Yang. A Multi-Objective Deep Learning Model for Predicting Spatial Inequality Across Multi-Layer City Networks. Under Review in *Computers, Environment and Urban Systems*.
 
 ## Journal Article
 - **Qu, J.,** & Qiao, S. (2026). How Urban Vitality Shapes Cycling Behaviour in the Age of Dock-less Shared Bikes. Transactions in Urban Data, Science, and Technology. (Accept)
