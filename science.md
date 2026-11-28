@@ -51,6 +51,7 @@ title: Science & PNAS Review
 - [**Barrington-Leigh, Christopher, and Adam Millard-Ball. Global trends toward urban street-network sprawl. Proceedings of the National Academy of Sciences 117.4 (2020)**](science/Barrington PNAS2020.md)
 
 ## Nature Communication 2026
+- [Langle-Chimal, O.D., Knoblauch, S. & González, M.C. The WorkReach model for urban work location choices through economic complexity and informality. Nat Commun 17, 11422 (2026)](science/NatCom/Langle-Chimal NatCom 202610.md)
 - [Randhawa, S., Randhawa, G., Langer, C. et al. The changing surface of the world’s roads. Nat Commun 17, 9345 (2026)](science/NatCom/Randhawa NatCom 202609.md)
 - [Tian, Z., Zhang, C., Li, W. et al. Structural inequality shapes the daily rhythm of stationarity and mobility. Nat Commun 17, 9006 (2026)](science/NatCom/Tian NatCom 202607.md)
 - [Peraza-Mues, G.G., Resendiz, E., Figueroa-Soriano, R. et al. Scaling and Population Loss in Mexican Urban Centres. Nat Commun (2026)](science/NatCom/Peraza-Mues NatCom 202607.md)
